@@ -1,4 +1,4 @@
-# docu
+# PBS MiData Dokumentation
 Dieses Repository ist für die PBS spezifische Dokumentation von MiData (basierend auf hitobito) gedacht. 
 Funktionen: 
 * Wiki
