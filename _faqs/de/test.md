@@ -1,6 +1,6 @@
 ---
 title: "Deutsch"
-lang: de
+lang: "de"
 ---
 
 Bonschur

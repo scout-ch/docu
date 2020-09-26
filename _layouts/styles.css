@@ -7,6 +7,10 @@
     background-color: #521d3a !important;
 }
 
+.bg-secondary {
+	background-color: #632949 !important;
+}
+
 /* typography */
 
 a {
@@ -131,6 +135,7 @@ a.active {
 		color: white;
 		padding: 5rem 2.5rem;
 		border-radius: 0;
+		margin: 0;
 	}
 
 	.jumbotron h1 {
@@ -167,31 +172,63 @@ a.active {
 	}
 /*-- END Hero --*/
 
+
+/*-- Content --*/
+	.content {
+		padding: 1.2rem 2.5rem;
+	}
+/*-- Content --*/
+
+
 /*-- Footer --*/
+	.footer-bg {
+		background-image: url(pfadi-illu-footer.svg);
+		background-position: center center;
+		background-size: cover;
+		fill: #632949;
+		width: 100%;
+	}
 
-.footer-bg {
-	background-image: url(pfadi-illu-footer.svg);
-	background-position: center center;
-	background-size: cover;
-	fill: #632949;
-	width: 100%;
-}
+	.footer-lang {
+		padding: 0.6em;
+		padding-right: 9%;
+	}
 
-.footer-lang {
-	padding: 0.6em;
-	padding-right: 10%;
-}
+	.nav-pills .nav-link {
+		color: white;
+		opacity: 1;
+		margin: 0 5px;
+		padding: 0.9em 1.8em;
+	}
 
-.nav-pills .nav-link {
-	color: white;
-	opacity: 1;
-	margin: 0 5px;
-	padding: 0.9em 1.8em;
-}
+	.nav-pills .nav-link.active,
+	.nav-pills .nav-link::hover {
+	    color: #521d3a;
+	    background-color: white;
+	}
 
-.nav-pills .nav-link.active, .nav-pills .nav-link::hover {
-    background-color: white;
-	color: #521d3a;
-}
+	.footer-bottom {		
+		display: flex;
+		flex-wrap: wrap;
+		align-content: center;
+		justify-content: space-between;
+		align-items: center;
+		color: white;
+		padding: 1.2rem 2.5rem;
+	}
 
+	.footer-bottom p {
+		margin: 0;
+	}
+
+	@media (max-width:660px) {
+		.nav-pills .nav-link {
+			padding: 0.6em 1.2em;
+			margin: 0 3px;
+			font-size: 0.8rem;
+		}
+		.footer-bottom {
+			font-size: 0.8rem;
+		}
+	}
 /*-- END Footer --*/
