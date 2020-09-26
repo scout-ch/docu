@@ -29,7 +29,7 @@ permalink: none
 sass:
   # loading path from site root
   # default to _sass
-  sass_dir: _sass
+  # sass_dir: _sass
 
   # style : nested (default), compact, compressed, expanded
   #         :nested, :compact, :compressed, :expanded also works
@@ -44,6 +44,16 @@ sass:
 #       path: '_posts'
 #     values:
 #       layout: 'tool'
+
+collections:
+  - faqs
+
+defaults:
+  scope:
+    path: "_faqs/fr"
+  values:
+    permalink: "/fr/produits/:title"
+    lang: "fr"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
