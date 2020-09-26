@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    image: 'ruby:2.6'
+    environment:
+      BUNDLE_PATH: /app/vendor/bundle
+      GEM_HOME: /usr/local/bundle
+    working_dir: /app
+    volumes:
+      - './:/app'
+      - bundle:/app/vendor/bundle
+      - gems:/usr/local/bundle
+    ports:
+      - "4000:4000"
+    command: ['bundle', 'exec', 'jekyll', 'serve', '--host=0.0.0.0']
+
+volumes:
+  bundle:
+  gems:
+
