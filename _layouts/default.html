@@ -13,80 +13,22 @@
     />
     <link href="{{ '/styles.css' | relative_url }}" rel="stylesheet" />
     <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+      crossorigin="anonymous"
+    ></script>
+    <script
       src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"
       integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf"
       crossorigin="anonymous"
     ></script>
   </head>
   <body>
-    <header class="page-header">
-      <div class="container clearfix">
-        <a class="logo" href="/">
-          <img
-            alt="Pfadibewegung Schweiz"
-            src="/assets/pfadibewegung-schweiz-logo-62357d1fd92dd502e5dc394e72e9939f.svg"
-          />
-        </a>
-
-        <button id="btn-menu" type="button" class="btn-icon">
-          <svg
-            aria-hidden="true"
-            focusable="false"
-            role="img"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 448 512"
-          >
-            <path
-              fill="currentColor"
-              d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"
-            ></path>
-          </svg>
-        </button>
-
-        <div class="navigation">
-          <nav class="links">
-            <ul>
-              <li>
-                <a href="" target="_blank" rel="noopener">Hilfe</a>
-              </li>
-            </ul>
-          </nav>
-
-          <div class="functions">
-            <nav class="language-switch">
-              <ul>
-                <li><a href="?lang=de">DE</a></li>
-                <li><a href="?lang=fr">FR</a></li>
-                <li><a href="?lang=it">IT</a></li>
-                <li><a href="?lang=en">EN</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
-      </div>
-    </header>
-
+    <ul>
+      <li><a href="/faq">FAQ</a></li>
+    </ul>
     <main role="main">
       <div class="container">{{ content }}</div>
     </main>
-
-    <footer class="page-footer">
-      <div class="container">
-        <div class="col-block col-2">
-          <div class="col">
-            <strong>© 2020 Pfadibewegung Schweiz</strong>
-          </div>
-
-          <div class="col text-right">
-            <nav class="links">
-              <ul>
-                <li><a href="">Datenschutz</a></li>
-                <li><a href="">Impressum</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
-      </div>
-    </footer>
   </body>
 </html>
