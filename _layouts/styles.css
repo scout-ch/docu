@@ -1,0 +1,197 @@
+/* custom CSS-File */
+/*-----------------*/
+
+/* colors */
+
+.bg-primary {
+    background-color: #521d3a !important;
+}
+
+/* typography */
+
+a {
+    color: white;
+    opacity: 0.5;
+}
+
+a:focus,
+a:hover,
+a:active,
+a.active {
+	color: white;
+  	opacity: 1;
+}
+
+/* display, position */
+
+.f-grow {
+	flex-grow: 2;
+}
+
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+/*-- Header --*/
+
+	header {
+		overflow: hidden;
+	}
+
+	.navbar-brand {
+		opacity: 1;
+	    margin-left: -40px;
+	    position: relative;
+	}
+
+	.navbar-brand::after {
+	 content:"";
+	 position:absolute;
+	 top:0;
+	 left:0;
+	 width:64px;
+	 height:40px;
+	 background:#521d3a;
+	}
+
+	.navbar {
+		flex-grow: 2;
+		padding: 0.1rem 0.5rem;
+	}
+
+	@media (min-width:660px) {
+		.navbar-brand {
+			margin-left:-54px;
+		}
+		.navbar-brand::after {
+			width:84px;
+			height:50px;
+		}
+	}
+	@media (min-width:860px) {
+		.navbar-brand {
+			margin-left: 4%;
+			margin-top: 10px;
+	    	margin-bottom: 10px;
+		}
+		.navbar-brand::after {
+			display:none
+		}
+	}
+	@media (min-width:1100px) {
+		.navbar-brand {
+			margin-left: 5%;
+		}
+	}
+
+	.navbar-brand img {
+	    width: 120px;
+	}
+
+	.navbar-nav {
+		justify-content: space-evenly;
+		width: 100%;
+	}
+
+	.navbar-collapse {
+		margin-right: 10%;
+	}
+
+	@media (min-width: 660px) {
+		.navbar-brand img {
+		    width: 160px;
+		}
+	}
+
+	@media (min-width: 860px) {
+		.navbar-brand img {
+		    height: 70px;
+		    width: auto;
+		}
+	}
+
+	@media (min-width: 1100px) {
+		.navbar-brand img {
+		    height: 100px;
+		}
+	}
+/*-- END Header --*/
+
+
+/*-- Hero --*/
+	.jumbotron {
+		background-image: url(pfadi-illu.svg);
+		background-position: center center;
+		background-size: cover;
+		background-color: #632949;
+		width: 100%;
+		position: relative;
+		color: white;
+		padding: 5rem 2.5rem;
+		border-radius: 0;
+	}
+
+	.jumbotron h1 {
+		font-size:2.5rem;
+		font-weight: 600;
+	}
+	.jumbotron p {
+		font-size: 1.5rem;
+	}
+	@media (min-width:660px) {
+		.jumbotron h1 {
+			font-size: 3rem;
+		}
+		.jumbotron p {
+			font-size: 1.6rem;
+		}
+	}
+	@media (min-width:860px) {
+		.jumbotron h1 {
+			font-size: 3.5rem;
+			font-weight: 700;
+		}
+		.jumbotron p {
+			font-size: 1.8rem;
+		}
+	}
+	@media (min-width:1100px) {
+		.jumbotron h1 {
+			font-size: 4rem;
+		}
+		.jumbotron p {
+			font-size: 2.1rem;
+		}
+	}
+/*-- END Hero --*/
+
+/*-- Footer --*/
+
+.footer-bg {
+	background-image: url(pfadi-illu-footer.svg);
+	background-position: center center;
+	background-size: cover;
+	fill: #632949;
+	width: 100%;
+}
+
+.footer-lang {
+	padding: 0.6em;
+	padding-right: 10%;
+}
+
+.nav-pills .nav-link {
+	color: white;
+	opacity: 1;
+	margin: 0 5px;
+	padding: 0.9em 1.8em;
+}
+
+.nav-pills .nav-link.active, .nav-pills .nav-link::hover {
+    background-color: white;
+	color: #521d3a;
+}
+
+/*-- END Footer --*/

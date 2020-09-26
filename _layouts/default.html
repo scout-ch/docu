@@ -11,7 +11,8 @@
       integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
       crossorigin="anonymous"
     />
-    <link href="{{ '/styles.css' | relative_url }}" rel="stylesheet" />
+    <link href="{{ 'styles.css' | relative_url }}" rel="stylesheet" />
+    <link href="styles.css" rel="stylesheet" />
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -24,11 +25,53 @@
     ></script>
   </head>
   <body>
-    <ul>
-      <li><a href="/faq">FAQ</a></li>
-    </ul>
-    <main role="main">
-      <div class="container">{{ content }}</div>
-    </main>
+    <div class="container-lg">
+      <header class="navbar navbar-dark bg-primary">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+          <a class="navbar-brand" href="/">
+            <img alt="Logo" src="logo.svg">
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMainMenu" aria-controls="navbarMainMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div id="navbarMainMenu" class="collapse navbar-collapse mr-10">          
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                <a class="nav-link active" href="/">Einstieg</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/doku">Doku</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/faq">FAQ</a>
+              </li>
+            </ul>
+          </div>
+        </nav>  
+      </header>
+
+      <main role="main">
+        <div class="jumbotron">
+          <h1>{{ site.title }}</h1>
+          <p class="lead">{{ site.lead }}</p>
+        </div>
+        <div class="container">{{ content }}</div>
+      </main>
+
+      <footer>
+        <div class="footer-bg"></div>
+        <div class="footer-lang bg-primary">
+            <ul class="nav nav-pills justify-content-end">
+              <li class="nav-item"><a class="nav-link active" href="#">Deutsch</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">Français</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">Italiano</a></li>
+              <li class="nav-item"><a class="nav-link" href="#">English</a></li>
+            </ul>
+        </div>
+        <div class="footer-bottom"></div>
+      </footer>
+    </div>    
   </body>
 </html>
