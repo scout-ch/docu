@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ page.title }}</title>
+    <title>{{ site.title_de }}</title>
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
@@ -39,13 +39,13 @@
           <div id="navbarMainMenu" class="collapse navbar-collapse mr-10">          
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link {% if page == 'index' %}active{% endif %}" href="/">Einstieg</a>
+                <a class="nav-link {% if page.slug == "intro" %}active{% endif %}" href="/">Einstieg</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link {% if page == 'dokumentation' %}active{% endif %}" href="/doku">Doku</a>
+                <a class="nav-link {% if page.slug == "articles" %}active{% endif %}" href="/doku">Doku</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link {% if page == 'faq' %}active{% endif %}" href="/faq">FAQ</a>
+                <a class="nav-link {% if page.slug == "faqs" %}active{% endif %}" href="/faq">FAQ</a>
               </li>
             </ul>
           </div>
@@ -54,8 +54,8 @@
 
       <main role="main">
         <div class="jumbotron">
-          <h1>{{ page.title }}</h1>
-          <p class="lead">{{ page.description }}</p>
+          <h1>{{ site.title_de }}</h1>
+          <p class="lead">{{ site.desc_de }}</p>
         </div>
         <div class="content">{{ content }}</div>
       </main>
@@ -64,10 +64,10 @@
         <div class="footer-bg"></div>
         <div class="footer-lang bg-secondary">
             <ul class="nav nav-pills justify-content-end">
-              <li class="nav-item"><a class="nav-link {% if site.lang == 'de' %}active{% endif %}" href="#">Deutsch</a></li>
-              <li class="nav-item"><a class="nav-link {% if site.lang == 'fr' %}active{% endif %}" href="#">Français</a></li>
-              <li class="nav-item"><a class="nav-link {% if site.lang == 'it' %}active{% endif %}" href="#">Italiano</a></li>
-              <li class="nav-item"><a class="nav-link {% if site.lang == 'en' %}active{% endif %}" href="#">English</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="/de/">Deutsch</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="/fr/">Français</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="/it/">Italiano</a></li>
+              <li class="nav-item"><a class="nav-link {% if page.lang == "en" %}active{% endif %}" href="/en/">English</a></li>
             </ul>
         </div>
         <div class="footer-bottom d-flex bg-primary">

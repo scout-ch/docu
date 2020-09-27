@@ -1,10 +1,7 @@
 ---
-title: MiData - Dokumentation
-description: Dokumentation zur MiData
-layout: default
-
+title: Warum gibt es ein Test FAQ?
+slug: faq1
 lang: de
-page_title: "Warum gibt es ein Test FAQ?"
 ---
 
 Damit man weiss, ob es funktioniert...

@@ -1,19 +1,14 @@
 ---
-title: MiData - Dokumentation
-description: Dokumentation zur MiData
-layout: default
-
+title: "Dokumentation"
+slug: articles
 lang: de
-page_title: "Dokumentation"
 ---
-
+<p>Verfügbare Artikel in der Doku:</p>
+<ul>
 {% assign articles = site.articles | where: "lang", "de" %}
 {% for article in articles %}
 
-# {{ article.title }}
-
-{{ article.content}}
-
-[Go to Article]({{ article.permalink }})
+	<li><a href="{{ article.permalink }}">{{ article.title }}</a></li>
 
 {% endfor %}
+</ul>

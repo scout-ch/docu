@@ -13,9 +13,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PBS Midata
-description: >
-  Midata
+title_de: PBS MiData - Dokumentation
+desc_de: Offizielle Dokumentation für die MiData der PBS
+
+title_en: PBS MiData - Documentation
+desc_en: Official documentation for the MiData of PBS
+
+title_fr: PBS MiData - Documentation
+desc_fr: Documentation officielle pour les MiData du PBS
+
+title_it: PBS MiData - Documentazione
+desc_it: Documentazione ufficiale per i MiData di PBS
+
+menuItem_1_de: Einstieg
+menuItem_2_de: Handbuch
+menuItem_3_de: FAQ
+
+menuItem_1_en: Introduction
+menuItem_2_en: Manual
+menuItem_3_en: FAQ
+
+menuItem_1_fr: Initiation
+menuItem_2_fr: Manuel
+menuItem_3_fr: FAQ
+
+menuItem_1_it: Iscrizione
+menuItem_2_it: Manuale
+menuItem_3_it: FAQ
+
 # baseurl: ''
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -23,6 +48,9 @@ description: >
 markdown: kramdown
 
 # plugins:
+
+# You need to have this extra permalink_custom_vars array to tell the plugin which substitutions to make
+permalink_custom_vars: ['lang']
 
 permalink: none
 
@@ -54,10 +82,17 @@ collections:
     output: true
 
 defaults:
-  scope:
-    path: "_faqs"
-  values:
-    permalink: "/:lang/faq/:title"
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: "_faqs"
+    values:
+      permalink: "/:lang/faq/:slug"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
