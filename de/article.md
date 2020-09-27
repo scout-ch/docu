@@ -1,4 +1,16 @@
---- 
+---
+title: Dokumentation
+layout: default
+lang: de
 ---
 
-{% for col in site.faqs %} - {{ col.title }} {% endfor %}
+{% assign articles = site.articles | where: "lang", "de" %}
+{% for article in articles %}
+
+# {{ article.title }}
+
+{{ article.content}}
+
+[Go to Article]({{ article.permalink }})
+
+{% endfor %}

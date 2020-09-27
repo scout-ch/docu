@@ -1,4 +1,7 @@
---- 
+---
+title: FAQ
+layout: default
+lang: de
 ---
 
 {% assign faqs = site.faqs | where: "lang", "de" %}

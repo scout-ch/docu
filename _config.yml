@@ -48,6 +48,10 @@ sass:
 collections:
   faqs:
     output: true
+  articles:
+    output: true
+  introductions:
+    output: true
 
 defaults:
   scope:

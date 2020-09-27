@@ -1,8 +1,19 @@
 ---
+title: Einleitung
+layout: default
+lang: de
 ---
 
-# Startseite
+# Index-File
+(starting point for DE)
 
-- [Einstieg]({{ '/de/einstieg' | relative_url }})
-- [FAQ]({{ '/de/faq' | relative_url }})
-- [Dokumentation]({{ '/de/dokumentation' | relative_url }})
+{% assign introductions = site.introductions | where: "lang", "de" %}
+{% for introduction in introductions %}
+
+# {{ introduction.title }}
+
+{{ introduction.content}}
+
+[Go to Introduction]({{ introduction.permalink }})
+
+{% endfor %}
