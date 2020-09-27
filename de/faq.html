@@ -8,20 +8,22 @@ lang: de
 
 <div class="accordion" id="accordionFAQ">  
 	{% assign faqs = site.faqs | where: "lang", "de" %}
+	{% assign i = 1 %}
 	{% for faq in faqs %}
 		<div class="card">
-		    <div class="card-header" id="heading-{{ faq.id }}">
+		    <div class="card-header" id="heading-{{ i }}">
 		      <h3 class="faq-title">
-		        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ faq.id }}" aria-expanded="true" aria-controls="content-{{ faq.id }}">
+		        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ i }}" aria-expanded="true" aria-controls="content-{{ i }}">
 		          {{ faq.title }}
 		        </button>
 		      </h3>
 		    </div>
-		    <div id="content-1" class="collapse" aria-labelledby="heading-{{ faq.id }}" data-parent="#accordionFAQ">
+		    <div id="content-{{ i }}" class="collapse" aria-labelledby="heading-{{ i }}" data-parent="#accordionFAQ">
 		      <div class="card-body">
 		        {{ faq.content }}
 		      </div>
 		    </div>
 	  	</div>
+	  	{% i = i + 1 %}
 	{% endfor %}
 </div>
