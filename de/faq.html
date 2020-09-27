@@ -1,0 +1,27 @@
+---
+title: FAQ
+layout: default
+lang: de
+---
+
+<h2>{{ page.title }}</h2>
+
+<div class="accordion" id="accordionFAQ">  
+	{% assign faqs = site.faqs | where: "lang", "de" %}
+	{% for faq in faqs %}
+		<div class="card">
+		    <div class="card-header" id="heading-{{ faq.id }}">
+		      <h3 class="faq-title">
+		        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ faq.id }}" aria-expanded="true" aria-controls="content-{{ faq.id }}">
+		          {{ faq.title }}
+		        </button>
+		      </h3>
+		    </div>
+		    <div id="content-1" class="collapse" aria-labelledby="heading-{{ faq.id }}" data-parent="#accordionFAQ">
+		      <div class="card-body">
+		        {{ faq.content }}
+		      </div>
+		    </div>
+	  	</div>
+	{% endfor %}
+</div>
