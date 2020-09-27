@@ -46,14 +46,14 @@ sass:
 #       layout: 'tool'
 
 collections:
-  - faqs
+  faqs:
+    output: true
 
 defaults:
   scope:
-    path: "_faqs/fr"
+    path: "_faqs"
   values:
-    permalink: "/fr/produits/:title"
-    lang: "fr"
+    permalink: "/:lang/faq/:title"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

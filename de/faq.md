@@ -8,4 +8,6 @@
 
 {{ faq.content}}
 
+[Go to FAQ]({{ faq.permalink }})
+
 {% endfor %}
