@@ -1,10 +1,13 @@
 ---
-title: FAQ
+title: MiData - Dokumentation
+description: Dokumentation zur MiData
 layout: default
+
 lang: de
+page_title: "FAQ's"
 ---
 
-<h2>{{ page.title }}</h2>
+<h2>{{ page_title.title }}</h2>
 
 <div class="accordion" id="accordionFAQ">  
 	{% assign faqs = site.faqs | where: "lang", "de" %}
@@ -13,7 +16,7 @@ lang: de
 		    <div class="card-header" id="heading-{{ forloop.index }}">
 		      <h3 class="faq-title">
 		        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ forloop.index }}" aria-expanded="true" aria-controls="content-{{ forloop.index }}">
-		          {{ faq.title }}
+		          {{ faq.page_title }}
 		        </button>
 		      </h3>
 		    </div>
