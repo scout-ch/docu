@@ -1,0 +1,16 @@
+---
+title: "Dokumentation"
+slug: articles
+lang: de
+active-nav: articles
+---
+
+<p>Verfügbare Artikel in der Doku:</p>
+<ul>
+  {% assign articles = site.articles | where: "lang", "de" %} {% for article in
+  articles %}
+
+  <li><a href="{{ article.permalink }}">{{ article.title }}</a></li>
+
+  {% endfor %}
+</ul>

@@ -6,4 +6,4 @@ lang: de
 
 Damit man weiss, ob es funktioniert...
 
-![tesla](tesla_roadster.jpg)
+![tesla]({{ "/faqs/de/test/tesla_roadster.jpg" | relative_url }})

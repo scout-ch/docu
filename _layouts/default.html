@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ page.lang }}">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -25,60 +25,37 @@
     ></script>
   </head>
   <body>
-    <div class="container-lg">
-      <header class="navbar navbar-dark bg-primary">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-          <a class="navbar-brand" href="/">
-            <img alt="Logo" src="{{ 'assets/logo.svg' | relative_url }}">
-          </a>
+<div class="container-lg">
+  <header class="navbar navbar-dark bg-primary">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+      <a class="navbar-brand" href="/">
+        <img alt="Logo" src="{{ 'assets/logo.svg' | relative_url }}">
+      </a>
 
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMainMenu" aria-controls="navbarMainMenu" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMainMenu" aria-controls="navbarMainMenu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-          <div id="navbarMainMenu" class="collapse navbar-collapse mr-10">          
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-                <a class="nav-link {% if page.slug == "intro" %}active{% endif %}" href="/">Einstieg</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link {% if page.slug == "articles" %}active{% endif %}" href="/doku">Doku</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link {% if page.slug == "faqs" %}active{% endif %}" href="/faq">FAQ</a>
-              </li>
-            </ul>
-          </div>
-        </nav>  
-      </header>
+      {% include {{ page.lang }}/main_nav.html %}
+    </nav>  
+  </header>
 
-      <main role="main">
-        <div class="jumbotron">
-          <h1>{{ site.title_de }}</h1>
-          <p class="lead">{{ site.desc_de }}</p>
-        </div>
-        <div class="content">{{ content }}</div>
-      </main>
+  <main role="main">
+    {{ content }}
+  </main>
 
-      <footer>
-        <div class="footer-bg"></div>
-        <div class="footer-lang bg-secondary">
-            <ul class="nav nav-pills justify-content-end">
-              <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="/de/">Deutsch</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="/fr/">Français</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="/it/">Italiano</a></li>
-              <li class="nav-item"><a class="nav-link {% if page.lang == "en" %}active{% endif %}" href="/en/">English</a></li>
-            </ul>
-        </div>
-        <div class="footer-bottom d-flex bg-primary">
-          <p class="copyright justify-content-start">&copy; {{ 'now' | date: "%Y" }} Pfadibewegung Schweiz</p>
-          <ul class="nav justify-content-end">
-            <li class="nav-item"><a class="nav-link" href="#">Kontakt</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Impressum</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">MiData</a></li>
-          </ul>
-        </div>
-      </footer>
-    </div>    
+  <footer>
+    <div class="footer-bg"></div>
+    <div class="footer-lang bg-secondary">
+        <ul class="nav justify-content-end">
+          <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="/de/">Deutsch</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="/fr/">Français</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="/it/">Italiano</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "en" %}active{% endif %}" href="/en/">English</a></li>
+        </ul>
+    </div>
+    {% include {{ page.lang}}/footer.html %}
+  </footer>
+</div>    
   </body>
 </html>
