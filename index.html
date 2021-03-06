@@ -1,7 +1,16 @@
 ---
-layout: none
+title: "Einstieg"
+ident: intro
+lang: de
 ---
 
-<script>
-  window.location = "{{ '/de' | relative_url }}";
-</script>
+<h2>{{ page.title }}</h2>
+
+{% assign introductions = site.introductions | where: "lang", "de" %}
+{% for introduction in introductions %}
+
+	<h3>{{ introduction.title }}</h3>
+	<p>{{ introduction.content}}</p>
+	<br/>
+
+{% endfor %}

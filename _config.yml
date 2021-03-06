@@ -49,6 +49,9 @@ markdown: kramdown
 
 # plugins:
 
+# You need to have this extra permalink_custom_vars array to tell the plugin which substitutions to make
+permalink_custom_vars: ['lang']
+
 permalink: none
 
 sass:
@@ -79,20 +82,17 @@ collections:
     output: true
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
     values:
       layout: default
-  - scope:
-      path: "_faqs/de"
+  -
+    scope:
+      path: "_faqs"
     values:
-      permalink: "/de/faq/:slug"
-      lang: de
-  - scope:
-      path: "_faqs/fr"
-    values:
-      permalink: "/fr/faq/:slug"
-      lang: fr
+      permalink: "/:lang/faq/:slug"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
