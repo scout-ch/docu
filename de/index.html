@@ -9,7 +9,7 @@ lang: de
 
 <ul class="nav nav-tabs">
   {% for introduction in introductions %}
-    <li{% if forloop.index == 1 %} class="active"{% endif %}><a data-toggle="tab" href="#tab-{{ forloop.index }}">{{ introduction.title }}</a></li>
+    <li class="nav-item"><a class="nav-link {% if forloop.index == 1 %} active{% endif %}" data-toggle="tab" href="#tab-{{ forloop.index }}">{{ introduction.title }}</a></li>
   {% endfor %}
 </ul>
 
