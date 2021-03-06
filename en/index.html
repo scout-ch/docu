@@ -1,11 +1,14 @@
 ---
-title: "English"
-slug: intro
+title: "Entrance"
+subtitle: "Videos for the individual users"
+slug: home
 lang: en
-active-nav: home
 ---
 
-<div class="jumbotron">
-  <h1>{{ page.title }}</h1>
-  <p class="lead">Bonjour</p>
-</div>
+{% assign introductions = site.introductions | where: "lang", "en" %}
+{% for introduction in introductions %}
+
+  <h3>{{ introduction.title }}</h3>
+  <p>{{ introduction.content}}</p>
+  <br />
+{% endfor %}

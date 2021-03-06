@@ -1,13 +1,13 @@
-<div id="navbarMainMenu" class="collapse navbar-collapse mr-10">          
+<div id="navbarMainMenu" class="collapse navbar-collapse mr-10">
   <ul class="navbar-nav mr-auto">
     <li class="nav-item">
-      <a class="nav-link {% if page.slug == "home" %}active{% endif %}" href="/de/">Einstieg</a>
+      <a class="nav-link {% if page.slug == "home" %}active{% endif %}" href="{{ site.baseurl }}de/">Einstieg</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link {% if page.slug == "articles" %}active{% endif %}" href="/de/articles">Dokumentation</a>
+      <a class="nav-link {% if page.slug == "articles" %}active{% endif %}" href="{{ site.baseurl }}de/dokumentation">Dokumentation</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link {% if page.slug == "faqs" %}active{% endif %}" href="/de/faq">FAQ</a>
+      <a class="nav-link {% if page.slug == "faqs" %}active{% endif %}" href="{{ site.baseurl }}de/faq">FAQ</a>
     </li>
   </ul>
 </div>

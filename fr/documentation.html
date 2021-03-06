@@ -1,0 +1,20 @@
+---
+title: "Documentation"
+subtitle: "Articles disponibles dans le documentaire"
+slug: articles
+lang: fr
+---
+
+{% assign articles = site.articles | where: "lang", "fr" %}
+{% assign categories =  articles | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+{% for category in categories %}
+	<h3>{{ category.name | capitalize }}</h3>
+	{% assign posts = articles | where: "categories", category.name | sort: "date" | reverse  %}
+	<ul>
+		{% for article in posts %}
+			{% assign tags = article.tags %}
+			<li><a href="{{ article.url }}">{{ article.title }} ({{ page.relevance_title }} {{ article.relevance }})</a></li>
+		{% endfor %}
+	</ul>
+{% endfor %}
+

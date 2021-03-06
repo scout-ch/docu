@@ -25,9 +25,7 @@ desc_fr: Documentation officielle pour les MiData du PBS
 title_it: PBS MiData - Documentazione
 desc_it: Documentazione ufficiale per i MiData di PBS
 
-emptyArray: []
-
-# baseurl: ''
+baseurl: '/docu/'
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -70,25 +68,57 @@ defaults:
     values:
       layout: default
   - scope:
+      path: "de"
+    values:
+      relevance_title: "Relevant für:"
+  - scope:
+      path: "en"
+    values:
+      relevance_title: "Relevant for:"
+  - scope:
+      path: "fr"
+    values:
+      relevance_title: "Pertinent pour:"
+  - scope:
+      path: "it"
+    values:
+      relevance_title: "Rilevante per:"
+  - scope:
       path: "_articles/de"
     values:
       permalink: "/de/dokumentation/:slug"
       lang: de
+      articles: "dokumentation"
+      backlink: "Zurück zur Übersicht"
+      relevance_title: "Relevant für:"
+      layout: article
   - scope:
       path: "_articles/fr"
     values:
       permalink: "/fr/documentation/:slug"
       lang: fr
+      articles: "documentation"
+      backlink: "Retour à la vue d'ensemble"
+      relevance_title: "Pertinent pour:"
+      layout: article
   - scope:
       path: "_articles/it"
     values:
       permalink: "/it/doumentazione/:slug"
       lang: it
+      articles: "doumentazione"
+      backlink: "Torna alla panoramica"
+      relevance_title: "Rilevante per:"
+      layout: article
   - scope:
       path: "_articles/en"
     values:
       permalink: "/en/documentation/:slug"
       lang: en
+      articles: "documentation"
+      backlink: "Back to overview"
+      relevance_title: "Relevant for:"
+      layout: article
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
