@@ -2,7 +2,6 @@
 /*-----------------*/
 
 /* colors */
-
 .bg-primary {
     background-color: #521d3a !important;
 }
@@ -12,12 +11,10 @@
 }
 
 /* typography */
-
 a {
     color: white;
     opacity: 0.5;
 }
-
 a:focus,
 a:hover,
 a:active,
@@ -25,21 +22,55 @@ a.active {
 	color: white;
   	opacity: 1;
 }
+h2,h3,h4,h5,h6 {
+	color: #8c3c4f;
+	font-family: "Source Sans Pro",sans-serif;
+}
+h3 {
+	font-size: 35px;
+	margin: 10px;
+	padding-bottom: 0.4em
+}
+p, ul, li, a, span, div {
+	font-family: "Source Sans Pro",sans-serif;
+	line-height: 1.27;
+	font-size: 15px;
+}
+@media (min-width:660px) {
+	p, ul, li, a, span, div, h2 .btn {
+		font-size: 16.25px;
+	}
+}
+@media (min-width:860px) {
+	p, ul, li, a, span, div, h2 .btn {
+		font-size: 17.5px;
+	}
+}
+@media (min-width:1100px) {
+	p, ul, li, a, span, div, h2 .btn {
+		font-size: 18.75px;
+	}
+}
+@media (min-width:1300px) {
+	p, ul, li, a, span, div, h2 .btn {
+		font-size: 20px;
+	}
+}
 
 /* display, position */
-
 .f-grow {
 	flex-grow: 2;
 }
-
 .center {
 	text-align: center;
 	margin: 0 auto;
 }
+.right {
+	float: right;
+}
 
 
 /*-- Header --*/
-
 	header {
 		overflow: hidden;
 	}
@@ -174,12 +205,68 @@ a.active {
 
 
 /*-- Content --*/
+	.info {
+		padding: 1.2rem 2.5rem;
+		color: #fff;
+	}
+	ul {
+		margin: 0;
+		list-style: none;
+		padding: 0;
+	}
+	ul > li {
+		padding: 0.2rem 0;
+	}
+	.backlink {
+		padding: 1rem 0;
+		margin-bottom: 1rem;
+	}
 	.content {
 		padding: 1.2rem 2.5rem;
+		border: 2px solid #521d3a;
 	}
-
 	.content a {
-		color: #007bff;
+		color: #8c3c4f;
+	}
+	.nav-link {
+    padding: 0.8em 2em;
+	}
+	.nav-tabs {
+		border-bottom: 1px solid #acacac;
+	}
+	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-color: #acacac #acacac #eaeaea;
+	}
+	.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border-color: #acacac #acacac rgb(241, 241, 241);
+	}
+	.card {
+		background-color: initial;
+		border: 0;
+		border-bottom: 1px solid #000;
+		border-radius: 0;
+	}
+	#accordionFAQ {
+		margin: 1.5rem 0;
+	}
+	.accordion > .card:first-of-type {
+		border-top: 1px solid #000;
+		border-bottom: 1px solid #000;
+	}
+	.card-header {
+    padding: 0.3rem 0;
+    margin-bottom: 0;
+    background-color: initial;
+    border-bottom: 0;
+	}
+	.btn.focus, .btn:focus {
+    box-shadow: none;
+	}
+	.faq-title {
+		margin: 0;
+	}
+	.faq-title .btn {
+		color: #8c3c4f !important;
 	}
 /*-- Content --*/
 
@@ -211,7 +298,7 @@ a.active {
 	    background-color: white;
 	}
 
-	.footer-bottom {		
+	.footer-bottom {
 		display: flex;
 		flex-wrap: wrap;
 		align-content: center;

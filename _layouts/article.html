@@ -45,15 +45,17 @@
       <h1>{{ page.articles | capitalize }}</h1>
       <p class="lead">{{ page.title }} ({% for category in page.categories %}{{ category | capitalize}}{% endfor %})</p>
     </div>
-    <div class="info">
+    <div class="info bg-primary">
       <ul>
         <li class="relevance">{{ page.relevance_title }} {{ page.relevance }}</li>
       </ul>
     </div>
-    <div class="backlink">
-      <a href="{{ site.baseurl }}{{ page.lang }}/{{ page.articles }}">{{ page.backlink }}</a>
-    </div>
     <div class="content">
+      <div class="backlink">
+        <a href="{{ site.baseurl }}{{ page.lang }}/{{ page.articles }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+          <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
+        </svg> {{ page.backlink }}</a>
+      </div>
       {{ content }}
     </div>
   </main>
