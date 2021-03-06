@@ -25,7 +25,7 @@ desc_fr: Documentation officielle pour les MiData du PBS
 title_it: PBS MiData - Documentazione
 desc_it: Documentazione ufficiale per i MiData di PBS
 
-baseurl: '/docu/'
+baseurl: '/'
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -104,9 +104,9 @@ defaults:
   - scope:
       path: "_articles/it"
     values:
-      permalink: "/it/doumentazione/:slug"
+      permalink: "/it/documentazione/:slug"
       lang: it
-      articles: "doumentazione"
+      articles: "documentazione"
       backlink: "Torna alla panoramica"
       relevance_title: "Rilevante per:"
       layout: article

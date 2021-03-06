@@ -6,9 +6,18 @@ lang: de
 ---
 
 {% assign introductions = site.introductions | where: "lang", "de" %}
-{% for introduction in introductions %}
 
-  <h3>{{ introduction.title }}</h3>
-  <p>{{ introduction.content}}</p>
-  <br />
-{% endfor %}
+<ul class="nav nav-tabs">
+  {% for introduction in introductions %}
+    <li{% if forloop.index = 1 %} class="active"{% endif %}><a data-toggle="tab" href="#tab-{{ forloop.index }}">{{ introduction.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<div class="tab-content">
+  {% for introduction in introductions %}
+    <div id="tab-{{ forloop.index }}" class="tab-pane fade{% if forloop.index = 1 %} in active show{% endif %}">
+      <h3>{{ introduction.title }}</h3>
+      <p>{{ introduction.content}}</p>
+    </div>
+  {% endfor %}
+</div>
