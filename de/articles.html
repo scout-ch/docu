@@ -2,7 +2,6 @@
 title: "Dokumentation"
 slug: articles
 lang: de
-active-nav: articles
 ---
 
 <div class="jumbotron">
@@ -10,12 +9,17 @@ active-nav: articles
   <p class="lead">Verfügbare Artikel in der Doku</p>
 </div>
 <div class="content">
-  <ul>
-    {% assign articles = site.articles | where: "lang", "de" %} {% for article
-    in articles %}
 
-    <li><a href="{{ article.permalink }}">{{ article.title }}</a></li>
-
-    {% endfor %}
-  </ul>
+  <h3>Articles</h3>
+	{% assign articles = site.articles %}
+	{% assign categories =  articles | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+	{% for category in categories %}
+		<h4>{{ category.name | capitalize }}</h4>
+		{% assign posts = articles | where: "categories", category.name | sort: "date" | reverse  %}
+		<ul>
+			{% for article in posts %}
+					<li><a href="{{ article.url }}">{{ article.title }} ({{ article.date | date: "%B %-d, %Y" }})</a></li>
+			{% endfor %}
+		</ul>
+	{% endfor %}
 </div>

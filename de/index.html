@@ -1,8 +1,7 @@
 ---
 title: "Einstieg"
-slug: intro
+slug: home
 lang: de
-active-nav: home
 ---
 
 <div class="jumbotron">
@@ -17,8 +16,8 @@ active-nav: home
   allowfullscreen
 ></iframe>
 <div class="content">
-  {% assign introductions = site.introductions | where: "lang", "de" %} {% for
-  introduction in introductions %}
+  {% assign introductions = site.introductions | where: "lang", "de" %}
+  {% for introduction in introductions %}
 
   <h3>{{ introduction.title }}</h3>
   <p>{{ introduction.content}}</p>

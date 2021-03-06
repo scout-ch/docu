@@ -25,21 +25,7 @@ desc_fr: Documentation officielle pour les MiData du PBS
 title_it: PBS MiData - Documentazione
 desc_it: Documentazione ufficiale per i MiData di PBS
 
-menuItem_1_de: Einstieg
-menuItem_2_de: Handbuch
-menuItem_3_de: FAQ
-
-menuItem_1_en: Introduction
-menuItem_2_en: Manual
-menuItem_3_en: FAQ
-
-menuItem_1_fr: Initiation
-menuItem_2_fr: Manuel
-menuItem_3_fr: FAQ
-
-menuItem_1_it: Iscrizione
-menuItem_2_it: Manuale
-menuItem_3_it: FAQ
+emptyArray: []
 
 # baseurl: ''
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -84,15 +70,25 @@ defaults:
     values:
       layout: default
   - scope:
-      path: "_faqs/de"
+      path: "_articles/de"
     values:
-      permalink: "/de/faq/:slug"
+      permalink: "/de/dokumentation/:slug"
       lang: de
   - scope:
-      path: "_faqs/fr"
+      path: "_articles/fr"
     values:
-      permalink: "/fr/faq/:slug"
+      permalink: "/fr/documentation/:slug"
       lang: fr
+  - scope:
+      path: "_articles/it"
+    values:
+      permalink: "/it/doumentazione/:slug"
+      lang: it
+  - scope:
+      path: "_articles/en"
+    values:
+      permalink: "/en/documentation/:slug"
+      lang: en
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
