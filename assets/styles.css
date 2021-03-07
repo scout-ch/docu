@@ -216,9 +216,6 @@ p, ul, li, a, span, div {
 		list-style: none;
 		padding: 0;
 	}
-	ul > li {
-		padding: 0.2rem 0;
-	}
 	.backlink {
 		padding: 1rem 0;
 		margin-bottom: 1rem;
