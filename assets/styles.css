@@ -31,7 +31,7 @@ h2,h3,h4,h5,h6 {
 }
 h3 {
 	font-size: 35px;
-	margin: 10px;
+	margin: 10px 0;
 	padding-bottom: 0.4em
 }
 p, ul, li, a, span, div {

@@ -4,6 +4,6 @@ slug: faq1
 lang: de
 ---
 
-Damit man weiss, ob es funktioniert...
+Ein Bild einbinden, das im globalen order "images" liegt.
 
-![tesla](tesla_roadster.jpg)
+![tesla](/docu/images/tesla_roadster.jpg)
