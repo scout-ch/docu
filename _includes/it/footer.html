@@ -1,10 +1,13 @@
 <div class="footer-bottom d-flex bg-primary">
   <p class="copyright justify-content-start">
-    &copy; {{ 'now' | date: "%Y" }} Movimento Scout Svizzero
+    &copy; {{ 'now' | date: "%Y" }} Mouvement Scout de Suisse
   </p>
   <ul class="nav justify-content-end">
-    <li class="nav-item"><a class="nav-link" href="#">Contatto</a></li>
-    <li class="nav-item"><a class="nav-link" href="#">Colofone</a></li>
-    <li class="nav-item"><a class="nav-link" href="#">MiData</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://pfadi.swiss/it/f/contatto/">Contatto</a></li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.slug == "invia" %}active{% endif %}" href="{{ site.baseurl }}it/invia">Invia un docu</a>
+    </li>
+    <li class="nav-item"><a class="nav-link" href="https://pfadi.swiss/it/f/colofone/">Colofone</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://db.scout.ch/it/users/sign_in">MiData</a></li>
   </ul>
 </div>

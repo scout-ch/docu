@@ -1,13 +1,16 @@
 <div id="navbarMainMenu" class="collapse navbar-collapse mr-10">
   <ul class="navbar-nav mr-auto">
     <li class="nav-item">
-      <a class="nav-link {% if page.active-nav == "home" %}active{% endif %}" href="{{ site.baseurl }}it/">Initiation</a>
+      <a class="nav-link {% if page.slug == "home" %}active{% endif %}" href="{{ site.baseurl }}it/">Ingresso</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link {% if page.active-nav == "articles" %}active{% endif %}" href="{{ site.baseurl }}it/documentation">Documentation</a>
+      <a class="nav-link {% if page.slug == "articles" %}active{% endif %}" href="{{ site.baseurl }}it/documentazione">Documentazione</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link {% if page.active-nav == "faqs" %}active{% endif %}" href="{{ site.baseurl }}it/faq">FAQ</a>
+      <a class="nav-link {% if page.slug == "faqs" %}active{% endif %}" href="{{ site.baseurl }}it/faq">FAQ</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link {% if page.slug == "releases" %}active{% endif %}" href="{{ site.baseurl }}it/note-di-rilascio">Note di rilascio</a>
     </li>
   </ul>
 </div>

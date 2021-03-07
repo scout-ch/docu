@@ -61,6 +61,8 @@ collections:
     output: true
   introductions:
     output: true
+  releases:
+    output: true
 
 defaults:
   - scope:
@@ -119,6 +121,38 @@ defaults:
       backlink: "Back to overview"
       relevance_title: "Relevant for:"
       layout: article
+  - scope:
+      path: "_releases/de"
+    values:
+      permalink: "/de/versionshinweise/:slug"
+      lang: de
+      releases: "versionshinweise"
+      backlink: "Zurück zur Übersicht"
+      layout: release
+  - scope:
+      path: "_releases/fr"
+    values:
+      permalink: "/fr/notes-de-version/:slug"
+      lang: fr
+      releases: "notes de version"
+      backlink: "Retour à la vue d'ensemble"
+      layout: release
+  - scope:
+      path: "_releases/it"
+    values:
+      permalink: "/it/note-di-rilascio/:slug"
+      lang: it
+      releases: "note di rilascio"
+      backlink: "Torna alla panoramica"
+      layout: release
+  - scope:
+      path: "_releases/en"
+    values:
+      permalink: "/en/release-notes/:slug"
+      lang: en
+      releases: "release notes"
+      backlink: "Back to overview"
+      layout: release
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
