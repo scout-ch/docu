@@ -1,6 +1,10 @@
 /* custom CSS-File */
 /*-----------------*/
 
+html, body {
+	font-family: "Source Sans Pro",sans-serif;
+}
+
 /* colors */
 .bg-primary {
     background-color: #521d3a !important;
@@ -24,7 +28,6 @@ a.active {
 }
 h2,h3,h4,h5,h6 {
 	color: #8c3c4f;
-	font-family: "Source Sans Pro",sans-serif;
 }
 h3 {
 	font-size: 35px;
@@ -32,7 +35,6 @@ h3 {
 	padding-bottom: 0.4em
 }
 p, ul, li, a, span, div {
-	font-family: "Source Sans Pro",sans-serif;
 	line-height: 1.27;
 	font-size: 15px;
 }
