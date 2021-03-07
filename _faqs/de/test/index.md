@@ -6,4 +6,4 @@ lang: de
 
 Ein Bild einbinden, das im globalen order "images" liegt.
 
-![tesla](/docu/images/tesla_roadster.jpg)
+![tesla](/docu/images/faqs/tesla_roadster.jpg)
