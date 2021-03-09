@@ -1,3 +1,11 @@
+---
+title: MiData Release Notes 1.25.0
+date: '03.09.2020'
+categories: '1.25'
+slug: 1-25-0
+lang: de
+---
+
 ## Validierung des Wohnortes
 Wenn man eine (eigens dafür formatierte) Adressliste aus der MiData in die SPORTdb importiert, gibt es häufig das Problem, dass das Feld «Ort» nicht validiert werden kann, da es als Freitextfeld nicht 1:1 mit der in der SPORTdb hinterlegten Liste übereinstimmt (z. B. steht in der MiData «Teufen», die SPORTdb akzeptiert aber nur «Teufen ZH»). Da man als Coach nicht automatisch die Adressen anpassen kann in der MiData (dazu muss man auch noch Adressverwalter\*in sein), muss man es im Excel anpassen, was sofort wieder Encoding-Fragen aufwirft. 
 
