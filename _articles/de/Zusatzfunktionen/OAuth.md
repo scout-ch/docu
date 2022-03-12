@@ -1,7 +1,7 @@
 ---
 title: OAuth
 slug: article-15
-categories: Zusatzfunktionen
+categories: 3.Zusatzfunktionen
 cat_sort: C
 relevance: 
 lang: de
