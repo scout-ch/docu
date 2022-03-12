@@ -4,5 +4,5 @@ slug: article-8
 categories: Grundfunktionen
 relevance: AL, StLei
 lang: de
-order: B
+date: 2.1.2022
 ---
