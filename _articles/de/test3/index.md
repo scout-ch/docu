@@ -2,10 +2,10 @@
 title: Vierter Artikel
 slug: article-4
 categories: kapitel1
-cat_sort: A
+cat_sort: 01.12.2012
 relevance: Leiter
 lang: de
-order: B
+date: 01.12.2021
 ---
 
 Mein vierter Artikel.
