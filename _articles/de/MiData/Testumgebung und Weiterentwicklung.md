@@ -26,7 +26,7 @@ Passwort: hito42bito
 
 Damit die MiData den bestehenden und neuen Bedürfnissen gerecht werden kann und auch in Zu-kunft weiterverwendet wird, muss sie kontinuierlich weiterentwickelt werden. Die Weiterentwicklung ist unabhängig vom Support aufgestellt. Die MiData wird als strategisches Element in der PBS geführt und hat einen fixen Bestandteil der IT-Strategie und ein entsprechendes Budget.
 Für die Weiterentwicklung ist folgender Ablauf definiert: 
-1. Die primäre Ansprechperson für die Benutzer ist der PowerUser in den Kantonen oder allen-falls noch in den Regionen. Ideen und Wünsche der Anwender werden vom PowerUser ge-sammelt und via E-Mail an IT Support PBS eingegeben. 
+1. Die primäre Ansprechperson für die Benutzer ist der PowerUser in den Kantonen oder allen-falls noch in den Regionen. Ideen und Wünsche der Anwender werden vom PowerUser gesammelt und via E-Mail an IT Support PBS eingegeben. 
 2. Der IT Support der PBS sammelt die Anregungen und bereitet diese falls notwendig auf. 
 3. Die IT-Kommission priorisiert und spezifiziert die Erweiterung. Falls die Erweiterungen die Ressourcen (Finanziell, Personell) der IT-Kommission übersteigen, kann die IT-Kommission ein Projekt initiieren, welche die Erweiterung vorantreibt. 
 4. Umgesetzt wird dann die Erweiterung mit einem Lösungsanbieter. Auftraggeber ist die IT-Kommission, ggf. vertreten durch ein entsprechendes Projekt. 
@@ -38,5 +38,5 @@ Neben dem definierten Ablauf der PBS können auch noch andere Inputs an die IT-K
 
 
 ## Informationen zu Release Updates
-Die Kantonalverbände und Kommissionsleitungen der PBS erhalten jeweils eine Benachrichtigung, wenn ein Release geplant wird. Wie sie die Information innerhalb des Kantonalverbandes streuen, ist unterschiedlich. Du kannst dich auch manuell für die MiData-Updates anmelden.
-Ebenso werden die Release Notes auf der Seite Versionshinweise zur Verfügung gestellt. 
+Die Kantonalverbände und Kommissionsleitungen der PBS erhalten jeweils eine Benachrichtigung, wenn ein Release geplant wird. Wie sie die Information innerhalb des Kantonalverbandes streuen, ist unterschiedlich. Du kannst dich auch [manuell für die MiData-Updates anmelden](https://db.scout.ch/de/groups/2/mailing_lists/1564).
+Ebenso werden die Release Notes auf der Seite [Versionshinweise](https://scout-ch.github.io/docu/de/versionshinweise) zur Verfügung gestellt. 
