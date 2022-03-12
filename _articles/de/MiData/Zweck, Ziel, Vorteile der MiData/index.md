@@ -2,6 +2,7 @@
 title: Zweck, Ziel, Vorteile Test
 slug: article-1
 categories: midata
+cat_sort: A
 relevance: Alle
 lang: de
 date: 06.03.2022
