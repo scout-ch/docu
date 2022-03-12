@@ -1,9 +1,9 @@
 ---
 title: Testumgebung und Weiterentwicklung
-slug: article-2
+slug: article-3
 categories: midata
-relevance: alle
-order: d
+relevance: Alle
+order: C
 lang: de
 ---
 
