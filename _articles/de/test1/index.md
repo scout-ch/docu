@@ -1,6 +1,6 @@
 ---
 title: Betrieb
-slug: article-2
+slug: article-1
 categories: Midata
 relevance:
 lang: de
