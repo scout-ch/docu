@@ -1,5 +1,5 @@
 ---
-title: Vierter Artikel
+title: Vierter Artikeltest
 slug: article-4
 categories: kapitel1
 cat_sort: 01.12.2012
