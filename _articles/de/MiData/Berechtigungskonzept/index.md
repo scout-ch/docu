@@ -1,10 +1,10 @@
 ---
 title: Berechtigungskonzept
-slug: article-1
+slug: article-5
 categories: midata
-relevance: AL, StLei
-order: d
+relevance: Alle
+order: E
 lang: de
 ---
 
-Die Mitgliederda
+Informationen über das Berechtigungskonzept
