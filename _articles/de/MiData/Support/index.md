@@ -4,7 +4,7 @@ slug: article-6
 categories: midata
 relevance: Alle
 lang: de
-date: 01.01.2022
+date: 01.03.2022
 ---
 
 Dein primärer Ansprechpartner ist der
