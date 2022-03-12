@@ -1,6 +1,6 @@
 ---
 title: Betrieb
-slug: article-1
+slug: article-2
 categories: Midata
 relevance:
 lang: de
@@ -24,4 +24,4 @@ Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben defin
 *	Vertretung in der Hitobito Community 
 
 ## Aufgaben PowerUser
-
+hgfjg
