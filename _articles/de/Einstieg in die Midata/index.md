@@ -1,7 +1,7 @@
 ---
 title: Fünfter Artikel
 slug: article-4
-categories: einstieg in die midata
+categories: einstieg
 relevance: wikki
 lang: de
 ---
