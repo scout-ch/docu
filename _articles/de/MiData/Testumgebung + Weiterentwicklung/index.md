@@ -1,7 +1,7 @@
 ---
 title: Testumgebung und Weiterentwicklung
 slug: article-3
-categories: midata
+categories: 1_Midata
 cat_sort: 04.03.2022
 relevance: Alle
 lang: de
