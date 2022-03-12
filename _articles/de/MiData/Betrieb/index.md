@@ -2,8 +2,8 @@
 title: Betrieb
 slug: article-2
 categories: midata
-relevance: alle
-order: b
+relevance: Alle
+order: B
 lang: de
 ---
 
