@@ -1,10 +1,10 @@
 ---
-title: Support ?
+title: Support ?!?
 slug: article-6
 categories: midata
 relevance: Alle
 lang: de
-order: 6.1.2022
+date: 6
 ---
 
 Dein primärer Ansprechpartner ist der
