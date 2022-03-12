@@ -1,7 +1,7 @@
 ---
 title: Berechtigungskonzept
 slug: article-5
-categories: midata
+categories: 1_Midata
 cat_sort: 02.03.2022
 relevance: Alle
 lang: de
