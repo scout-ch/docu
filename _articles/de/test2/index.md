@@ -1,7 +1,7 @@
 ---
 title: Dritter Artikeltest2
 slug: article-3
-categories: 1.kapitel
+categories: 4.kapitel
 cat_sort: X
 relevance: Biber, Wölfe
 lang: de
