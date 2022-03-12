@@ -2,7 +2,7 @@
 title: Datennutzung
 slug: article-4
 categories: midata
-cat_sort: A
+cat_sort: 03.03.2022
 relevance: Alle
 lang: de
 date: 03.03.2022
