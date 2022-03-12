@@ -1,5 +1,5 @@
 ---
-title: Schnittstellen
+title: Schnittstellen via Service Token
 slug: article-14
 categories: 3_Zusatzfunktionen
 cat_sort: C
