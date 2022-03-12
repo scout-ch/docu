@@ -2,7 +2,7 @@
 title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: midata
-cat_sort: A
+cat_sort: 06.03.2022
 relevance: Alle
 lang: de
 date: 06.03.2022
