@@ -1,6 +1,6 @@
 ---
 title: Wie kann ich eine Person endgültig löschen?
-slug: faq3
+slug: faq1
 lang: de
 order: wie kann
 ---
