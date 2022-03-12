@@ -1,7 +1,7 @@
 ---
 title: Dritter Artikel
 slug: article-3
-categories: 4.kapitel
+categories: 4_Kapitel
 cat_sort: X
 relevance: Biber, Wölfe
 lang: de
