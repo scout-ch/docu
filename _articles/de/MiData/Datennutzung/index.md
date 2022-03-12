@@ -7,6 +7,5 @@ order: D
 lang: de
 ---
 
-Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die MiData dient zur Verwaltung von Mitgliederdaten der Pfadi. Die Mitgliederdaten sind die Grundlage für Versände, Listen, Adressverzeichnisse und Statistiken (Bestandesmeldung). Die Datenhoheit, und damit auch die Verantwortung über die Mitgliederdaten bleibt bei den Abteilungen. Wie bisher verwalten die Abteilungen ihre Abteilungsdaten selber. Die MiData hält den Datenschutz ein, es werden keine Daten an Drittorganisationen ausserhalb der PBS weitergegeben.
-
-## Wichtigste Funktionen
+Es wird ein grossen Wert auf die Sicherheit der Daten in der MiData gelegt. Die Verbindung ist verschlüsselt und die Daten werden in der Schweiz bei der Firma Puzzle ITC gespeichert. Um Missbrauch vorzubeugen, haben wir ein Berechtigungsmodell erarbeitet und die Benutzer werden beim Login über Verhaltensregeln informiert.
+> [Konzept der Datennutzung](https://pfadi.swiss/media/files/36/datennutzung-midata-pbs_v10_de.pdf)
