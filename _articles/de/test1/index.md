@@ -1,7 +1,7 @@
 ---
 title: Betrieb
 slug: article-2
-categories: midata
+categories: kapitel1
 relevance:
 lang: de
 ---
