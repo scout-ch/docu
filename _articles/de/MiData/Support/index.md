@@ -2,6 +2,7 @@
 title: Support
 slug: article-6
 categories: midata
+cat_sort: A
 relevance: Alle
 lang: de
 date: 01.03.2022
