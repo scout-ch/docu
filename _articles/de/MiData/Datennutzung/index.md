@@ -2,7 +2,7 @@
 title: Datennutzung
 slug: article-4
 categories: midata
-relevance: AL, StLei
+relevance: Alle
 order: D
 lang: de
 ---
