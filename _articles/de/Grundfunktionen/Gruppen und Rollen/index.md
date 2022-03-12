@@ -1,7 +1,7 @@
 ---
 title: Gruppen und Rollen
 slug: article-8
-categories: Grundfunktionen
+categories: 2_Grundfunktionen
 cat_sort: B
 relevance: AL, StLei
 lang: de
