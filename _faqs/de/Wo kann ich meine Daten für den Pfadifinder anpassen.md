@@ -9,7 +9,7 @@ Seit Januar 2022 werden die Angaben für den Pfadifinder direkt aus der Gruppens
 
 Bitte bedenke folgendes:
 
-** Es werden folgende Daten übermittelt: **
+**Es werden folgende Daten übermittelt:**
 * Name der Abteilung
 * Die Stufen anhand der Untergruppen
 * PTA (Ja/Nein)
