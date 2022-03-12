@@ -24,4 +24,12 @@ Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben defin
 *	Vertretung in der Hitobito Community 
 
 ## Aufgaben PowerUser
-hgfjg
+* PowerUser kennen den KV mit seinen Eigenheiten 
+* PowerUser können die Mitgliederdatenbank mit Unterstützung innerhalb des KVs einführen und Schulungen für die Abteilungen organisieren 
+*	PowerUser werden entsprechend geschult und kennen danach die Mitgliederdatenbank
+*	PowerUser importieren initial die Daten für die Abteilungen 
+*	PowerUser leisten Support innerhalb des KV 
+*	PowerUser stellen die Kommunikation zwischen Benutzer und PBS Bundesebene sicher 
+*	PowerUser sammeln Probleme und Änderungswünsche und geben diese gebündelt ans MiData Team oder die Geschäftsstelle PBS  weiter 
+*	PowerUser sind eine übergeordnete Instanz und stellen die Datenqualität sicher (u. A. Dublet-ten, fehlende/falsche Angaben, falsch ausgefüllte Felder) 
+
