@@ -3,8 +3,8 @@ title: Testumgebung und Weiterentwicklung
 slug: article-3
 categories: midata
 relevance: Alle
-order: C
 lang: de
+date: 3.1.2022
 ---
 
 ## Testsystem
