@@ -17,7 +17,7 @@ Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben defin
 
 ## Aufgaben MiData Team
 
-* -	Aufnahme von Erweiterungen in Zusammenarbeit mit den PowerUsern der KVs – MiData Konferenz
+* Aufnahme von Erweiterungen in Zusammenarbeit mit den PowerUsern der KVs – MiData Konferenz
 *	Priorisierung und Spezifikation von Erweiterungen in Zusammenarbeit mit den PowerUsern der KVs
 *	Organisation Hackathons 
 *	Kontakt zu Puzzle
