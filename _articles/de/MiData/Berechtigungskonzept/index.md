@@ -4,7 +4,7 @@ slug: article-5
 categories: midata
 relevance: Alle
 lang: de
-order: 5.1.2022
+date: 5
 ---
 
 Informationen über das Berechtigungskonzept
