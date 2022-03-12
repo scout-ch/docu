@@ -1,7 +1,7 @@
 ---
 title: Support
 slug: article-6
-categories: midata
+categories: 1_Midata
 cat_sort: 01.03.2022
 relevance: Alle
 lang: de
