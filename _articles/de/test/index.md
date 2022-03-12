@@ -1,7 +1,7 @@
 ---
 title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
-categories: kapitel1
+categories: midata
 relevance: AL, StLei
 lang: de
 ---
