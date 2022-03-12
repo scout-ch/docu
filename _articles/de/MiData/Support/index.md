@@ -2,7 +2,7 @@
 title: Support
 slug: article-6
 categories: midata
-relevance: alle
+relevance: Alle
 order: F
 lang: de
 ---
