@@ -1,7 +1,7 @@
 ---
 title: Abos
 slug: article-12
-categories: Grundfunktionen
+categories: 2_Grundfunktionen
 cat_sort: B
 relevance: AL, StLei
 lang: de
