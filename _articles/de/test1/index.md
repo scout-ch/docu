@@ -3,7 +3,7 @@ title: Betrieb
 slug: article-2
 categories: kapitel1
 relevance: alle
-order:1
+order: 1
 lang: de
 ---
 
