@@ -2,7 +2,7 @@
 title: Betrieb
 slug: article-2
 categories: kapitel1
-relevance:
+relevance: alle
 lang: de
 ---
 
