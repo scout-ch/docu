@@ -4,5 +4,5 @@ slug: article-10
 categories: Grundfunktionen
 relevance: AL
 lang: de
-order: D
+date: 4.1.2022
 ---
