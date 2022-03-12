@@ -1,7 +1,7 @@
 ---
 title: Schnittstellen
 slug: article-14
-categories: 3.Zusatzfunktionen
+categories: 3_Zusatzfunktionen
 cat_sort: C
 relevance: AL, StLei
 lang: de
