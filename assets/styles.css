@@ -216,6 +216,11 @@ p, ul, li, a, span, div {
 		list-style: none;
 		padding: 0;
 	}
+	.content ul {
+		margin: 10px 20px;
+		list-style: initial;
+		padding: initial;
+	}
 	.backlink {
 		padding: 1rem 0;
 		margin-bottom: 1rem;
