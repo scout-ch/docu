@@ -4,7 +4,7 @@ slug: article-3
 categories: midata
 relevance: Alle
 lang: de
-date: 3
+date: 04.01.2022
 ---
 
 ## Testsystem
