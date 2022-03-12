@@ -1,7 +1,7 @@
 ---
-title: Zweck, Ziel, Vorteile der MiData
+title: Zweck, Ziel, Vorteile der MiDatatest
 slug: article-1
-categories: midata
+categories: 1_Midata
 cat_sort: 06.03.2022
 relevance: Alle
 lang: de
