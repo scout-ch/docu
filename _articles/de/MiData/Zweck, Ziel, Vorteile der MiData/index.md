@@ -1,5 +1,5 @@
 ---
-title: Zweck, Ziel, Vorteile Test
+title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: midata
 cat_sort: A
