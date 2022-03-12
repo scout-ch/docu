@@ -1,9 +1,9 @@
 ---
 title: Support
-slug: article-2
+slug: article-6
 categories: midata
 relevance: alle
-order: f
+order: F
 lang: de
 ---
 
@@ -12,4 +12,3 @@ Benötigt der kantonale PowerUser weiterführende Hilfe, kann er sich an die Sup
 Pfadibewegung Schweiz, 031 328 05 45
 > [E-Mail] (midata@pbs.ch)
 Wichtig ist, dass dieser Kommunikationsweg eingehalten wird. Anfragen an die PBS, die nicht von kantonalen PowerUsern stammen, werden in der Regel abgewiesen.
-
