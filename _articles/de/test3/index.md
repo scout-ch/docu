@@ -1,7 +1,7 @@
 ---
 title: Vierter Artikel
 slug: article-4
-categories: 1.kapitel
+categories: 4.kapitel
 cat_sort: X
 relevance: Leiter
 lang: de
