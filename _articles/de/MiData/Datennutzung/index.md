@@ -1,9 +1,9 @@
 ---
 title: Datennutzung
-slug: article-1
+slug: article-4
 categories: midata
 relevance: AL, StLei
-order: c
+order: D
 lang: de
 ---
 
