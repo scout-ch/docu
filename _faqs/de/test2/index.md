@@ -1,6 +1,6 @@
 ---
 title: Warum kommt das Bild nicht?
-slug: faq2
+slug: faq101
 lang: de
 ---
 
