@@ -2,7 +2,7 @@
 title: Vierter Artikel
 slug: article-4
 categories: kapitel1
-cat_sort: 01.12.2021
+cat_sort: X
 relevance: Leiter
 lang: de
 date: 01.12.2021
