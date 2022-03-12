@@ -8,7 +8,8 @@ lang: en
 {% assign articles = site.articles | where: "lang", "en" %}
 {% assign categories =  articles | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
 {% for category in categories %}
-	<h3>{{ category.name | capitalize }}</h3>
+	{% assign cat_name = category.name %}
+	<h3>{{ cat_name | slice: 1,cat_name.size |remove_first: "_" | capitalize }}</h3>
 	{% assign posts = articles | where: "categories", category.name | sort: "date" | reverse  %}
 	<ul>
 		{% for article in posts %}
