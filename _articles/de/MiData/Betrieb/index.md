@@ -1,7 +1,7 @@
 ---
 title: Betrieb
 slug: article-2
-categories: midata
+categories: 1_Midata
 cat_sort: 05.03.2022
 relevance: Alle
 lang: de
