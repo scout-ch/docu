@@ -3,7 +3,7 @@ title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: midata
 relevance: wikki
-order: a
+order: A
 lang: de
 ---
 
