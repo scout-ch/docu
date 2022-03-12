@@ -6,7 +6,7 @@ lang: en
 ---
 
 {% assign articles = site.articles | where: "lang", "en" %}
-{% assign categories =  articles | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+{% assign categories =  articles | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "cat_sort" %}
 {% for category in categories %}
 	<h3>{{ category.name | capitalize }}</h3>
 	{% assign posts = articles | where: "categories", category.name | sort: "date" | reverse  %}
