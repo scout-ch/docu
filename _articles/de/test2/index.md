@@ -1,5 +1,5 @@
 ---
-title: Dritter Artikeltest2
+title: Dritter Artikel
 slug: article-3
 categories: 4.kapitel
 cat_sort: X
