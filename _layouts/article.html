@@ -45,7 +45,7 @@
   <main role="main">
     <div class="jumbotron">
       <h1>{{ page.articles | capitalize }}</h1>
-      <p class="lead">{{ page.title }} ({% for category in page.categories %}{{ category | capitalize}}{% endfor %})</p>
+      <p class="lead">{{ page.title }} ({% for category in page.categories %}{{ category | slice: 1,category.size |remove_first: "_" | capitalize }}{% endfor %})</p>
     </div>
     <div class="info bg-primary">
       <ul>
