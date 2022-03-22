@@ -5,6 +5,8 @@ slug: faqs
 lang: de
 ---
 <div class="accordion" id="accordionFAQ">
+	<hr class="hr-faq" />
+
 	{% assign faqs = site.faqs | where: "lang", "de" %}
 	{% for faq in faqs %}
 		<div class="card">
@@ -23,5 +25,7 @@ lang: de
 		      </div>
 		    </div>
 	  	</div>
+
+		<hr class="hr-faq" />
 	{% endfor %}
 </div>
