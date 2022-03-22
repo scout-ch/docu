@@ -250,13 +250,11 @@ p, ul, li, a, span, div {
 		border-bottom: 1px solid #000;
 		border-radius: 0;
 	}
+
 	#accordionFAQ {
 		margin: 1.5rem 0;
 	}
-	.accordion > .card:first-of-type {
-		border-top: 1px solid #000;
-		border-bottom: 1px solid #000;
-	}
+
 	.card-header {
     padding: 0.3rem 0;
     margin-bottom: 0;
@@ -271,6 +269,12 @@ p, ul, li, a, span, div {
 	}
 	.faq-title .btn {
 		color: #8c3c4f !important;
+	}
+
+	.hr-faq {
+		border: 0;
+		height: 1px;
+		background-image: linear-gradient(right, #521d3a, #632949);
 	}
 /*-- Content --*/
 
