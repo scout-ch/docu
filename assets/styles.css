@@ -211,64 +211,84 @@ p, ul, li, a, span, div {
 		padding: 1.2rem 2.5rem;
 		color: #fff;
 	}
+
 	ul {
 		margin: 0;
 		list-style: none;
 		padding: 0;
 	}
+
 	.content ul {
 		margin: 10px 20px;
 		list-style: initial;
 		padding: initial;
 	}
+
 	.backlink {
 		padding: 1rem 0;
 		margin-bottom: 1rem;
 	}
+
 	.content {
 		padding: 1.2rem 2.5rem;
 		border: 2px solid #521d3a;
 	}
+
 	.content a {
 		color: #8c3c4f;
 	}
+
 	.nav-link {
-    padding: 0.8em 2em;
+    	padding: 0.8em 2em;
 	}
+
 	.nav-tabs {
 		border-bottom: 1px solid #acacac;
 	}
+
 	.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    border-color: #acacac #acacac #eaeaea;
+    	border-color: #acacac #acacac #eaeaea;
 	}
+
+	.nav-item {
+		list-style-type: none;
+	}
+
 	.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
     border-color: #acacac #acacac rgb(241, 241, 241);
 	}
+
 	.card {
 		background-color: initial;
 		border: 0;
 		border-bottom: 1px solid #000;
 		border-radius: 0;
 	}
+
 	#accordionFAQ {
 		margin: 1.5rem 0;
 	}
+
 	.accordion > .card:first-of-type {
 		border-top: 1px solid #000;
 		border-bottom: 1px solid #000;
 	}
+
 	.card-header {
-    padding: 0.3rem 0;
-    margin-bottom: 0;
-    background-color: initial;
-    border-bottom: 0;
+    	padding: 0.3rem 0;
+    	margin-bottom: 0;
+    	background-color: initial;
+    	border-bottom: 0;
 	}
+
 	.btn.focus, .btn:focus {
-    box-shadow: none;
+    	box-shadow: none;
 	}
+
 	.faq-title {
 		margin: 0;
 	}
+
 	.faq-title .btn {
 		color: #8c3c4f !important;
 	}
