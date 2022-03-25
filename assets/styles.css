@@ -17,15 +17,18 @@ html, body {
 /* typography */
 a {
     color: white;
-    opacity: 0.5;
+    font-weight: 300;
 }
+
 a:focus,
-a:hover,
-a:active,
-a.active {
+a:hover {
 	color: white;
-  	opacity: 1;
 }
+
+a.active {
+	font-weight: 700;
+}
+
 h2,h3,h4,h5,h6 {
 	color: #8c3c4f;
 }
@@ -75,6 +78,18 @@ p, ul, li, a, span, div {
 /*-- Header --*/
 	header {
 		overflow: hidden;
+	}
+
+	.navbar-dark .nav-item .nav-link {
+		color: white;
+	}
+
+	div.content > ul.nav {
+		margin: 0px 0px 40px 0px;
+	}
+
+	div.content > ul.nav > li {
+		padding: 0px 0px 0px 0px;
 	}
 
 	.navbar-brand {
@@ -207,6 +222,7 @@ p, ul, li, a, span, div {
 
 
 /*-- Content --*/
+
 	.info {
 		padding: 1.2rem 2.5rem;
 		color: #fff;
@@ -219,9 +235,13 @@ p, ul, li, a, span, div {
 	}
 
 	.content ul {
-		margin: 10px 20px;
+		margin: 10px 20px 40px 25px;
 		list-style: initial;
 		padding: initial;
+	}
+
+	.content li {
+		padding: 0px 0px 8px 0px;
 	}
 
 	.backlink {
@@ -230,12 +250,53 @@ p, ul, li, a, span, div {
 	}
 
 	.content {
-		padding: 1.2rem 2.5rem;
 		border: 2px solid #521d3a;
+	}
+
+	@media (max-width:660px) {
+		.content {
+			padding: 0.4rem 0.5rem;
+		}
+		.container-lg {
+			padding: 0;
+		}
+	}
+	@media (min-width:660px) {
+		.content {
+			padding: 0.6rem 1rem;
+		}
+		.container-lg {
+			padding: 0;
+		}
+	}
+	@media (min-width:860px) {
+		.content {
+			padding: 0.8rem 1.5rem;
+		}
+	}
+	@media (min-width:1100px) {
+		.content {
+			padding: 1rem 2rem;
+		}
+	}
+	@media (min-width:1300px) {
+		.content {
+			padding: 1.2rem 2.5rem;
+		}
+	}
+
+	.content h3 {
+		color: #521d3a;
 	}
 
 	.content a {
 		color: #8c3c4f;
+		opacity: 1;
+		font-weight: 500;
+	}
+
+	.content a:hover {
+		opacity: 0.8;
 	}
 
 	.nav-link {
