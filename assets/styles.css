@@ -247,16 +247,12 @@ p, ul, li, a, span, div {
 	.card {
 		background-color: initial;
 		border: 0;
-		border-bottom: 1px solid #000;
-		border-radius: 0;
 	}
+
 	#accordionFAQ {
 		margin: 1.5rem 0;
 	}
-	.accordion > .card:first-of-type {
-		border-top: 1px solid #000;
-		border-bottom: 1px solid #000;
-	}
+
 	.card-header {
     padding: 0.3rem 0;
     margin-bottom: 0;
@@ -271,6 +267,18 @@ p, ul, li, a, span, div {
 	}
 	.faq-title .btn {
 		color: #8c3c4f !important;
+	}
+
+	.hr-faq {
+		border: 0;
+		height: 1px;
+		background-image: linear-gradient(
+				90deg,
+				rgba(255,255,255,1) 0%,
+				rgba(82,29,58,1) 20%,
+				rgba(117,74,97,1) 80%,
+				rgba(255,255,255,1) 100%
+		);
 	}
 /*-- Content --*/
 
