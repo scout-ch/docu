@@ -79,18 +79,7 @@ p, ul, li, a, span, div {
 
 	.navbar-brand {
 		opacity: 1;
-	    margin-left: -40px;
 	    position: relative;
-	}
-
-	.navbar-brand::after {
-	 content:"";
-	 position:absolute;
-	 top:0;
-	 left:0;
-	 width:64px;
-	 height:40px;
-	 background:#521d3a;
 	}
 
 	.navbar {
