@@ -16,9 +16,9 @@ Link: [pbs.puzzle.ch](https://pbs.puzzle.ch/)
 
 Anmelden kannst du dich als:
 
-* Stufenleiter: ullrich_emirhan ( at ) hitobito.example.com
-* Abteilungsleiter: letizia_wilhelm ( at ) hitobito.example.com
-* Admin: hussein_kohlmann ( at ) hitobito.example.com
+* Stufenleiter: ullrich_emirhan@hitobito.example.com
+* Abteilungsleiter: letizia_wilhelm@hitobito.example.com
+* Admin: hussein_kohlmann@hitobito.example.com
 
 Passwort: hito42bito
 
