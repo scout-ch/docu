@@ -12,4 +12,4 @@ Service Accounts ermöglichen es, für eine externe Applikation einen eigenen Ac
 Berechtigungen zu erstellen, mit dem sie dann die JSON-Schnittstelle nutzen kann. Service Accounts 
 werden pro Ebene von einer berechtigten Person erstellt und bleiben auch bestehen, wenn diese 
 Person die Gruppe verlässt oder gelöscht wird.
-* [Spezifikation (Englisch)] (https://github.com/hitobito/hitobito/blob/master/doc/development/07_service_accounts.md)
+* [Spezifikation (Englisch)](https://github.com/hitobito/hitobito/blob/master/doc/development/07_service_accounts.md)
