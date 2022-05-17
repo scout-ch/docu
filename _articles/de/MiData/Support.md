@@ -13,7 +13,7 @@ Die primären Ansprechpartner sind die
 ## PowerUser in der Region/Bezirk/Corps oder im Kantonalverband.
 
 
-Benötigen die kantonalen PowerUser weiterführende Hilfe, kann er sich an die Support Organisation der PBS wenden.
+Benötigen die kantonalen PowerUser weiterführende Hilfe, können sie sich an die Support Organisation der PBS wenden.
 
 Pfadibewegung Schweiz, [031 328 05 45](tel:031 328 05 45)
 
