@@ -8,29 +8,24 @@ lang: de
 date: 06.03.2022
 ---
 
-Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die MiData dient zur Verwaltung von Mitgliederdaten der Pfadi. Die Mitgliederdaten sind die Grundlage für Versände, Listen, Adressverzeichnisse und Statistiken (Bestandesmeldung). Die Datenhoheit, und damit auch die Verantwortung über die Mitgliederdaten bleibt bei den Abteilungen. Wie bisher verwalten die Abteilungen ihre Abteilungsdaten selber. Die MiData hält den Datenschutz ein, es werden keine Daten an Drittorganisationen ausserhalb der PBS weitergegeben.
+Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die Hauptfunktion der MiData ist die Verwaltung von Mitgliederdaten der Pfadi. Mittlerweilen sind weitere Funktionalitäten vorhanden:  
 
-## Wichtigste Funktionen
-
-* Komfortable Verwaltung der Mitgliederdaten deiner Abteilung (Kinder, Leitende, Partner, etc.)
-*	Zugriff auf die Daten von überall her
-*	Verwaltung von Anlässen und Teilnehmenden
-*	Verwaltung von Lagern inkl. elektronischer Anmeldemöglichkeit und Lagermeldung an die PBS
-*	Administration von Ausbildungskursen
-*	Persönliche Zugangsdaten für alle Leitenden (zur Verwaltung ihrer eigenen Daten und derjenigen ihrer Gruppe)
+* Komfortable Verwaltung der Mitgliederdaten deiner Abteilung (Kinder, Leitende, etc.)  
+* Einfache Darstellung der Gruppenhierarchie (Stufe, Abteilung, Region, Kantonalverband)  
+* Bestandesmeldung von Abteilung an Kantonalverband 
+* Verwaltung von Anlässen und Teilnehmenden 
+* Verwaltung von Lagern inkl. elektronischer Anmeldung und Lagermeldung an die PBS 
+* Prozesse rund um die Ausbildungskurse und Qualifikationen
+* Versand von Informationen an spezifische Empfänger durch Abos 
+* Anmeldung bei ausgewählten externen Applikationen mittels MiData-Login 
 
 ## Vorteile der MiData für die Pfadi
 
+* Alle Daten sind strukturiert und einheitlich an einem Ort abgelegt 
+* Abteilungen haben die volle Kontrolle über ihre Mitgliederdaten 
 * Finden von Kontaktdaten und Organisationseinheiten innerhalb der Pfadi 
-* Keine Bestandesmeldungen mehr ausfüllen 
-*	Keine redundanten Adressen mit dem heutigen Sarasani Verteiler 
-*	Verwaltung der Mitgliederdaten mit einem einheitlichen Werkzeug, welches die PBS für die Adressverwaltung zur Verfügung stellt 
-*	Anmelden für Kurse basierend auf den aktuellen Personendaten 
-*	Kursanmeldung und Kurse verwalten 
-*	Kein herumschicken von Excel-Files und keine dringenden Anrufe beim Adressverantwortlichen mehr, wenn man die Adressen seiner Gruppe benötigt 
-*	Ersatz für bestehende Adresslisten, wie sie etwa für den Versand der Abteilungszeitschriften oder Lagereinladungen verwendet werden 
-*	Die bestehenden Daten können importiert werden und müssen nicht zusätzlich erfasst werden 
-*	Verhindern von unsicheren Datensammlungen (Adresslisten über Mail, öffentliche Liste auf Homepage) 
-*	Verwaltung von Anlässen sowie deren Teilnehmenden 
--	Statistische Erhebungen innerhalb der PBS 
--	Die Mitgliederdatenbank ist Dreisprachig aufgebaut (Deutsch, Französisch, Italienisch)
+* Striktes Berechtigungskonzept und Einhaltung der Datenschutzvorgaben 
+* Daten werden sicher auf einem Server in der Schweiz gespeichert  
+* Erleichterung diverser administrativer Prozesse  
+* Die Mitgliederdatenbank ist Dreisprachig aufgebaut (Deutsch, Französisch, Italienisch) 
+* Anbindung von Schnittstellen für die digitale Vernetzung 
