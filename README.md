@@ -16,7 +16,7 @@ This repository contains the source code of the documentation platform available
 
 ## Content contribution
 The PBS MiData Documentation Platform is meant to be changed by you! If you see something that bothers you or if you miss an information in the documentation feel free to change it yourself!
-Everything you need to know for submitting your changes can be red in the [Contributing](scout-ch/docu/CONTRIBUTING.mg) file.
+Everything you need to know for submitting your changes can be red in the [Contributing](https://github.com/scout-ch/docu/blob/master/CONTRIBUTING.md) file.
 
 ## Code contribution
 To develop the documentation platform set up a [Jekyll](https://jekyllrb.com/) development environment on your computer. Take a look at the [official docs](https://jekyllrb.com/docs/installation/) of Jekyll.
