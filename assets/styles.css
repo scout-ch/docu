@@ -104,7 +104,7 @@ p, ul, li, a, span, div {
 
 	@media (min-width:660px) {
 		.navbar-brand {
-			margin-left:-54px;
+			margin-left:4%;
 		}
 		.navbar-brand::after {
 			width:84px;
