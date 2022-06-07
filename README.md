@@ -1,46 +1,28 @@
-# PBS MiData Dokumentation
-Dieses Repository ist für die PBS spezifische Dokumentation von MiData (basierend auf hitobito) gedacht.
+# PBS MiData Documentation Platform
+This repository contains the source code of the documentation platform available at https://scout-ch.github.io/docu/. The documentation platform is ment to spread available documentation of the member database of PBS called MiData.
 
-## Funktionen:
-* Einstieg: Einleitungsvideos für die verschiedenen MiData-Rollen
-* Dokumentation: Dokumentations-Artikel gruppiert in Kategorien (eigentliche Doku)
-* FAQ: Häufig verwendete MiData-Funktionen als FAQ
-* Versionshinweise: Release notes der einzelnen Releases gruppiert in Minor-Releases
-* Kontakt (Link auf https://pfadi.swiss)
-* Doku einrichen: Informationen, wie man selber einen Beitrag zur Dokumentation beitragen kann
-* Impressum (Link auf https://pfadi.swiss)
-* MiData (Link auf https://db.scout.ch)
+## Structure
+### Header Menu
+- **Entrance:** Introductory videos for the different MiData roles. This is ment to give the users a quick and catchy introduction to the MiData application. The interest in the MiData should be awakened here.
+- **Documentation:** The actual documentation containing articles grouped into meaningful categories. It is indicated for each article for which users its content is particularly interesting.
+- **FAQ:** Often used MiData features listed as a FAQ.
+- **Release Notes:** Release notes of the different releases grouped by its minor releases.
 
-## Anleitung einreichen:
-Um selber eine Anleitung für diese Doku einzureichen, musst du ein Markdown-File deiner Anleitung erstellen und dieses anschliessend per Pull-Request in den entsprechenden Ordner in diesem Repo einreichen.
+### Footer Menu
+- **Contact:** Link to the contact page of https://pfadi.swiss
+- **Submit docu article:** Information on how to contribute to the documentation platform
+- **Impressum:** Link to the imprint page of https://pfadi.swiss
+- **MiData:** Link to the member database of PBS called MiData at https://db.scout.ch
 
-### In welchen Ordner muss ich einreichen?
-* Einstiegs-Video: _introductions/language/name/index.md
-* Dokumentation: _articles/language/name/index.md
-* FAQ: _faqs/language/name/index.md
-* Versionshinweise: _releases/language/name/index.md
+## Content contribution
+The PBS MiData Documentation Platform is meant to be changed by you! If you see something that bothers you or if you miss an information in the documentation feel free to change it yourself!
+Everything you need to know for submitting your changes can be red in the [Contributing](https://github.com/scout-ch/docu/blob/master/CONTRIBUTING.md) file.
 
-Wobei
-* language: Sprache deines Artikels (de, en, fr, it)
-* name: Name deines Artikels (Gib deinem Artikel ein kurzer, aber aussagekräftiger Name)
+## Code contribution
+To develop the documentation platform set up a [Jekyll](https://jekyllrb.com/) development environment on your computer. Take a look at the [official docs](https://jekyllrb.com/docs/installation/) of Jekyll.
 
-#### Markdown
-[Markdown-Anleitung](https://guides.github.com/features/mastering-markdown/)
-
-#### Videos
-Videos müssen auf eine Videoplattform hochgeladen werden und anschliessend in dein Markdown-File eingebettet werden. Videos können nicht auf dieser Plattform gehostet werden.
-
-#### Bilder
-Bilder müssen in den Ordner `images/ordner/deinBild.jpg` direkt im root-Verzeichnis geladen werden. Anschliessend kann das Bild mit folgendem Markdown-Befehl in den Artikel eingefügt werden: `[Bildname](/docu/images/ordner/deinBild.jpg)`
-
-Wobei
-* ordner: Art deines Artikels (articles, faqs, introductions, releases)
-
-## Doku-Plattform weiterentwickeln
-Um Änderungen an der Plattform vorzunehmen, installiere dir lokal [Jekyll](https://jekyllrb.com/). Folge dazu der offiziellen [Installationsanleitung](https://jekyllrb.com/docs/installation/).
-
-Mache einen Checkout dieses GitHub-Repositorys und pflege deine Änderungen lokal ein.
-
-Teste deine Änderungen mit dem Befehl
+To run the Jekyll code locally use the command
 `bundle exec jekyll serve`
-Der Befehl erstellt einen lokalen Testserver. Die Webseite ist anschliessend auf dem localhost auf dem Port 4000 verfügbar.
+The command sets up a local testing server. The web page is available afterwards on the localhost on port 4000.
+
+Please checkout a fork of this repository and apply your changes. Contribute your changes to the project by creating a pull request. Your code contributions will usually be accepted quickly.
