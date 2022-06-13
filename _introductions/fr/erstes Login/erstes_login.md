@@ -1,9 +1,9 @@
 ---
-title: Erstes Login
-lang: de
+title: Premier login
+lang: fr
 ---
 
-**Die Daten in der Mitgliederdatenbank dürfen nur im Zusammenhang mit Aktivitäten der Pfadi verwendet werden, sie dürfen z.B. nicht an Drittpersonen oder Drittorganisationen weiter gegeben werden. Die Bearbeitung und Nutzung hat nach Treu und Glauben zu erfolgen und muss verhältnismässig sein.**
+**Les données de la base de données des membres ne peuvent être utilisées qu'en rapport avec les activités du scoutisme, elles ne peuvent par exemple pas être transmises à des tiers ou à des organisations tierces. Le traitement et l'utilisation doivent être effectués en toute bonne foi et doivent être proportionnels.**
 
 <iframe
   style="width: 100%; min-height: 500px"
