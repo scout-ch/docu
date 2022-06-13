@@ -16,9 +16,6 @@
 title_de: PBS MiData - Dokumentation
 desc_de: Offizielle Dokumentation für die MiData der PBS
 
-title_en: PBS MiData - Documentation
-desc_en: Official documentation for the MiData of PBS
-
 title_fr: PBS MiData - Documentation
 desc_fr: Documentation officielle pour les MiData du PBS
 
@@ -74,10 +71,6 @@ defaults:
     values:
       relevance_title: "Relevant für:"
   - scope:
-      path: "en"
-    values:
-      relevance_title: "Relevant for:"
-  - scope:
       path: "fr"
     values:
       relevance_title: "Pertinent pour:"
@@ -113,15 +106,6 @@ defaults:
       relevance_title: "Rilevante per:"
       layout: article
   - scope:
-      path: "_articles/en"
-    values:
-      permalink: "/en/documentation/:slug"
-      lang: en
-      articles: "documentation"
-      backlink: "Back to overview"
-      relevance_title: "Relevant for:"
-      layout: article
-  - scope:
       path: "_releases/de"
     values:
       permalink: "/de/versionshinweise/:slug"
@@ -144,14 +128,6 @@ defaults:
       lang: it
       releases: "note di rilascio"
       backlink: "Torna alla panoramica"
-      layout: release
-  - scope:
-      path: "_releases/en"
-    values:
-      permalink: "/en/release-notes/:slug"
-      lang: en
-      releases: "release notes"
-      backlink: "Back to overview"
       layout: release
 
 # Exclude from processing.
