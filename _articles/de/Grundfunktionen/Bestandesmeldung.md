@@ -10,6 +10,4 @@ date: 01.02.2022
 
 
 
-Text Text Text
-
-![FotoBestandesmeldung](foto.png)
+![FotoBestandesmeldung](pic.jpg)
