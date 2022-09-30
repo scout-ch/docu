@@ -7,3 +7,9 @@ relevance: AL
 lang: de
 date: 01.02.2022
 ---
+
+
+
+Text Text Text
+
+![Foto Bestandesmeldung](foto.png)
