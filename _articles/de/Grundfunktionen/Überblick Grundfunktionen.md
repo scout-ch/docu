@@ -4,11 +4,11 @@ slug: article-7
 categories: 2_Grundfunktionen
 cat_sort: B
 relevance: Alle
-lang: fr
+lang: de
 date: 07.02.2022
 ---
 
-![grundfunktionen](/docu/images/basicfunctions/grundfunktionen_de_2.jpg)
+![grundfunktionen](/docu/images/basicfunctions/grundfunktionen_de.jpg)
 
 ## Gruppen
 * Übersicht aller Gruppen in der ganzen Midata
