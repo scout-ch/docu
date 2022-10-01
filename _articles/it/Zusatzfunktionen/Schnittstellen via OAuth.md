@@ -4,8 +4,8 @@ slug: article-15
 categories: 3_Zusatzfunktionen
 cat_sort: C
 relevance: 
-lang: de
-date: 01.01.2022
+lang: it
+date: 02.10.2022
 ---
 
 Die MiData ist ebenfalls ist ein OAuth 2.0 Anbieter, das heisst dass eine externe Applikation Benutzer via MiData authentifizieren kann. Du kennst dieses Prinzip vielleicht bereits, wenn du einmal "Anmelden mit Facebook" oder "Anmelden mit Google" verwendet hast. Die externe Applikation kann danach Informationen über den Benutzer aus der MiData abfragen wenn der Benutzer dies selber freigibt. Die OAuth-Anmeldung ermöglicht es auch, dass die externe Applikation die JSONSchnittstellen im Namen des Users nutzen kann. Die Applikation hat dabei dieselben Berechtigungen wie der Benutzer. 
