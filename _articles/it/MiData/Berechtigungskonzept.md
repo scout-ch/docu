@@ -4,8 +4,8 @@ slug: article-5
 categories: 1_Midata
 cat_sort: 02.03.2022
 relevance: Alle
-lang: de
-date: 02.03.2022
+lang: it
+date: 02.10.2022
 ---
 
 ## Berechtigungskonzept
