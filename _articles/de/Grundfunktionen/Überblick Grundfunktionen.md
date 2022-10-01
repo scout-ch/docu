@@ -4,7 +4,7 @@ slug: article-7
 categories: 2_Grundfunktionen
 cat_sort: B
 relevance: Alle
-lang: de
+lang: fr
 date: 07.02.2022
 ---
 
