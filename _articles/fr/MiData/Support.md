@@ -4,7 +4,7 @@ slug: article-6
 categories: 1_Midata
 cat_sort: 01.03.2022
 relevance: Alle
-lang: de
+lang: fr
 date: 01.03.2022
 ---
 
