@@ -28,7 +28,7 @@ Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt:
 * Export der Personen in verschiedene Dateiformate  
 * Generierung PDF der Personenübersicht für Druck 
 * Bei Auswahl von Personen (Mehrfachauswahl möglich)
-** Rollen hinzufügen, Rollen verschieben, Rollen entfernen, sowie Personen zu Veranstaltungen hinzufügen und Tags zu Person hinzufügen 
+* Rollen hinzufügen, Rollen verschieben, Rollen entfernen, sowie Personen zu Veranstaltungen hinzufügen und Tags zu Person hinzufügen 
 
 ## Anlässe 
 * Neuer Anlass erfassen und bestehender Anlass bearbeiten 
@@ -55,7 +55,7 @@ Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt:
 ## Anfragen 
 * Übersicht aller Anfragen von Personen einer anderen Abteilung, welche zu einer Gruppe, einem Anlass, eines Abos der eigenen Abteilung hinzugefügt werden möchte. 
 * Freigabemöglichkeit der bestehenden Anfragen 
-** Beispiel: Wenn Tarantula von der Abteilung «Muster» bei der Abteilung «Muster 2» (Lager, Kurs oder Funktion) hinzugefügt wird, muss die Abteilungsleitung von «Muster» dem Teilen der Daten mit der Abteilung «Muster 2» zustimmen. 
+* Beispiel: Wenn Tarantula von der Abteilung «Muster» bei der Abteilung «Muster 2» (Lager, Kurs oder Funktion) hinzugefügt wird, muss die Abteilungsleitung von «Muster» dem Teilen der Daten mit der Abteilung «Muster 2» zustimmen. 
 
 ## Notizen 
 * Anzeige aller erfassten Notizeinträge auf Personenebene 
