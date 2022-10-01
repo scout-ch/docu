@@ -31,7 +31,7 @@ date: 07.02.2022
 
 ## Hilfe 
 * Übersicht aller PowerUser deiner Gruppe 
-* Leitfäden  zur Administration von Kursen und Lagern 
+* Leitfäden zur Administration von Kursen und Lagern 
 
 ## Einstellungen  
 * Erstellung eigener Etikettenformate 
