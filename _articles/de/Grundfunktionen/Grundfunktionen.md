@@ -10,30 +10,30 @@ date: 07.02.2022
 
 ![Grundfunktionen](Grundfunktionen_DE.jpg)
 
-# Gruppen
+## Gruppen
 * Übersicht aller Gruppen in der ganzen Midata
 * Gliederung: Pfadibewegung Schweiz -> Kantonalverbände -> Regionen -> Abteilungen 
 
-# Anlässe 
+## Anlässe 
 * Übersicht aller Anlässe von Gruppen, bei denen man Mitglied ist, sowie deren Übergruppen.  
 * Andere Anlässe können in der organisierenden Gruppe gefunden und angezeigt werden 
 
-# Kurse 
+## Kurse 
 * Übersicht aller verfügbaren Kurse  
 * Filterung nach Zeitraum, Status, Anmeldung und Kursträger möglich  
 
-# Rechnungen 
+## Rechnungen 
 * Übersicht aller Rechnungen 
 * Neue Rechnung erfassen und bearbeiten
 * Externe Rechnungen erstellen  
 * Rechnung stellen und mahnen 
 * Export und Druck von Rechnungen  
 
-# Hilfe 
+## Hilfe 
 * Übersicht aller PowerUser deiner Gruppe 
 * Leitfäden  zur Administration von Kursen und Lagern 
 
-# Einstellungen  
+## Einstellungen  
 * Erstellung eigener Etikettenformate 
 * Übersicht aller globalen Etikettenformate 
 * Integration der Anlässe in Kalender 
