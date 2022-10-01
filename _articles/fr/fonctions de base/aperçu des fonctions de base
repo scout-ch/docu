@@ -1,5 +1,5 @@
 ---
-title: Überblick Grundfunktionen
+title: Aperçu des fonctions de base
 slug: article-7
 categories: 2_Grundfunktionen
 cat_sort: B
