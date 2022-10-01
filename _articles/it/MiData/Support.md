@@ -4,8 +4,8 @@ slug: article-6
 categories: 1_Midata
 cat_sort: 01.03.2022
 relevance: Alle
-lang: de
-date: 01.03.2022
+lang: it
+date: 02.10.2022
 ---
 
 Die primären Ansprechpartner sind die
