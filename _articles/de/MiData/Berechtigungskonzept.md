@@ -8,4 +8,8 @@ lang: de
 date: 02.03.2022
 ---
 
-Informationen über das Berechtigungskonzept
+Berechtigungskonzept
+Das Berechtigungskonzept basiert auf drei Punkten: 
+Organisatorische Regeln: Definition von Prozessen wie mit den Daten umgegangen wird. Wer bearbeitet Daten und wozu.
+Technische Implementierung: Zugangsschutz auf die MiData und entsprechendes Rollenkon-zept
+Verantwortungsvoller Umgang: Sensibilisierung der Benutzer
