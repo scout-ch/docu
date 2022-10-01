@@ -1,5 +1,5 @@
 ---
-title: Funktionen auf Abteilungsebene
+title: Überblick Funktionen auf Abteilungsebene
 slug: article-8
 categories: 2_Grundfunktionen
 cat_sort: B
@@ -8,7 +8,7 @@ lang: de
 date: 06.02.2022
 ---
 
-# Funktionen auf Abteilungsebene
+# Überblick Funktionen auf Abteilungsebene
 
 ![Funktionen Musterabteilung](/docu/images/basicfunctions/funktionen_musterabteilung_de_4.jpg)
 
@@ -41,6 +41,7 @@ Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt:
 * Export der Kursübersicht 
 * Kalenderexport der erfassten Kurse 
 * Anmeldung für bestehende Kurse 
+* Leitfäden zur Erstellung von Kursen sind links in der Hilfe zu finden
 
  
 ## Lager 
@@ -48,6 +49,7 @@ Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt:
 * Export der Lagerübersicht 
 * Kalenderexport der erfassten Lager 
 * Anmeldung für bestehende Lager  
+* Leitfaden zur Erstellung von Lagern ist links in der Hilfe zu finden
 
 ## Abos 
 * Neues Abo erfassen und bestehendes Abo bearbeiten  
