@@ -4,8 +4,8 @@ slug: article-3
 categories: 1_Midata
 cat_sort: 04.03.2022
 relevance: Alle
-lang: de
-date: 04.03.2022
+lang: fr
+date: 02.10.2022
 ---
 
 ## Testsystem
