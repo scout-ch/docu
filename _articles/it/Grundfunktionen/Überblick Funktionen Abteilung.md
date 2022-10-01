@@ -4,8 +4,8 @@ slug: article-8
 categories: 2_Grundfunktionen
 cat_sort: B
 relevance: AL, StLei
-lang: de
-date: 06.02.2022
+lang: it
+date: 02.10.2022
 ---
 
 # Überblick Funktionen auf Abteilungsebene
