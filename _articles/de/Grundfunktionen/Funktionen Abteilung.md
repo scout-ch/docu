@@ -10,7 +10,7 @@ date: 06.02.2022
 
 # Funktionen auf Abteilungsebene
 
-![Funktionen Musterabteilung](/docu/images/basicfunctions/funktionen_musterabteilung_de_2.jpg)
+![Funktionen Musterabteilung](/docu/images/basicfunctions/funktionen_musterabteilung_de_3.jpg)
 
 Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt: 
 
