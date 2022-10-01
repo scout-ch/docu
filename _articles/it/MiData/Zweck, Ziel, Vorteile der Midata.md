@@ -4,8 +4,8 @@ slug: article-1
 categories: 1_Midata
 cat_sort: 06.03.2022
 relevance: Alle
-lang: de
-date: 06.03.2022
+lang: fr
+date: 02.10.2022
 ---
 
 Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die Hauptfunktion der MiData ist die Verwaltung von Mitgliederdaten der Pfadi. Mittlerweilen sind weitere Funktionalitäten vorhanden:  
