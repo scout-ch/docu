@@ -4,8 +4,8 @@ slug: article-2
 categories: 1_Midata
 cat_sort: 05.03.2022
 relevance: Alle
-lang: de
-date: 05.03.2022
+lang: fr
+date: 02.10.2022
 ---
 
 Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben definiert und auf verschiedene Funktionen verteilt. Nachfolgend werden die Aufgaben der jeweiligen Funktionen aufgelistet, wobei es sich jedoch nicht um eine abschliessende Aufzählung handelt. Es dient zur Orientierung. 
