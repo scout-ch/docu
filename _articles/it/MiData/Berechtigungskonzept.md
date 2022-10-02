@@ -25,3 +25,6 @@ Die erlangte Berechtigung bezieht sich immer auf die darunter liegenden Organisa
 
 * Ausnahme Biber, Wolf, Pfadi, Pio und Rover
 Personen mit den Funktionen (Biber, Wolf, Pfadi, Pio und Rover) werden direkt in der Mitgliederda-tenbank nur für die Personen, die in den entsprechenden Abteilungen eine Rolle haben, angezeigt. Personen aus höheren Ebenen (z.b. Kantonsleiter) sehen direkt in der Mitgliederdatenbank keine Daten von den Teilnehmenden. Bei einem Versand über ein Abo können diese Personen aber trotz-dem erreicht werden.
+
+
+In der [generischen Benutzerdokumentation](https://hitobito.readthedocs.io/de/latest/access_concept.html) für Hitobito sind weitere Informationen über das Berechtigungskonzept zu finden.  
