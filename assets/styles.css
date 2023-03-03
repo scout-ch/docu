@@ -29,14 +29,24 @@ a.active {
 	font-weight: 700;
 }
 
+h1 {
+	margin-top: 1.4em;
+}
+
+h2 {
+	margin-top: 1em;
+}
+
+h3 {
+	font-size: 1.75rem;
+	margin-top: 0.8em;
+}
+
 h2,h3,h4,h5,h6 {
 	color: #8c3c4f;
+	margin-top: 0.6em;
 }
-h3 {
-	font-size: 35px;
-	margin: 10px 0;
-	padding-bottom: 0.4em
-}
+
 p, ul, li, a, span, div {
 	line-height: 1.27;
 	font-size: 15px;

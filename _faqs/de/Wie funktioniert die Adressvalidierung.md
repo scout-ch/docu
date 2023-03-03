@@ -2,7 +2,7 @@
 title: Wie funktioniert die Adressvalidierung?
 slug: faq1
 lang: de
-order: Wie drucke
+order: C02
 ---
 
 Die MiData gleicht Adressen von Personen mit dem Post-Verzeichnis ab und macht dir beim Erfassen Vorschläge, damit du die Adresse schneller eintragen kannst und verschiedene Schreibweisen vermieden werden. 

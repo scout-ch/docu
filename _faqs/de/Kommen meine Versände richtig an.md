@@ -2,7 +2,7 @@
 title: Kommen meine Versände richtig an?
 slug: faq1
 lang: de
-order: Kommen meine Versände
+order: D03
 ---
 
 Es gibt ganz viele Gründe, warum ein Mail aus einem Abo-Versand nicht ankommen kann. Damit du im Dschungel der E-Mail-Systeme zurechtkommst, kannst du folgende Schritte versuchen:

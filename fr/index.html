@@ -5,10 +5,24 @@ slug: home
 lang: fr
 ---
 
-{% assign introductions = site.introductions | where: "lang", "fr" %}
-{% for introduction in introductions %}
+{% assign articles = site.introductions | where: "lang", "fr" | sort: "order" %}
 
-  <h3>{{ introduction.title }}</h3>
-  <p>{{ introduction.content}}</p>
-  <br />
+<iframe
+  style="width: 100%; min-height: 500px"
+  src="https://www.youtube.com/embed/unh5ovE8rcg"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
+
+<br/><br/>
+<h3>Willkommen</h3>
+<p>Du kannst mit deinem Browser am Smartphone, Tablet oder PC direkt via [https://db.scout.ch](https://db.scout.ch) auf die MiData zugreifen. Falls du noch keinen Account hast, kannst du dich bei deiner Abteilung melden. Diese kann dir den Zugang einrichten oder einen Link zuschicken, damit du dich selber registrieren kannst. Hier sind einige Tipps und Links für den Umgang mit der Mitgliederdatenbank.</p>
+
+<ul>
+{% for article in articles %}
+	<li><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }} <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+		<path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
+	</svg></a></li>
 {% endfor %}
+</ul>

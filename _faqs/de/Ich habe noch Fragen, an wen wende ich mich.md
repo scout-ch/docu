@@ -2,14 +2,14 @@
 title: Ich habe noch Fragen, an wen wende ich mich?
 slug: faq1
 lang: de
-order: zzz
+order: Z09
 ---
 
 Dein primärer Ansprechpartner ist der
 
 ### PowerUser in der Region/Bezirk/Corps oder im Kantonalverband.
 
-Den zuständigen PowerUser, findest du unter "Hilfe" in der linken Seitenliste.
+Den zuständigen PowerUser, findest du unter [Hilfe](https://db.scout.ch/de/help) in der linken Seitenliste.
 
 **Benötigt der kantonale PowerUser weiterführende Hilfe, kann er sich an die Support Organisation der PBS wenden.**
 
