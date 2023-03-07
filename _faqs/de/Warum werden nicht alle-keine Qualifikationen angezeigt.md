@@ -2,7 +2,7 @@
 title: Warum werden nicht alle/keine Qualifikationen angezeigt?
 slug: faq1
 lang: de
-order: Warum werden nicht
+order: B01
 ---
 
 Alle Qualifikationen aus der J+S-Datenbank wurden Ende 2016 importiert. Aufgrund von Doubletten in der J+S-Datenbank kann es jedoch sein, dass gewisse Qualifikationen fehlen.

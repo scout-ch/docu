@@ -81,34 +81,67 @@ defaults:
   - scope:
       path: "_articles/de"
     values:
-      permalink: "/de/dokumentation/:slug"
+      permalink: "de/dokumentation/:slug"
       lang: de
-      articles: "dokumentation"
+      pagename: "dokumentation"
+      backroute: "dokumentation"
       backlink: "Zurück zur Übersicht"
       relevance_title: "Relevant für:"
       layout: article
   - scope:
       path: "_articles/fr"
     values:
-      permalink: "/fr/documentation/:slug"
+      permalink: "fr/documentation/:slug"
       lang: fr
-      articles: "documentation"
+      pagename: "documentation"
+      backroute: "documentation"
       backlink: "Retour à la vue d'ensemble"
       relevance_title: "Pertinent pour:"
       layout: article
   - scope:
       path: "_articles/it"
     values:
-      permalink: "/it/documentazione/:slug"
+      permalink: "it/documentazione/:slug"
       lang: it
-      articles: "documentazione"
+      pagename: "documentazione"
+      backroute: "documentazione"
+      backlink: "Torna alla panoramica"
+      relevance_title: "Rilevante per:"
+      layout: article
+  - scope:
+      path: "_introductions/de"
+    values:
+      permalink: "de/einstieg/:slug"
+      lang: de
+      pagename: "einstieg"
+      backroute: "index"
+      backlink: "Zurück zur Übersicht"
+      relevance_title: "Relevant für:"
+      layout: article
+  - scope:
+      path: "_introductions/fr"
+    values:
+      permalink: "fr/einstieg/:slug"
+      lang: fr
+      pagename: "einstieg"
+      backroute: "index"
+      backlink: "Retour à la vue d'ensemble"
+      relevance_title: "Pertinent pour:"
+      layout: article
+  - scope:
+      path: "_introductions/it"
+    values:
+      permalink: "it/einstieg/:slug"
+      lang: it
+      pagename: "einstieg"
+      backroute: "index"
       backlink: "Torna alla panoramica"
       relevance_title: "Rilevante per:"
       layout: article
   - scope:
       path: "_releases/de"
     values:
-      permalink: "/de/versionshinweise/:slug"
+      permalink: "de/versionshinweise/:slug"
       lang: de
       releases: "versionshinweise"
       backlink: "Zurück zur Übersicht"
@@ -116,7 +149,7 @@ defaults:
   - scope:
       path: "_releases/fr"
     values:
-      permalink: "/fr/notes-de-version/:slug"
+      permalink: "fr/notes-de-version/:slug"
       lang: fr
       releases: "notes de version"
       backlink: "Retour à la vue d'ensemble"
@@ -124,7 +157,7 @@ defaults:
   - scope:
       path: "_releases/it"
     values:
-      permalink: "/it/note-di-rilascio/:slug"
+      permalink: "it/note-di-rilascio/:slug"
       lang: it
       releases: "note di rilascio"
       backlink: "Torna alla panoramica"

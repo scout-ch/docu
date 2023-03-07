@@ -2,7 +2,7 @@
 title: Wie kann ich zwei Benutzeraccount zusammenschliessen (Dubletten)?
 slug: faq1
 lang: de
-order: Wie kann ich
+order: A02
 ---
 
 Von Zeit zu Zeit kommt es vor, dass für eine Person zwei Accounts erstellt wurden. Damit ihr wieder Ordnung in die Daten bekommt, könnt ihr die beiden Accounts im Normalfall mit Hilfe von einem*einer Poweruser*in zusammenschliessen.

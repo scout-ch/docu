@@ -5,15 +5,19 @@ slug: faqs
 lang: fr
 ---
 <div class="accordion" id="accordionFAQ">
-	{% assign faqs = site.faqs | where: "lang", "fr" %}
+	<hr class="hr-faq" />
+
+	{% assign faqs = site.faqs | where: "lang", "fr" | sort: "order" %}
 	{% for faq in faqs %}
 		<div class="card">
 		    <div class="card-header" id="heading-{{ forloop.index }}">
-		      <h3 class="faq-title">
-		        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ forloop.index }}" aria-expanded="true" aria-controls="content-{{ forloop.index }}">
-		          {{ faq.title }}
+		      <h2 class="faq-title">
+		        <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ forloop.index }}" aria-expanded="true" aria-controls="content-{{ forloop.index }}">
+		          {{ faq.title }}<span class="right"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+								<path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+							</svg></span>
 		        </button>
-		      </h3>
+		      </h2>
 		    </div>
 		    <div id="content-{{ forloop.index }}" class="collapse" aria-labelledby="heading-{{ forloop.index }}" data-parent="#accordionFAQ">
 		      <div class="card-body">
@@ -21,5 +25,7 @@ lang: fr
 		      </div>
 		    </div>
 	  	</div>
+
+		<hr class="hr-faq" />
 	{% endfor %}
 </div>
