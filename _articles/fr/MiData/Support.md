@@ -2,21 +2,16 @@
 title: Support
 slug: article-6
 categories: 1_Midata
-cat_sort: 01.03.2022
+cat_sort: 25.03.2023
 relevance: Alle
 lang: fr
-date: 01.03.2022
+date: 25.03.2023
 ---
 
-Die primären Ansprechpartner sind die
+Le rôle d'un PowerUser peut être défini pour les groupes, les régions et les associations canto-nales. Ces PowerUser sont les interlocuteurs principaux des utilisateur·trice·s. Les utilisateur·trice·s peuvent trouver leurs PowerUsers respectifs sur la [page d'aide de MiData](https://db.scout.ch/fr/help).
 
-## PowerUser in der Region/Bezirk/Corps oder im Kantonalverband.
+Si les PowerUser cantonaux ont besoin d'une aide plus approfondie, ils peuvent s'adresser au MSdS (midata@pbs.ch,  0313280551).
 
+Il est important que ce mode de communication soit respecté. Les demandes adressées au MSdS qui ne proviennent pas de PowerUsers cantonaux sont en général rejetées. 
 
-Benötigen die kantonalen PowerUser weiterführende Hilfe, können sie sich an die Support Organisation der PBS wenden.
-
-Pfadibewegung Schweiz, [031 328 05 45](tel:031 328 05 45)
-
-[E-Mail](mailto:midata@pbs.ch)
-
-Wichtig ist, dass dieser Kommunikationsweg eingehalten wird. Anfragen an die PBS, die nicht von kantonalen PowerUsern stammen, werden in der Regel abgewiesen.
+<img src="/docu/images/documentation/Support_fr.png" width="25%" alt="mode de communication support"/>

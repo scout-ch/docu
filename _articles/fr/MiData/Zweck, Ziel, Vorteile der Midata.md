@@ -2,30 +2,28 @@
 title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: 1_Midata
-cat_sort: 06.03.2022
+cat_sort: 25.03.2023
 relevance: Alle
 lang: fr
-date: 06.03.2022
+date: 25.03.2023
 ---
 
-Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die Hauptfunktion der MiData ist die Verwaltung von Mitgliederdaten der Pfadi. Mittlerweilen sind weitere Funktionalitäten vorhanden:  
+Le but de la base de données des membres (MiData) est de permettre à tous les niveaux du scoutisme - groupes, régions, associations cantonales et niveau fédéral - de gérer les membres. En plus de la gestion des données des membres, MiData offre une large palette d'autres fonctionnalités. Il s'agit d'une version adaptée de l'application "hitobito", qui est utilisée par diverses associations en Suisse et en Allemagne. Nous considérons la base de données des membres comme un outil qui soutient différents projets scouts.
 
-* Komfortable Verwaltung der Mitgliederdaten deiner Abteilung (Kinder, Leitende, etc.)  
-* Einfache Darstellung der Gruppenhierarchie (Stufe, Abteilung, Region, Kantonalverband)  
-* Bestandesmeldung von Abteilung an Kantonalverband 
-* Verwaltung von Anlässen und Teilnehmenden 
-* Verwaltung von Lagern inkl. elektronischer Anmeldung und Lagermeldung an die PBS 
-* Prozesse rund um die Ausbildungskurse und Qualifikationen
-* Versand von Informationen an spezifische Empfänger durch Abos 
-* Anmeldung bei ausgewählten externen Applikationen mittels MiData-Login 
+Les groupes gèrent eux-mêmes les données de leurs groupes. La gestion des données, et donc la responsabilité de ces données, est organisée de manière décentralisée. 
 
-## Vorteile der MiData für die Pfadi
+La protection des données de nos membres est pour nous une préoccupation majeure. [La nouvelle loi sur la protection des données (nLPD)](https://www.kmu.admin.ch/kmu/fr/home/faits-et-tendances/digitalisation/protection-des-donnees/nouvelle-loi-sur-la-protection-des-donnees-nlpd.html) ainsi que la [déclaration de protection des données du MSdS](https://pfadi.swiss/fr/association/protection-des-donnees/dpd/) doivent être respectées.
+
+
+## Quels sont les avantages d'une base de données commune des membres ?
 
 * Alle Daten sind strukturiert und einheitlich an einem Ort abgelegt 
-* Abteilungen haben die volle Kontrolle über ihre Mitgliederdaten 
-* Finden von Kontaktdaten und Organisationseinheiten innerhalb der Pfadi 
-* Striktes Berechtigungskonzept und Einhaltung der Datenschutzvorgaben 
-* Daten werden sicher auf einem Server in der Schweiz gespeichert  
-* Erleichterung diverser administrativer Prozesse  
-* Die Mitgliederdatenbank ist Dreisprachig aufgebaut (Deutsch, Französisch, Italienisch) 
-* Anbindung von Schnittstellen für die digitale Vernetzung 
+* Toutes les données sont structurées et stockées de manière uniforme au même endroit.
+* Interface utilisateur trilingue (allemand, français, italien)
+* Les groupes ont un contrôle total sur les données de leurs membres
+*	Concept d'autorisation strict et respect des directives de protection des données
+* Les données sont stockées en toute sécurité sur un serveur en Suisse 
+* Facilitation de divers processus administratifs (cours, camps, Sarasani, ...)
+* Recherche simplifiée des données de contact et des unités de l’organisation
+* Connexion d'autres applications scoutes via une interface
+

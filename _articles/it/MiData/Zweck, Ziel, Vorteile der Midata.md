@@ -2,30 +2,25 @@
 title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: 1_Midata
-cat_sort: 06.03.2022
+cat_sort: 25.03.2023
 relevance: Alle
 lang: it
-date: 02.10.2022
+date: 05.03.2023
 ---
+L'obiettivo e lo scopo della banca dati dei membri (MiData) è quello di consentire un'adeguata gestione dei membri a tutti i livelli dello scoutismo, ovvero le sezioni, le zone, le associazioni cantonali e il livello federale. Oltre alla gestione dei dati dei membri, MiData offre un'ampia gamma di altre funzioni. Si tratta infatti di una versione adattata dell'applicazione "hitobito", utilizzata da diverse associazioni in Svizzera e in Germania. Consideriamo la banca dati dei membri come strumento di supporto a vari processi scout.  
 
-Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die Hauptfunktion der MiData ist die Verwaltung von Mitgliederdaten der Pfadi. Mittlerweilen sind weitere Funktionalitäten vorhanden:  
+Le sezioni gestiscono autonomamente i propri dati sezionali. La sovranità dei dati, e di conse-guenza anche la loro responsabilità, è quindi organizzata in modo decentrato.  
 
-* Komfortable Verwaltung der Mitgliederdaten deiner Abteilung (Kinder, Leitende, etc.)  
-* Einfache Darstellung der Gruppenhierarchie (Stufe, Abteilung, Region, Kantonalverband)  
-* Bestandesmeldung von Abteilung an Kantonalverband 
-* Verwaltung von Anlässen und Teilnehmenden 
-* Verwaltung von Lagern inkl. elektronischer Anmeldung und Lagermeldung an die PBS 
-* Prozesse rund um die Ausbildungskurse und Qualifikationen
-* Versand von Informationen an spezifische Empfänger durch Abos 
-* Anmeldung bei ausgewählten externen Applikationen mittels MiData-Login 
+La protezione dei dati dei nostri membri ci sta particolarmente a cuore. La [nuova legge sulla protezione dei dati (nLPD)](https://www.kmu.admin.ch/kmu/it/home/fatti-e-tendenze/digitalizzazione/protezione-dei-dati/nuova-legge-sulla-protezione-dei-dati-nlpd.html) e la [direttiva sulla privacy del MSS](https://pfadi.swiss/it/associazione/protezione-dei-dati/isp/) vanno rigorosamente rispet-tate. 
 
-## Vorteile der MiData für die Pfadi
 
-* Alle Daten sind strukturiert und einheitlich an einem Ort abgelegt 
-* Abteilungen haben die volle Kontrolle über ihre Mitgliederdaten 
-* Finden von Kontaktdaten und Organisationseinheiten innerhalb der Pfadi 
-* Striktes Berechtigungskonzept und Einhaltung der Datenschutzvorgaben 
-* Daten werden sicher auf einem Server in der Schweiz gespeichert  
-* Erleichterung diverser administrativer Prozesse  
-* Die Mitgliederdatenbank ist Dreisprachig aufgebaut (Deutsch, Französisch, Italienisch) 
-* Anbindung von Schnittstellen für die digitale Vernetzung 
+## Quali sono i vantaggi di una banca dati membri unica? 
+
+* Tutti i dati vengono archiviati in modo strutturato e uniforme in un unico luogo.
+* Interfaccia utente trilingue (tedesco, francese, italiano)
+* Le sezioni hanno il pieno controllo sui dati dei propri membri
+* Sistema di autorizzazione e conformità ai requisiti di protezione dei dati rigoroso. 
+* I dati vengono archiviati in modo sicuro su un server in Svizzera. 
+* Facilitare i vari processi amministrativi (corsi, campi, Sarasani, ecc.)
+* Ricerca semplificata dei recapiti e delle unità organizzative  
+* Collegamento ad altre applicazioni scout tramite interfaccia
