@@ -1,5 +1,5 @@
 ---
-title: concetto di autorizzazione
+title: Concetto di autorizzazione
 slug: article-5
 categories: 1_Midata
 cat_sort: 25.03.2023

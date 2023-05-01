@@ -1,6 +1,6 @@
 ---
 title: Ambiente di test e ulteriori sviluppi 
-slug: article-3
+slug: article-6
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Alle
@@ -10,22 +10,7 @@ date: 25.03.2023
 
 ## Ambiente di test
 
-Per i test utilizziamo una nostra applicazione indipendente. In questo sistema non è possibile utilizzare dati reali. Tutti gli account utente sono accessibili pubblicamente. Si noti inoltre che i dati di prova possono essere sovrascritti in qualsiasi momento. Inoltre, vengono costantemente aggiunte nuove funzioni che potrebbero non essere ancora presenti nel sistema produttivo. La funzione di posta elettronica non è attiva nell'ambiente di prova, e non vengono quindi inviate e-mail agli indirizzi dei destinatari. 
-
-Link: [pbs.puzzle.ch](https://pbs.puzzle.ch/)
-
-Potete registrarvi come:
-* Capo unità: ullrich_emirhan@hitobito.example.com
-* Capo sezione: letizia_wilhelm@hitobito.example.com
-* Admin: hussein_kohlmann@hitobito.example.com
-
-Password: hito42bito
-Attenzione: Le e-mail provenienti dall'ambiente di test non vengono recapitate, ma raccolte in una casella postale centralizzata.
-
-Link: https://mailtrap.io
-Nome utente: hitobito-pbs@puzzle.ch
-Password: XydDHtAqZIQh7igTD
-
+Vedi la voce in [F.A.Q.](https://scout-ch.github.io/docu/it/faq)
 
 ## ULTERIORI SVILUPPI
 

@@ -1,6 +1,6 @@
 ---
 title: Environnement test et développement
-slug: article-3
+slug: article-6
 categories: 1_Midata
 cat_sort: 25.03.2022
 relevance: Alle
@@ -10,24 +10,8 @@ date: 25.03.2022
 
 ## Environnement test
 
-Pour les tests, nous disposons d'une instance propre et indépendante. Aucune donnée réelle ne doit être utilisée dans ce système. Tous les comptes d’utilisateur·trice·s sont publics. Veuillez également noter que les données de test peuvent être écrasées à tout moment. De plus, de nouvelles fonctionnalités sont ajoutées en permanence, lesquelles ne sont probablement pas encore disponibles sur le système opérationnel. La fonctionnalité de messagerie n'est pas activée dans l'environnement test, aucun e-mail n'est donc envoyé aux adresses des destinataires.
+Voir l'article dans [F.A.Q.](https://scout-ch.github.io/docu/fr/faq)
 
-Lien: [pbs.puzzle.ch](https://pbs.puzzle.ch/)
-
-Tu peux t'inscrire en tant que:
-
-* Responsable d'unité: ullrich_emirhan@hitobito.example.com
-* Responsable de groupe: letizia_wilhelm@hitobito.example.com
-* Admin: hussein_kohlmann@hitobito.example.com
-
-Mot de passe: hito42bito
-
-Attention : les mails de l'environnement test ne sont pas envoyés, mais rassemblés dans une messagerie centrale.
-
-Lien : https://mailtrap.io 
-Nom d'utilisateur·trice : hitobito-pbs@puzzle.ch
-Mot de passe : XydDHtAqZIQh7igTD
- 
 ## Développement
 
 Pour que MiData puisse répondre aux besoins actuels et nouveaux ainsi que continuer à être utilisé à l'avenir, il faut un développement continuel. Le développement est indépendant du support. MiData est géré comme un élément stratégique au sein du MSdS et fait partie inté-grante de la stratégie informatique, avec un budget correspondant.

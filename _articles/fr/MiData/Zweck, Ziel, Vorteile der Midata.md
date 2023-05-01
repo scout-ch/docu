@@ -1,5 +1,5 @@
 ---
-title: Zweck, Ziel, Vorteile der MiData
+title: But, objectif, avantages de la MiData
 slug: article-1
 categories: 1_Midata
 cat_sort: 25.03.2023
@@ -17,13 +17,13 @@ La protection des données de nos membres est pour nous une préoccupation majeu
 
 ## Quels sont les avantages d'une base de données commune des membres ?
 
-* Alle Daten sind strukturiert und einheitlich an einem Ort abgelegt 
-* Toutes les données sont structurées et stockées de manière uniforme au même endroit.
-* Interface utilisateur trilingue (allemand, français, italien)
-* Les groupes ont un contrôle total sur les données de leurs membres
-*	Concept d'autorisation strict et respect des directives de protection des données
-* Les données sont stockées en toute sécurité sur un serveur en Suisse 
-* Facilitation de divers processus administratifs (cours, camps, Sarasani, ...)
-* Recherche simplifiée des données de contact et des unités de l’organisation
-* Connexion d'autres applications scoutes via une interface
+- Toutes les données sont structurées et stockées de manière uniforme au même endroit.
+- Interface utilisateur trilingue (allemand, français, italien)
+- Les groupes ont un contrôle total sur les données de leurs membres
+- Concept d'autorisation strict et respect des directives de protection des données
+Les données sont stockées en toute sécurité sur un serveur en Suisse 
+- Facilitation de divers processus administratifs (cours, camps, Sarasani, ...)
+- Recherche simplifiée des données de contact et des unités de l’organisation
+- Connexion d'autres applications scoutes via une interface
+
 

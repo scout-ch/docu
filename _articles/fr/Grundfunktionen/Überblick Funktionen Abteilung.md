@@ -1,5 +1,5 @@
 ---
-title: Überblick Funktionen auf Abteilungsebene
+title: Aperçu des fonctions au niveau du groupe
 slug: article-8
 categories: 2_Grundfunktionen
 cat_sort: B
@@ -8,78 +8,77 @@ lang: fr
 date: 02.10.2022
 ---
 
-# Überblick Funktionen auf Abteilungsebene
+# Aperçu des fonctions au niveau du groupe
 
 ![Funktionen Musterabteilung](/docu/images/basicfunctions/musterabteilung__funktionen_fr.jpg)
 
-Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt: 
+Selon le rôle, plus ou moins des fonctions suivantes sont affichées : 
 
-## Info 
-* Anzeige und Bearbeitung von Kontaktangaben und weitere Angaben zur Abteilung 
-* Anzeige und Erfassung von Notizen 
-* Anzeige und Erstellung von Untergruppen 
-* CSV Export der Untergruppen 
+## Informations
+- Affichage et édition des coordonnées et autres informations sur le département. 
+- Affichage et saisie de notes 
+- Affichage et création de sous-groupes 
+- Exportation CSV des sous-groupes 
 
-## Personen 
-* Anzeige aller aktiven und passiven Mitglieder 
-* Neue Personen Erfassen und bestehende Personen bearbeiten 
-* Rechnung erstellen  
-* Neue Personen mittels CVS Datei importieren  
-* Export der Personen in verschiedene Dateiformate  
-* Generierung PDF der Personenübersicht für Druck 
-* Bei Auswahl von Personen (Mehrfachauswahl möglich)
-* Rollen hinzufügen, Rollen verschieben, Rollen entfernen, sowie Personen zu Veranstaltungen hinzufügen und Tags zu Person hinzufügen 
+## Personnes 
+- Affichage de tous les membres actifs et passifs 
+- Saisir de nouvelles personnes et modifier les personnes existantes 
+- Créer une facture  
+- Importer de nouvelles personnes à l'aide du fichier CVS  
+- Exportation des personnes dans différents formats de fichiers  
+- Génération d'un PDF de l'aperçu des personnes pour l'impression 
+- Sélection de personnes (sélection multiple possible).
+- Ajouter des rôles, déplacer des rôles, supprimer des rôles, ainsi qu'ajouter des personnes aux événements et ajouter des tags à la personne. 
 
-## Anlässe 
-* Neuer Anlass erfassen und bestehender Anlass bearbeiten 
-* Export der Anlassübersicht 
-* Kalenderexport der erfassten Anlässe 
-* Anmeldung für bestehende Anlässe  
+## Événements 
+- Saisir un nouvel événement et modifier un événement existant 
+- Exportation de l'aperçu de l'événement 
+- Exportation du calendrier des événements saisis 
+- Inscription à des événements existants  
  
-## Kurse 
-* Neuer Kurs erfassen und bestehender Kurs bearbeiten 
-* Export der Kursübersicht 
-* Kalenderexport der erfassten Kurse 
-* Anmeldung für bestehende Kurse 
-* Leitfäden zur Erstellung von Kursen sind links in der Hilfe zu finden
-
+## Cours 
+- Saisir un nouveau cours et modifier un cours existant 
+- Exportation de l'aperçu du cours 
+- Exportation du calendrier des cours saisis 
+- Inscription pour les cours existants 
+- Les guides pour la création de cours se trouvent à gauche dans l'aide.
  
-## Lager 
-* Neues Lager erfassen und bestehendes Lager bearbeiten 
-* Export der Lagerübersicht 
-* Kalenderexport der erfassten Lager 
-* Anmeldung für bestehende Lager  
-* Leitfaden zur Erstellung von Lagern ist links in der Hilfe zu finden
+## Camps
+- Saisir un nouveau camp et modifier un camp existant 
+- Exportation de l'aperçu de l'entrepôt 
+- Exportation du calendrier des camps saisis 
+- Inscription pour les camps existants  
+- Le guide pour la création de camps se trouve à gauche dans l'aide.
 
-## Abos 
-* Neues Abo erfassen und bestehendes Abo bearbeiten  
+## Abonnements 
+- Saisir un nouvel abonnement et modifier un abonnement existant  
 
-## Anfragen 
-* Übersicht aller Anfragen von Personen einer anderen Abteilung, welche zu einer Gruppe, einem Anlass, eines Abos der eigenen Abteilung hinzugefügt werden möchte. 
-* Freigabemöglichkeit der bestehenden Anfragen 
-* Beispiel: Wenn Tarantula von der Abteilung «Muster» bei der Abteilung «Muster 2» (Lager, Kurs oder Funktion) hinzugefügt wird, muss die Abteilungsleitung von «Muster» dem Teilen der Daten mit der Abteilung «Muster 2» zustimmen. 
+## Questions
+- Aperçu de toutes les demandes de personnes d'un autre département qui souhaitent être ajoutées à un groupe, un événement, un abonnement de leur propre département. 
+- Possibilité d'approuver les demandes existantes 
+- Exemple : Si Tarantula est ajoutée par le département "Modèle" au département "Modèle 2" (camp, cours ou fonction), la direction du département "Modèle" doit approuver le partage des données avec le département "Modèle 2". 
 
-## Notizen 
-* Anzeige aller erfassten Notizeinträge auf Personenebene 
+## Notes 
+- Affichage de toutes les entrées de notes saisies au niveau des personnes. 
 
-## Gelöschte 
-* Anzeige der gelöschten Gruppen 
+## Eléments effacés
+- Affichage des groupes supprimés 
 
-## Ausbildung 
-* Anzeige aller erworbenen Qualifikationen inklusive Gültigkeit pro Person 
+## Formation 
+- Affichage de toutes les qualifications acquises, y compris la validité par personne. 
 
-## Kursfreigaben
-* Übersicht aller offenen Kursfreigaben  
+## Validations de cours
+- Aperçu de toutes les validations de cours ouvertes  
 
-## Bestand
-* Anzeige aktueller Mitgliederbestand mit Jahrgangsübersicht 
-* Jährliche Bestandesmeldung an die PBS 
+## Effectifs
+- Affichage de l'effectif actuel avec aperçu des années 
+- Déclaration annuelle des effectifs à la PBS 
 
-## Statistik 
-* Anzeige des jährlichen Mitgliederbestandes 
+## Statistiques 
+- Affichage de l'effectif annuel des membres 
 
-## Einstellungen 
-* Hinzufügen von API-Keys 
-* Erstellen von Kalender-Feeds 
-* Bearbeitungen von Briefeinstellungen 
-* Bearbeitung von SMS Providereinstellungen  
+## Paramètres 
+- Ajouter des clés API 
+- Création de flux de calendrier 
+- Éditions des paramètres de lettres 
+- Edition des paramètres du fournisseur de SMS  

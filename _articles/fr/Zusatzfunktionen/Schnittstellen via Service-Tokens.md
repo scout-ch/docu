@@ -1,5 +1,5 @@
 ---
-title: Schnittstellen via Service-Tokens
+title: Interface des jetons de service
 slug: article-14
 categories: 3_Zusatzfunktionen
 cat_sort: C
@@ -8,8 +8,6 @@ lang: fr
 date: 02.10.2022
 ---
 
-Service Accounts ermöglichen es, für eine externe Applikation einen eigenen Account mit bestimmten 
-Berechtigungen zu erstellen, mit dem sie dann die JSON-Schnittstelle nutzen kann. Service Accounts 
-werden pro Ebene von einer berechtigten Person erstellt und bleiben auch bestehen, wenn diese 
-Person die Gruppe verlässt oder gelöscht wird.
-* [Spezifikation (Englisch)](https://github.com/hitobito/hitobito/blob/master/doc/development/07_service_accounts.md)
+Les comptes de service permettent à une application externe d'avoir son propre compte avec certains paramètres. Créer des autorisations avec lesquelles elle peut ensuite utiliser l'interface JSON. Les comptes de service sont créés par niveau par une personne autorisée et restent en place même si cette personne est personne quitte le groupe ou est supprimée.
+
+* [Spécification (anglais)](https://github.com/hitobito/hitobito/blob/master/doc/development/07_service_accounts.md)

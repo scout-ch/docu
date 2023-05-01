@@ -1,5 +1,5 @@
 ---
-title: Schnittstellen via OAuth
+title: Interfaccia OAuth
 slug: article-15
 categories: 3_Zusatzfunktionen
 cat_sort: C
@@ -8,9 +8,9 @@ lang: it
 date: 02.10.2022
 ---
 
-Die MiData ist ebenfalls ist ein OAuth 2.0 Anbieter, das heisst dass eine externe Applikation Benutzer via MiData authentifizieren kann. Du kennst dieses Prinzip vielleicht bereits, wenn du einmal "Anmelden mit Facebook" oder "Anmelden mit Google" verwendet hast. Die externe Applikation kann danach Informationen über den Benutzer aus der MiData abfragen wenn der Benutzer dies selber freigibt. Die OAuth-Anmeldung ermöglicht es auch, dass die externe Applikation die JSONSchnittstellen im Namen des Users nutzen kann. Die Applikation hat dabei dieselben Berechtigungen wie der Benutzer. 
+MiData è anche un provider OAuth 2.0, il che significa che un'applicazione esterna può autenticare gli utenti tramite MiData. Forse conosci già questo principio se hai mai usato "Accedi con Facebook" o "Accedi con Google". L'applicazione esterna può quindi richiedere informazioni sull'utente dai MiData se l'utente stesso le rilascia. Il login OAuth consente inoltre all'applicazione esterna di utilizzare le interfacce JSON per conto dell'utente. L'applicazione ha gli stessi permessi dell'utente. 
 
-* [Spezifikation (Englisch)](https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md)
+* [Specifiche (inglese)](https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md)
 
-Wenn du die MiData als OAuth-Provider für eine deiner Applikationen verwenden willst, musst du den OAuth-Antrag ausfüllen. Der IT-Support der PBS wird dir einen Zugang auf das Produktivsystem vergeben, insofern alle Vorbedingungen erfüllt sind: 
-* [Antrag OAuth Applikation](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
+Se vuoi utilizzare MiData come provider OAuth per una delle tue applicazioni, devi compilare la domanda OAuth. Il supporto informatico della PBS ti concederà l'accesso al sistema produttivo a condizione che siano soddisfatte tutte le condizioni preliminari: 
+* [Applicazione OAuth](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)

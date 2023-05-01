@@ -1,5 +1,5 @@
 ---
-title: Schnittstellen via OAuth
+title: Interface OAuth
 slug: article-15
 categories: 3_Zusatzfunktionen
 cat_sort: C
@@ -8,9 +8,9 @@ lang: fr
 date: 02.10.2022
 ---
 
-Die MiData ist ebenfalls ist ein OAuth 2.0 Anbieter, das heisst dass eine externe Applikation Benutzer via MiData authentifizieren kann. Du kennst dieses Prinzip vielleicht bereits, wenn du einmal "Anmelden mit Facebook" oder "Anmelden mit Google" verwendet hast. Die externe Applikation kann danach Informationen über den Benutzer aus der MiData abfragen wenn der Benutzer dies selber freigibt. Die OAuth-Anmeldung ermöglicht es auch, dass die externe Applikation die JSONSchnittstellen im Namen des Users nutzen kann. Die Applikation hat dabei dieselben Berechtigungen wie der Benutzer. 
+MiData est également un fournisseur OAuth 2.0, ce qui signifie qu'une application externe peut authentifier les utilisateurs via MiData. Tu connais peut-être déjà ce principe si tu as déjà utilisé "Se connecter avec Facebook" ou "Se connecter avec Google". L'application externe peut ensuite demander des informations sur l'utilisateur à partir de la MiData si l'utilisateur l'autorise lui-même. La connexion OAuth permet également à l'application externe d'utiliser les interfaces JSON au nom de l'utilisateur. L'application a alors les mêmes autorisations que l'utilisateur. 
 
-* [Spezifikation (Englisch)](https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md)
+* [Spécification (anglais)](https://github.com/hitobito/hitobito/blob/master/doc/development/08_oauth.md)
 
-Wenn du die MiData als OAuth-Provider für eine deiner Applikationen verwenden willst, musst du den OAuth-Antrag ausfüllen. Der IT-Support der PBS wird dir einen Zugang auf das Produktivsystem vergeben, insofern alle Vorbedingungen erfüllt sind: 
-* [Antrag OAuth Applikation](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
+Si tu veux utiliser MiData comme fournisseur OAuth pour l'une de tes applications, tu dois remplir la demande OAuth. Le support informatique du MSdS t'accordera un accès au système productif, dans la mesure où toutes les conditions préalables sont remplies : 
+* [demande d'application OAuth](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)

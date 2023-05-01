@@ -10,33 +10,33 @@ date: 02.10.2022
 
 ![grundfunktionen](/docu/images/basicfunctions/grundfunktionen_fr.jpg)
 
-## Gruppen
-* Übersicht aller Gruppen in der ganzen Midata
-* Gliederung: Pfadibewegung Schweiz -> Kantonalverbände -> Regionen -> Abteilungen 
+## Groupes
+- Aperçu de tous les groupes dans toute la Midata
+- Structure : Mouvement Scout de Suisse -> Associations cantonales -> Régions -> Groupes
 
-## Anlässe 
-* Übersicht aller Anlässe von Gruppen, bei denen man Mitglied ist, sowie deren Übergruppen.  
-* Andere Anlässe können in der organisierenden Gruppe gefunden und angezeigt werden 
+## Événements 
+- Aperçu de toutes les manifestations des groupes dont tu es membre, ainsi que de leurs supergroupes.
+- Les autres événements peuvent être trouvés et affichés dans le groupe organisateur.
 
-## Kurse 
-* Übersicht aller verfügbaren Kurse  
-* Filterung nach Zeitraum, Status, Anmeldung und Kursträger möglich  
+## Cours 
+- Aperçu de tous les cours disponibles
+- Possibilité de filtrer par période, statut, inscription et initiateur de cours.
 
-## Rechnungen 
-* Übersicht aller Rechnungen 
-* Neue Rechnung erfassen und bearbeiten
-* Externe Rechnungen erstellen  
-* Rechnung stellen und mahnen 
-* Export und Druck von Rechnungen  
+## Factures 
+- Aperçu de toutes les factures
+- Saisir et éditer une nouvelle facture
+- Créer des factures externes
+- Facturer et relancer
+- Exportation et impression de factures
 
-## Hilfe 
-* Übersicht aller PowerUser deiner Gruppe 
-* Leitfäden zur Administration von Kursen und Lagern 
+## Aide 
+- Aperçu de tous les PowerUser de ton groupe
+- Guides pour l'administration des cours et des camps 
 
-## Einstellungen  
-* Erstellung eigener Etikettenformate 
-* Übersicht aller globalen Etikettenformate 
-* Integration der Anlässe in Kalender 
-* Persönliche OAuth-Autorisierungen  
-* Die Midata kann in Deutsch, Französisch oder Italienisch angezeigt werden 
-* Logout 
+## Paramètres  
+- Création de tes propres formats d'étiquettes
+- Aperçu de tous les formats d'étiquettes globaux
+- Intégration des événements dans les calendriers
+- Autorisations personnelles OAuth
+- Midata peut être affiché en allemand, français ou italien.
+- Déconnexion

@@ -10,23 +10,7 @@ date: 25.03.2022
 
 ## Testumgebung
 
-Für Tests steht uns eine eigene, unabhängige Instanz zur Verfügung. In diesem System dürfen keine echten Daten verwendet werden. Alle Benutzeraccounts sind öffentlich zugänglich. Bitte beachte auch, dass die Test-Daten jederzeit überschrieben werden können. Zudem kommen laufend neue Funktionen dazu, die womöglich auf dem produktiven System noch nicht zu finden sind. Die Mailfunktion ist in der Testumgebung nicht scharf, es gehen also keine E-Mails an die Empfänger-Adressen verschickt.
-
-Link: [pbs.puzzle.ch](https://pbs.puzzle.ch/)
-
-Anmelden kannst du dich als:
-
-* Stufenleiter: ullrich_emirhan@hitobito.example.com
-* Abteilungsleiter: letizia_wilhelm@hitobito.example.com
-* Admin: hussein_kohlmann@hitobito.example.com
-
-Passwort: hito42bito
-
-Achtung: Die Mails aus der Testumgebung werden nicht ausgeliefert, sondern in einer zentralen Mailbox gesammelt.
-
-Link: https://mailtrap.io
-Benutzername: hitobito-pbs@puzzle.ch
-Passwort: XydDHtAqZIQh7igTD
+Siehe den Artikel im [F.A.Q.](https://scout-ch.github.io/docu/de/faq)
 
 ## Weiterentwicklung
 

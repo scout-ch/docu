@@ -1,6 +1,6 @@
 ---
-title: Datennutzung
-slug: article-4
+title: Utilizzo dei dati
+slug: article-2
 categories: 1_Midata
 cat_sort: 03.03.2022
 relevance: Alle
@@ -8,5 +8,6 @@ lang: it
 date: 02.10.2022
 ---
 
-Es wird ein grossen Wert auf die Sicherheit der Daten in der MiData gelegt. Die Verbindung ist verschlüsselt und die Daten werden in der Schweiz bei der Firma Puzzle ITC gespeichert. Um Missbrauch vorzubeugen, haben wir ein Berechtigungsmodell erarbeitet und die Benutzer werden beim Login über Verhaltensregeln informiert.
-> [Konzept der Datennutzung](https://pfadi.swiss/media/files/36/datennutzung-midata-pbs_v10_de.pdf)
+La sicurezza dei dati in MiData è molto importante. La connessione è criptata e i dati sono archiviati in Svizzera presso la società Puzzle ITC. Per evitare abusi, abbiamo sviluppato un modello di autorizzazione e gli utenti vengono informati delle regole di condotta al momento dell'accesso.
+
+Tutte le informazioni sull'utilizzo dei dati sono disponibili nella [sezione protezione dei dati](https://pfadi.swiss/it/associazione/protezione-dei-dati/). La nostra informativa sulla privacy mostra quali dati vengono raccolti e come li trattiamo.

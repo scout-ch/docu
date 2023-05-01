@@ -1,5 +1,5 @@
 ---
-title: Überblick Funktionen auf Abteilungsebene
+title: Panoramica delle funzioni della sezione
 slug: article-8
 categories: 2_Grundfunktionen
 cat_sort: B
@@ -8,78 +8,77 @@ lang: it
 date: 02.10.2022
 ---
 
-# Überblick Funktionen auf Abteilungsebene
+# Panoramica delle funzioni della sezione
 
 ![Funktionen Musterabteilung](/docu/images/basicfunctions/musterabteilung_funktionen_it.jpg)
 
-Je nach Rolle werden mehr oder weniger der nachfolgenden Funktionen angezeigt: 
+A seconda del ruolo, vengono visualizzate più o meno funzioni: 
 
-## Info 
-* Anzeige und Bearbeitung von Kontaktangaben und weitere Angaben zur Abteilung 
-* Anzeige und Erfassung von Notizen 
-* Anzeige und Erstellung von Untergruppen 
-* CSV Export der Untergruppen 
+## Informazioni
+* Visualizzazione e modifica dei dati di contatto e di altri dettagli del reparto. 
+* Visualizzazione e inserimento di note 
+* Visualizzazione e creazione di sottogruppi 
+* Esportazione CSV dei sottogruppi 
 
-## Personen 
-* Anzeige aller aktiven und passiven Mitglieder 
-* Neue Personen Erfassen und bestehende Personen bearbeiten 
-* Rechnung erstellen  
-* Neue Personen mittels CVS Datei importieren  
-* Export der Personen in verschiedene Dateiformate  
-* Generierung PDF der Personenübersicht für Druck 
-* Bei Auswahl von Personen (Mehrfachauswahl möglich)
-* Rollen hinzufügen, Rollen verschieben, Rollen entfernen, sowie Personen zu Veranstaltungen hinzufügen und Tags zu Person hinzufügen 
+## Persone 
+* Visualizzazione di tutti i membri attivi e passivi 
+* Inserimento di nuove persone e modifica di quelle esistenti 
+* Creazione di fatture  
+* Importazione di nuove persone tramite file CVS  
+* Esportazione di persone in vari formati di file  
+* Generazione di PDF della panoramica delle persone per la stampa 
+* Quando si selezionano le persone (è possibile una selezione multipla)
+* Aggiungi ruoli, sposta ruoli, rimuovi ruoli, aggiungi persone agli eventi e aggiungi tag alle persone. 
 
-## Anlässe 
-* Neuer Anlass erfassen und bestehender Anlass bearbeiten 
-* Export der Anlassübersicht 
-* Kalenderexport der erfassten Anlässe 
-* Anmeldung für bestehende Anlässe  
+## Eventi
+* Creazione di un nuovo evento e modifica di un evento esistente 
+* Esportazione della panoramica degli eventi 
+* Esportazione del calendario degli eventi registrati 
+* Registrazione di eventi esistenti  
  
-## Kurse 
-* Neuer Kurs erfassen und bestehender Kurs bearbeiten 
-* Export der Kursübersicht 
-* Kalenderexport der erfassten Kurse 
-* Anmeldung für bestehende Kurse 
-* Leitfäden zur Erstellung von Kursen sind links in der Hilfe zu finden
+## Corsi
+* Creazione di un nuovo corso e modifica di un corso esistente 
+* Esportazione della panoramica dei corsi 
+* Esportazione del calendario dei corsi registrati 
+* Registrazione di corsi esistenti 
+* Le guide alla creazione dei corsi sono disponibili nella guida a sinistra.
 
- 
-## Lager 
-* Neues Lager erfassen und bestehendes Lager bearbeiten 
-* Export der Lagerübersicht 
-* Kalenderexport der erfassten Lager 
-* Anmeldung für bestehende Lager  
-* Leitfaden zur Erstellung von Lagern ist links in der Hilfe zu finden
+## Campi
+* Creazione di un nuovo magazzino e modifica di un magazzino esistente 
+* Esportazione della panoramica del magazzino 
+* Esportazione del calendario dei campi inseriti 
+* Registrazione dei campi esistenti  
+* Le linee guida per la creazione dei magazzini sono disponibili nella guida a sinistra.
 
-## Abos 
-* Neues Abo erfassen und bestehendes Abo bearbeiten  
+## Abbonamenti
+* Crea un nuovo abbonamento e modifica l'abbonamento esistente  
 
-## Anfragen 
-* Übersicht aller Anfragen von Personen einer anderen Abteilung, welche zu einer Gruppe, einem Anlass, eines Abos der eigenen Abteilung hinzugefügt werden möchte. 
-* Freigabemöglichkeit der bestehenden Anfragen 
-* Beispiel: Wenn Tarantula von der Abteilung «Muster» bei der Abteilung «Muster 2» (Lager, Kurs oder Funktion) hinzugefügt wird, muss die Abteilungsleitung von «Muster» dem Teilen der Daten mit der Abteilung «Muster 2» zustimmen. 
+## Richieste
+* Panoramica di tutte le richieste di persone di un altro reparto che vogliono essere aggiunte a un gruppo, a un evento o a un abbonamento del proprio reparto. 
+* Opzione di rilascio per le richieste esistenti 
+* Esempio: Se Tarantola viene aggiunta dal reparto "Muster" al reparto "Muster 2" (campo, corso o funzione), la direzione del reparto "Muster" deve approvare la condivisione dei dati con il reparto "Muster 2". 
 
-## Notizen 
-* Anzeige aller erfassten Notizeinträge auf Personenebene 
+## Note
+* Visualizzazione di tutte le note registrate a livello di persona. 
 
-## Gelöschte 
-* Anzeige der gelöschten Gruppen 
+## Cancellato
+* Visualizzazione dei gruppi cancellati 
 
-## Ausbildung 
-* Anzeige aller erworbenen Qualifikationen inklusive Gültigkeit pro Person 
+## Formazione
+* Visualizzazione di tutte le qualifiche acquisite, compresa la validità per persona. 
 
-## Kursfreigaben
-* Übersicht aller offenen Kursfreigaben  
+## Rilasci di corsi
+* Panoramica di tutti i corsi aperti  
 
-## Bestand
-* Anzeige aktueller Mitgliederbestand mit Jahrgangsübersicht 
-* Jährliche Bestandesmeldung an die PBS 
+## Censimento dei membri
+* Visualizzazione dell'effettivo attuale con una panoramica dell'anno 
+* Rapporto annuale sulle scorte al PBS 
 
-## Statistik 
-* Anzeige des jährlichen Mitgliederbestandes 
+## Statistiche
+* Visualizzazione dell'iscrizione annuale 
 
-## Einstellungen 
-* Hinzufügen von API-Keys 
-* Erstellen von Kalender-Feeds 
-* Bearbeitungen von Briefeinstellungen 
-* Bearbeitung von SMS Providereinstellungen  
+## Impostazioni
+* Aggiungere chiavi API 
+* Creazione di feed di calendario 
+* Modifica delle impostazioni della lettera 
+* Modifica delle impostazioni del provider di SMS  

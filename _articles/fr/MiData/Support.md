@@ -1,6 +1,6 @@
 ---
 title: Support
-slug: article-6
+slug: article-4
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Alle

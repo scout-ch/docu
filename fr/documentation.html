@@ -10,7 +10,7 @@ lang: fr
 {% for category in categories %}
 	{% assign cat_name = category.name %}
 	<h3>{{ cat_name | slice: 1,cat_name.size |remove_first: "_" | capitalize }}</h3>
-	{% assign posts = articles | where: "categories", category.name | sort: "date" | reverse  %}
+	{% assign posts = articles | where: "categories", category.name | sort: "slug" %}
 	<ul>
 		{% for article in posts %}
 			{% assign tags = article.tags %}
