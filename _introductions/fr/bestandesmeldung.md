@@ -2,7 +2,7 @@
 title: Annonce des effectifs
 slug: introdart5
 relevance: Alle
-lang: de
+lang: fr
 order: eeee
 ---
 

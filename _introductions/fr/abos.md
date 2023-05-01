@@ -2,7 +2,7 @@
 title: Abonnements
 slug: introdart4
 relevance: Alle
-lang: de
+lang: fr
 order: dddd
 ---
 

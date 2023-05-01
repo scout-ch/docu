@@ -2,13 +2,13 @@
 title: Events (Anlässe) 
 slug: introdart3
 relevance: Alle
-lang: fr
+lang: de
 order: cccc
 ---
 
 ## Anlässe 
 
-Hier können einfache Anlässe verwaltet werden, die weder als Kurs noch als Lager durchgeführt werden. Je nach Anlass können sich die Teilnehmer*innen selber anmelden oder werden direkt durch die Leitung zugewiesen. Teilnehmer*innen können in verschiedenen Rollen angemeldet werden (z.B. Hauptleitung, Leitung, Küche, Teilnehmer*in, …).
+Hier können einfache Anlässe verwaltet werden, die weder als Kurs noch als Lager durchgeführt werden. Je nach Anlass können sich die Teilnehmer\*innen selber anmelden oder werden direkt durch die Leitung zugewiesen. Teilnehmer\*innen können in verschiedenen Rollen angemeldet werden (z.B. Hauptleitung, Leitung, Küche, Teilnehmer\*in, …).
 
 Bei der Anmeldung zu einem Anlass ist es wichtig, dass du deine persönlichen Angaben überprüfst und aktualisierst, falls etwas fehlt oder nicht mehr stimmt. In einem zweiten Schritt kannst du dann die spezifischen Anmeldeangaben eingeben, die für diesen Anlass wichtig sind. Je nach Konfiguration des Anlasses kannst du dich selber von einem Anlass abmelden oder nicht. Falls du dich dennoch von einem Anlass abmelden möchtest, solltest du das mit dem Leitungsteam absprechen. 
 

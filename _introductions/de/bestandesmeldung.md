@@ -2,7 +2,7 @@
 title: Bestandesmeldung
 slug: introdart5
 relevance: Alle
-lang: fr
+lang: de
 order: eeee
 ---
 
