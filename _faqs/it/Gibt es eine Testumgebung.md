@@ -15,4 +15,16 @@ Puoi iscriverti come:
 * Capo sezione: letizia_wilhelm ( at ) hitobito.example.com
 * Admin: hussein_kohlmann ( at ) hitobito.example.com
 
-Passwort: hito42bito
+Password: hito42bito
+
+### Autenticazione a due fattori (2FA)
+
+Attenzione: ora devi inserire un codice 2FA quando accedi con l'account amministratore. Puoi utilizzare qualsiasi app OTP come FreeOTP, iPhone 2FA, Google Authenticator o Bitwarden sul tuo smartphone. Nell'app, puoi scansionare una volta il codice QR di Hussein Kohlmann e poi leggere il codice 2FA ogni volta che accedi.
+
+### E-mail
+
+Le e-mail dell'ambiente di prova non vengono consegnate, ma raccolte in una casella di posta centrale. Con l'accesso a Mailtrap, puoi anche creare i tuoi account di prova.
+
+Link: https://mailtrap.io
+Nome utente: hitobito-pbs ( at ) puzzle.ch
+Password: XydDHtAqZIQh7igTD

@@ -1,29 +1,28 @@
 ---
-title: Events (Anlässe) 
+title: Eventi 
 slug: introdart3
 relevance: Alle
 lang: it
 order: cccc
 ---
 
-## Anlässe 
+## Eventi 
 
-Hier können einfache Anlässe verwaltet werden, die weder als Kurs noch als Lager durchgeführt werden. Je nach Anlass können sich die Teilnehmer*innen selber anmelden oder werden direkt durch die Leitung zugewiesen. Teilnehmer*innen können in verschiedenen Rollen angemeldet werden (z.B. Hauptleitung, Leitung, Küche, Teilnehmer*in, …).
+Qui è possibile gestire semplici eventi che non si tengono né come corso né come campo. A seconda dell'evento, i/le partecipanti possono registrarsi da soli/e o essere assegnati/e direttamente dalla direzione. I/Le partecipanti possono essere registrati/e in diversi ruoli (ad esempio, capo campo, capo, cucina, partecipante, ...).
 
-Bei der Anmeldung zu einem Anlass ist es wichtig, dass du deine persönlichen Angaben überprüfst und aktualisierst, falls etwas fehlt oder nicht mehr stimmt. In einem zweiten Schritt kannst du dann die spezifischen Anmeldeangaben eingeben, die für diesen Anlass wichtig sind. Je nach Konfiguration des Anlasses kannst du dich selber von einem Anlass abmelden oder nicht. Falls du dich dennoch von einem Anlass abmelden möchtest, solltest du das mit dem Leitungsteam absprechen. 
+Quando ci si iscrive a un evento, è importante controllare i propri dati personali e aggiornare quelli mancanti o non più corretti. In una seconda fase, è possibile inserire i dettagli di iscrizione specifici che sono importanti per l'evento. A seconda della configurazione dell'evento, è possibile o meno disiscriversi da un evento. Se si desidera comunque cancellarsi da un evento, è necessario discuterne con il gruppo capi.
 
-## Lager
+## Campi
 
-Lager sind eine spezielle Form von Anlässen, welche gemäss Lagerreglement der PBS durchgeführt werden. Als Teilnehmer läuft die Anmeldung für dich sehr ähnlich wie bei Anlässen. 
+I campi sono una tipologia di evento speciale che viene organizzata in conformità con il regolamento dei campi del MSS. Come partecipante, il processo di iscrizione è molto simile a quello degli eventi.
+La Guida all’amministrazione di campi scout è disponibile qui: [https://hering.scouts.ch](https://hering.scouts.ch)   
+Il "MiData 1x1 per coach" serve come scheda informativa e come preparazione al corso d’aggiornamento coach e al corso coach: [https://coachesit.scouts.ch](https://coachesit.scouts.ch)      
 
-Den Leitfaden zur Administration von Pfadilagern findest du hier: [https://hering.scouts.ch](https://hering.scouts.ch)  
+## Corsi
 
-Das «1x1 MiData für Coaches» dient als Factsheet und als Vorbereitung für das MF-Coach und den Coachkurs: [https://coachesit.scouts.ch](https://coachesit.scouts.ch) 
+Nel menu principale, sotto la voce Corsi, sono elencati tutti i corsi disponibili per il rispettivo utente:
 
-## Kurse
+Qui i corsi possono essere filtrati in base a diversi criteri per visualizzare i risultati più adeguati. Qui è anche possibile informarsi sui corsi in programma e iscriversi direttamente.
 
-Im Hauptmenu unter Kurse sind alle für den jeweiligen Benutzer verfügbaren Kurse aufgeführt:
+A seconda dell'impostazione del corso, verrà successivamente richiesto di presentare una registrazione cartacea. È anche possibile che sia necessaria l'approvazione di autorità superiori (ad es. capo sezione, responsabile cantonale, livello federale) prima che l'iscrizione sia definitiva. Per ulteriori informazioni sull'iscrizione ai corsi, consultare le linee guida all'indirizzo https://ticketit.scouts.ch. Per i/le responsabili e i/le supervisori dei corsi è inoltre disponibile una guida all'indirizzo https://ankerit.scouts.ch.  
 
-Hier können Kurse nach diversen Kriterien gefiltert werden, um passende Ergebnisse anzuzeigen. Du kannst dich hier über kommende Kurse informieren und dich direkt anmelden.
-
-Abhängig von den Einstellungen im Kurs wird er im Anschluss aufgefordert, eine Anmeldung auf Papier nachzureichen. Zudem besteht die Möglichkeit, dass Freigaben von höheren Stellen (z.B. Abteilungsleiter, Kantonsleiter, Bundesebene) nötig sind, bevor die Anmeldung definitiv ist. Mehr zur Kursanmeldung kannst du im Leitfaden unter https://ticketit.scouts.ch nachlesen. Für Leitende und Kursbetreuer gibt es ebenfalls einen Leitfaden unter https://ankerit.scouts.ch.  

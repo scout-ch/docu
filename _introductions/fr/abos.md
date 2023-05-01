@@ -1,9 +1,9 @@
 ---
-title: Abos
+title: Abonnements
 slug: introdart4
 relevance: Alle
-lang: fr
+lang: de
 order: dddd
 ---
 
-Mit Abos (oder auch «Mailinglisten») können Empfänger verwaltet werden, man kann sie für den Versand von E-Mails, Briefen, oder auch Rechnungen benutzen. Eine einfache Erklärung der Abos findest du in der Anleitung von hitobito. 
+Les abonnements (ou "listes de diffusion") permettent de gérer les destinataires et peuvent être utilisés pour l'envoi d'e-mails, de lettres ou de factures. Tu trouveras une explication simple des abonnements dans le guide de hitobito. 

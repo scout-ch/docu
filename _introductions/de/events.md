@@ -2,7 +2,7 @@
 title: Events (Anlässe) 
 slug: introdart3
 relevance: Alle
-lang: de
+lang: fr
 order: cccc
 ---
 
@@ -18,7 +18,7 @@ Lager sind eine spezielle Form von Anlässen, welche gemäss Lagerreglement der 
 
 Den Leitfaden zur Administration von Pfadilagern findest du hier: [https://hering.scouts.ch](https://hering.scouts.ch)  
 
-Das «1x1 MiData für Coaches» dient als Factsheet und als Vorbereitung für das MF-Coach und den Coachkurs: [https://coaches.scouts.ch](https://coaches.scouts.ch) 
+Das «1x1 MiData für Coaches» dient als Factsheet und als Vorbereitung für das MF-Coach und den Coachkurs: [https://coachesfr.scouts.ch](https://coaches.scouts.ch) 
 
 ## Kurse
 

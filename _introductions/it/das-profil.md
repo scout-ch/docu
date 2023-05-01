@@ -1,19 +1,19 @@
 ---
-title: Das Profil
+title: Il profilo
 slug: introdart1
 relevance: Alle
 lang: it
 order: aaaa
 ---
 
-Nach der Anmeldung landest du auf einem Profil. 
+Dopo la registrazione, si accede al profilo.
 
 <img src="/docu/images/introduction/Einstieg Profil_it.png" width="100%" alt="profile page"/>
 
-Hier kannst du deine Angaben bearbeiten, exportieren und dein Passwort ändern. Zudem siehst du deine aktiven Rollen, Qualifikationen und die nächsten Anlässe. 
+Qui è possibile modificare i propri dati, esportarli e cambiare la password. È inoltre possibile vedere i propri ruoli attivi, le qualifiche e i prossimi eventi previsti.
 
-In den oberen Reitern findest du verschiedene Informationen. Du kannst überprüfen, für welche Abos du eingetragen bist und dich für weitere Abos eintragen. Du siehst deine Rechnungen, Nachrichten, deinen Verlauf (eine Historie deiner Funktionen) und deinen Log (Mutationen auf deinem Benutzer). Zu guter Letzt kannst du unter Sicherheit Informationen rund um die Sicherheit deines Accounts erfahren.  
+Nelle schede superiori si trovano varie informazioni. È possibile controllare gli abbonamenti a cui si è iscritti e registrarsi ad altri abbonamenti/mailing list. Potete vedere le vostre fatture, i messaggi, la vostra cronologia (una cronologia delle vostre funzioni) e il vostro log (mutazioni sul vostro utente). Infine, alla voce “Sicurezza" potete trovare informazioni sulla sicurezza del vostro account.  
 
-Auf der linken Seite findest du die Navigation für die Gremien und unterliegende Organisationseinheiten. Gremien können frei definiert werden, um beispielsweise Ressorts oder Gruppen zu organisieren.  
+Sul lato sinistro si trova la navigazione per i gruppi e le unità organizzative sottostanti. I gruppi possono essere definiti liberamente, ad esempio per organizzare settori o unità.
 
-Über die Suchfunktionalität oben kannst du Gruppen, Anlässe und Personen suchen, die für die sichtbar sind.
+Utilizzate la funzione di ricerca in alto per trovare gruppi, eventi e persone visibili.

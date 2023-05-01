@@ -1,19 +1,19 @@
 ---
-title: Das Profil
+title: Le profil
 slug: introdart1
 relevance: Alle
 lang: fr
 order: aaaa
 ---
 
-Nach der Anmeldung landest du auf einem Profil. 
+Une fois inscrit, tu accèdes à ton profil. 
 
 <img src="/docu/images/introduction/Einstieg Profil_fr.png" width="100%" alt="profile page"/>
 
-Hier kannst du deine Angaben bearbeiten, exportieren und dein Passwort ändern. Zudem siehst du deine aktiven Rollen, Qualifikationen und die nächsten Anlässe. 
+Ici, tu peux modifier tes données, les exporter et modifier ton mot de passe. De plus, tu peux voir tes rôles actifs, tes qualifications et les prochains événements.
 
-In den oberen Reitern findest du verschiedene Informationen. Du kannst überprüfen, für welche Abos du eingetragen bist und dich für weitere Abos eintragen. Du siehst deine Rechnungen, Nachrichten, deinen Verlauf (eine Historie deiner Funktionen) und deinen Log (Mutationen auf deinem Benutzer). Zu guter Letzt kannst du unter Sicherheit Informationen rund um die Sicherheit deines Accounts erfahren.  
+Dans les onglets du haut, tu trouveras différentes informations. Tu peux vérifier à quels abonnements tu es inscrit·e et t'inscrire à d'autres. Tu vois tes factures, tes messages, ton historique (l'historique de tes fonctions) et ton journal (les modifications sur ton compte utilisateur). Enfin, sous sécurité, tu peux obtenir des informations sur la sécurité de ton compte. 
 
-Auf der linken Seite findest du die Navigation für die Gremien und unterliegende Organisationseinheiten. Gremien können frei definiert werden, um beispielsweise Ressorts oder Gruppen zu organisieren.  
+Sur la gauche, tu trouveras la navigation pour les groupes et les unités subordonnées de l’organisation. Les groupes peuvent être définis librement, par exemple pour organiser des départements ou des groupes. 
 
-Über die Suchfunktionalität oben kannst du Gruppen, Anlässe und Personen suchen, die für die sichtbar sind.
+Grâce à la fonctionnalité de recherche en haut, tu peux chercher des groupes, des événements et des personnes qui sont accessibles aux membres.

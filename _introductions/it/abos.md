@@ -1,9 +1,9 @@
 ---
-title: Abos
+title: Abbonamenti
 slug: introdart4
 relevance: Alle
 lang: it
 order: dddd
 ---
 
-Mit Abos (oder auch «Mailinglisten») können Empfänger verwaltet werden, man kann sie für den Versand von E-Mails, Briefen, oder auch Rechnungen benutzen. Eine einfache Erklärung der Abos findest du in der Anleitung von hitobito. 
+Le iscrizioni (o "mailing list") possono essere utilizzate per gestire i destinatari, per inviare e-mail, lettere o anche fatture. Potete trovare una semplice spiegazione degli abbonamenti nelle istruzioni di [hitobito](https://hitobito.readthedocs.io/it/latest/mailing_lists.html).

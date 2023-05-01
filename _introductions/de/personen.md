@@ -40,7 +40,7 @@ Wenn ihr euch sicher seid, dass ihr alle wichtigen Infos im neuen Hauptaccount g
 
 ## Mehrere Personen gleichzeitig bearbeiten 
 
-Für die Mehrfachmanipulation von Mitgliedern gibt es eine Anleitung. Mehrere Personen können ausgewählt und gleichzeitig bearbeitet werden. Neben der Möglichkeit, mehrere Personen einer Veranstaltung hinzuzufügen, können auch mehrere Rollen vergeben, gelöscht oder sogar verschoben werden. 
+Für die Mehrfachmanipulation von Mitgliedern gibt es eine [Anleitung](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/156/midata-anleitung-mehrfachmanipulationen/). Mehrere Personen können ausgewählt und gleichzeitig bearbeitet werden. Neben der Möglichkeit, mehrere Personen einer Veranstaltung hinzuzufügen, können auch mehrere Rollen vergeben, gelöscht oder sogar verschoben werden. 
 
 <img src="/docu/images/introduction/Mehrfach_de.png" width="100%" alt="Adding multiple people to an event"/>
 

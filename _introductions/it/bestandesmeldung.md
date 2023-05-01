@@ -1,11 +1,11 @@
 ---
-title: Bestandesmeldung
+title: Censimento
 slug: introdart5
 relevance: Alle
 lang: it
 order: eeee
 ---
 
-Jeweils am 1. Januar wird die Bestandesmeldung in MiData aktiviert. Die Abteilungen sehen dann in der Navigation das Feld "Bestand!". Über dieses Feld können die Bestandesmeldungen anhand der in MiData geführten Mitglieder bestätigt werden oder aber durch den Kantonalverband manuell eingetragen werden. Die Deadline fürs Abschliessen der Bestandesmeldung ist jeweils der 29. Januar.
+Il 1° gennaio di ogni anno, su MiData viene attivato il censimento dei membri. Le sezioni vedranno quindi il campo “Censire!" nella navigazione. Questo campo può essere utilizzato per confermare il censimento sulla base dei membri elencati in MiData o per essere inserito manualmente dall'associazione cantonale. La scadenza per la compilazione del censimento è il 29 gennaio.
 
-Detaillierte Anleitung
+[Istruzioni dettagliate](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/215/midata-foglio-informativo-annuncio-dellorganico-nella-banca-dati-dei-membri/) 

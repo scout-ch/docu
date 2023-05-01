@@ -1,65 +1,65 @@
 ---
-title: Personen
+title: Personnes
 slug: introdart2
 relevance: Alle
 lang: fr
 order: bbbb
 ---
 
-## Eine neue Person hinzufügen 
+## Ajouter une nouvelle personne
 
-Bevor du eine Person einträgst, lohnt es sich zu überprüfen, ob die Person bereits im System erfasst wurde. Dubletten zu verhindern ist wichtig, weil die Person womöglich schon ein Login hat und damit ihre eigenen Daten verwalten möchte. Wenn du die Person ein zweites Mal erfasst, gibt es womöglich eine Verwirrung um die Haupt-E-Mail oder die Person kann nicht mehr alle Daten selber verwalten. 
+Avant d'ajouter une personne, il est utile de vérifier si elle a déjà été saisie dans le système. Il est important d'éviter les doublons, car la personne a peut-être déjà un login et souhaite ainsi conserver ses données. Si tu enregistres la personne une deuxième fois, il se peut qu'il y ait une confusion autour de l'e-mail principal ou que la personne ne puisse plus gérer elle-même toutes ses données.
 
-Du kannst dies überprüfen, indem du bei der gewünschten Gruppe auf «+ Person hinzufügen» gehst und im Feld «Person» nach dem Vor- und Nachnamen suchst. Wenn die Person dort erscheint, solltest du diese direkt auswählen und keine neue Person erfassen. Achtung: Es reicht nicht, die Person oben im allgemeinen Suchfeld der MiData einzutragen. Dort erscheinen nur Personen mit einer aktiven Rolle. Wir wollen aber auch diejenigen finden, die gerade keine Rolle eingetragen haben.  
+Tu peux le vérifier en cliquant sur "+ Ajouter une personne" dans le groupe souhaité et en cherchant le prénom et le nom dans le champ "Personne". Si la personne y apparaît, tu peux directement la sélectionner et ne pas enregistrer une nouvelle personne. Attention : il ne faut pas seulement chercher la personne dans le champ de recherche général de MiData. Seules les personnes ayant un rôle actif y apparaissent. Cependant, nous voulons justement trouver des personnes qui n'ont pas de rôle enregistré.
 
-Wenn du dir ganz sicher bist, dass es die Person noch nicht im System gibt, kannst du oben im Dialog via «Neue Person erfassen» die Daten eintragen. 
+Si tu es absolument sûr que la personne n'existe pas encore dans le système, tu peux saisir ses données et l'enregistrer grâce à la fonction se trouvant en haut "Saisir une nouvelle personne".
 
 <img src="/docu/images/introduction/Person hinzu_fr.png" width="100%" alt="adding a person"/>
 
-## Personen löschen 
+## Supprimer des personnes 
 
-Grundsätzlich sollten Personen nicht gelöscht werden, sondern nur die Rolle entfernt werden. 
+En principe, les personnes ne doivent pas être supprimées, seul leur rôle doit être supprimé.
 
-Falls trotzdem eine Person gelöscht werden soll (z.B. eine Dublette): Im Feld Vulgo !DELETE! eintragen und alle Rollen entfernen. In regelmässigen Abständen werden die Personen durch die PBS überprüft und gelöscht. 
+Si une personne doit tout de même être supprimée (par ex. un doublon) : Inscrire !DELETE! dans le champ Totem et supprimer tous les rôles. Les personnes sont régulièrement contrôlées et supprimées par le MSdS.
 
-## Zwei Benutzer-Accounts zusammenschliessen (Dubletten auflösen) 
+## Fusionner deux comptes utilisateurs (supprimer les doublons) 
 
-Von Zeit zu Zeit kommt es vor, dass für eine Person zwei Accounts erstellt wurden. Damit ihr wieder Ordnung in die Daten bekommt, könnt ihr die beiden Accounts im Normalfall mit Hilfe von einem Poweruser zusammenschliessen. 
+Il arrive parfois que deux comptes aient été créés pour une même personne. Afin de mettre de l'ordre dans les données, vous pouvez normalement fusionner les deux comptes à l'aide d'un Poweruser.
 
-### Vorgehen 
+### Procédure  
 
-Der Poweruser logt sich ein und versichert sich, dass der Zugriff auf beide Accounts möglich ist. Nun müsst ihr herausfinden, welcher der beiden Accounts schlussendlich als Hauptaccount verwendet werden soll. Dafür ist aber nicht die E-Mail-Adresse ausschlaggebend, sondern die definierten Qualifikationen und eventuelle Anmeldungen für Anlässe, die noch verwendet werden. 
+Le Poweruser se connecte et s'assure que l'accès aux deux comptes est possible. Il faut maintenant déterminer lequel des deux comptes doit être utilisé comme compte principal. Ce n'est pas l'adresse e-mail qui est déterminante, mais les qualifications définies et les éventuelles inscriptions à des événements qui seront encore utilisés.
 
-Wenn ihr euch für einen Hauptaccount entschieden habt, geht ihr zum anderen Account, und schreibt dort hinter den Vornamen den Text «(alt)». So könnt ihr die beiden Accounts gut unterscheiden. 
+Une fois le compte principal choisi, il faut aller sur l'autre compte et écrire le texte "(alt)" derrière le prénom. Ainsi, il est plus facile de distinguer les deux comptes.
 
-Nun geht es darum, alle Informationen, die im Profil des «alten» Accounts drin sind, in den Hauptaccount zu übertragen. Dies macht ihr manuell und nach bestem Gewissen (veraltete Angaben nicht übernehmen). Nicht zu vergessen sind die Rollen, die jeweils von einer befugten Person eingetragen werden müssen. 
+Il faut maintenant transférer toutes les informations qui se trouvent dans le profil de l'"ancien" compte vers le compte principal. Il faut le faire manuellement et en réfléchissant (ne pas reprendre des données obsolètes). Il ne faut pas oublier les rôles, qui doivent être saisis par une personne autorisée.
 
-Bei der E-Mail-Adresse gibt es denn Fall, dass die Adresse vom alten Account als neue Haupt-E-Mail verwendet werden soll. Wenn dem so ist, müsst ihr die Adresse jeweils zuerst im alten Account herauslöschen, speichern und erst dann im neuen Account als Haupt-E-Mail eintragen. 
+Pour l'adresse e-mail, il arrive que l'adresse de l'ancien compte soit utilisée comme nouvelle adresse e-mail principale. Si c'est le cas, vous devez d'abord supprimer l'adresse de l'ancien compte, enregistrer le changement et saisir l'adresse ensuite dans le nouveau compte comme adresse e-mail principale.
 
-Wenn ihr euch sicher seid, dass ihr alle wichtigen Infos im neuen Hauptaccount gespeichert habt, könnt ihr beim alten Account alle Rollen löschen, den Namen überschreiben und beim Vulgo «!DELETE!» eintragen. 
+Si vous êtes sûr d'avoir enregistré toutes les informations importantes dans le nouveau compte principal, vous pouvez supprimer tous les rôles de l'ancien compte, remplacer le Totem et inscrire !DELETE!
 
-## Mehrere Personen gleichzeitig bearbeiten 
+## Modifier les données de plusieurs personnes en même temps 
 
-Für die Mehrfachmanipulation von Mitgliedern gibt es eine Anleitung. Mehrere Personen können ausgewählt und gleichzeitig bearbeitet werden. Neben der Möglichkeit, mehrere Personen einer Veranstaltung hinzuzufügen, können auch mehrere Rollen vergeben, gelöscht oder sogar verschoben werden. 
+Il existe des [instructions](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/156/midata-anleitung-mehrfachmanipulationen/) (DE) pour modifier les données de plusieurs membres. Plusieurs personnes peuvent être sélectionnées et modifiées simultanément. En plus de la possibilité d'ajouter plusieurs personnes à un événement, plusieurs rôles peuvent être attribués, supprimés ou même déplacés.
 
 <img src="/docu/images/introduction/Mehrfach_fr.png" width="100%" alt="Adding multiple people to an event"/>
 
-## Besondere Attribute der Person 
+## Attributs particuliers de la personne  
 
-### Geschlecht und Geburtstag 
+### Sexe et date de naissance 
 
-Die beiden Angaben sind für die Bestandesmeldung und das BASPO relevant. Leider ist es bisher nicht möglich, in der MiData ein drittes Geschlecht (z.B. «divers») zu erfassen. Der Grund dafür ist, dass wir einige Abhängigkeiten haben, die wir bisher nicht auflösen konnten. So erwartet das BASPO in der NDS weiterhin ein binäres Geschlecht aus der MiData. Ein drittes Geschlecht darf das BASPO erst einführen, wenn der Bund dies beauftragt. Da ein Matching von "divers" auf "weiblich/männlich" für uns kaum möglich ist, könnten wir jeweils die Lager nur erschwert importieren. Übergangslösungen werden weiterhin in der PBS und der Hitobito-Community diskutiert. 
+Ces deux informations sont utiles pour l’annonce des effectifs et pour l'OFSPO. Malheureusement, il n'est pas encore possible de saisir un troisième sexe (p. ex. "divers") dans MiData. La raison à cela est que nous avons des contraintes que nous n'avons pas encore pu résoudre. En effet, l'OFSPO attend toujours un sexe binaire dans MiData pour l'importation des données dans la BDNS. L'OFSPO ne peut introduire un troisième sexe que si la Confédération le lui demande. Étant donné que nous ne pouvons pas faire correspondre "divers" à "féminin/masculin", il serait difficile d'importer les camps. Des solutions transitoires continuent à être discutées au sein du MSdS et de la communauté Hitobito.
 
-### Geschwister 
+### Frères et sœurs
 
-Bei einigen Abteilungen gibt es eine Verbilligung beim Jahresbeitrag, wenn Geschwister in der Abteilung sein. Deshalb kann es Sinn machen, diese anzugeben. 
+Certains groupes offrent une réduction de la cotisation annuelle lorsque des frères et sœurs font partie du groupe. Il peut donc être utile de les indiquer.
 
-### Zusätzliche Angaben 
+### Informations supplémentaires  
 
-Hier können Notizen oder weitere Informationen eingetragen werden. Wichtig ist, dass keine besonders schützenswerten Daten wie Gesundheitsdaten oder Angaben zur Religion eingetragen werden. 
+Des remarques ou d'autres informations peuvent être inscrites ici. Il est important de ne pas saisir de données sensibles comme des données sur la santé ou la religion.
 
-### Öffentliche und private Einträge 
+### Données publiques et privées  
 
-Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für andere sichtbar, insofern die betroffene Berson für sie sichtbar ist.
+Les données privées ne sont visibles que par les membres du groupe. Les données marquées comme publiques sont aussi visibles pour les autres, dans la mesure où la personne concernée est visible pour eux·elles.
 
 <img src="/docu/images/introduction/oeff_priv_fr.png" width="100%" alt="public and private mail and tel fields"/>
