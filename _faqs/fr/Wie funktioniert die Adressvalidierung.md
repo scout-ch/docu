@@ -1,6 +1,6 @@
 ---
 title: Comment fonctionne la validation des adresses postales? 
-slug: faq1
+slug: validation
 lang: fr
 order: C02
 ---

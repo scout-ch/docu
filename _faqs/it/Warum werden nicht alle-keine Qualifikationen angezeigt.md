@@ -1,6 +1,6 @@
 ---
 title: Perché non vengono mostrate tutte / nessuna qualifica?
-slug: faq1
+slug: allqualifications
 lang: it
 order: B01
 ---

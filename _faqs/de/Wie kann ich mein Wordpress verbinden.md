@@ -1,6 +1,6 @@
 ---
 title: Wie kann ich mein Wordpress via OAuth verbinden? 
-slug: faq1
+slug: wordpress
 lang: de
 order: E04
 ---

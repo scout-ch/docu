@@ -1,6 +1,6 @@
 ---
 title: Existe-t-il une exportation des ménages avec plus de colonnes?
-slug: faq1
+slug: haushalt_export
 lang: fr
 order: D04
 ---

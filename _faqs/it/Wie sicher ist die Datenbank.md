@@ -1,6 +1,6 @@
 ---
 title: Quanto sicura è la banca dati?
-slug: faq1
+slug: securedb
 lang: it
 order: D01
 ---

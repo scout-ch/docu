@@ -1,6 +1,6 @@
 ---
 title: Kommen meine Versände richtig an?
-slug: faq1
+slug: mailing_sent
 lang: de
 order: D03
 ---

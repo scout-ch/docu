@@ -1,6 +1,6 @@
 ---
 title: Pourquoi toutes les/aucune des qualifications ne s’affichent (pas)?
-slug: faq1
+slug: allqualifications
 lang: fr
 order: B01
 ---

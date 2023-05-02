@@ -1,6 +1,6 @@
 ---
 title: Ich habe noch Fragen, an wen wende ich mich?
-slug: faq1
+slug: questions
 lang: fr
 order: Z09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Comment imprimer les étiquettes?
-slug: faq1
+slug: stamps
 lang: fr
 order: D05
 ---

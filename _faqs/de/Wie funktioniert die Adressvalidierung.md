@@ -1,6 +1,6 @@
 ---
 title: Wie funktioniert die Adressvalidierung?
-slug: faq1
+slug: validation
 lang: de
 order: C02
 ---

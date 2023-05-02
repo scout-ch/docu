@@ -1,6 +1,6 @@
 ---
 title: Existe-t-il un environnement de test? 
-slug: faq1
+slug: testumg
 lang: fr
 order: D02
 ---

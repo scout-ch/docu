@@ -1,6 +1,6 @@
 ---
 title: Come fusionano due sezioni?
-slug: faq1
+slug: fusiongrp
 lang: it
 order: C03
 ---

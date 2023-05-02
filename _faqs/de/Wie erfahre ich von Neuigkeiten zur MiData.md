@@ -1,6 +1,6 @@
 ---
 title: Wie erfahre ich von Neuigkeiten zur MiData?
-slug: faq1
+slug: relesenotes
 lang: de
 order: Z08
 ---

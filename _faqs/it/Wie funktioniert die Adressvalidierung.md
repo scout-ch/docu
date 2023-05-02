@@ -1,6 +1,6 @@
 ---
 title: Come funziona la convalida dell’indirizzo?
-slug: faq1
+slug: validation
 lang: it
 order: C02
 ---

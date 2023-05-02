@@ -1,6 +1,6 @@
 ---
 title: Comment puis-je fusionner deux comptes d’utilisateurs (doublons)?
-slug: faq1
+slug: combineacc
 lang: fr
 order: A02
 ---

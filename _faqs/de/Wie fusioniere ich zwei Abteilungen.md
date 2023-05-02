@@ -1,6 +1,6 @@
 ---
 title: Wie fusioniere ich zwei Abteilungen?
-slug: faq1
+slug: fusiongrp
 lang: de
 order: C03
 ---

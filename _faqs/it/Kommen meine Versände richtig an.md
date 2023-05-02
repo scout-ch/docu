@@ -1,6 +1,6 @@
 ---
 title: I miei invii arriveranno correttamente?
-slug: faq1
+slug: mailing_sent
 lang: it
 order: D03
 ---

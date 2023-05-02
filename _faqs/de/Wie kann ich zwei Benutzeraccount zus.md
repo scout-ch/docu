@@ -1,6 +1,6 @@
 ---
 title: Wie kann ich zwei Benutzeraccount zusammenschliessen (Dubletten)?
-slug: faq1
+slug: combineacc
 lang: de
 order: A02
 ---

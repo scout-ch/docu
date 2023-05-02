@@ -1,6 +1,6 @@
 ---
 title: Comment fusionner deux groupes?
-slug: faq1
+slug: faqfusiongrp1
 lang: fr
 order: C03
 ---

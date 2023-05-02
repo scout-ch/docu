@@ -1,6 +1,6 @@
 ---
 title: Je ne retrouve plus une personne après avoir enlevé son rôle, où est-elle? 
-slug: faq1
+slug: personlost
 lang: fr
 order: A_03
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wie funktioniert die Bestandesmeldung?
-slug: faq1
+slug: effectifs
 lang: de
 order: C01
 ---

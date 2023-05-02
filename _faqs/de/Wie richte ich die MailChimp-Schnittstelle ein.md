@@ -1,6 +1,6 @@
 ---
 title: Wie richte ich die MailChimp-Schnittstelle ein?
-slug: faq1
+slug: mailchimpapi
 lang: de
 order: E02
 ---

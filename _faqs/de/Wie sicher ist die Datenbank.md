@@ -1,6 +1,6 @@
 ---
 title: Wie sicher ist die Datenbank? 
-slug: faq1
+slug: securedb
 lang: de
 order: D01
 ---

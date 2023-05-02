@@ -1,6 +1,6 @@
 ---
 title: Vi è un modo di esportare una famiglia con più colonne?
-slug: faq1
+slug: haushalt_export
 lang: it
 order: D04
 ---

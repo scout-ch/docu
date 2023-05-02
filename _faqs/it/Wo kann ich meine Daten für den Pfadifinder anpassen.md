@@ -1,6 +1,6 @@
 ---
 title: Dove posso modificare i miei dati per lo scout? 
-slug: faq1
+slug: finder
 lang: it
 order: C04
 ---

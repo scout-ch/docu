@@ -1,6 +1,6 @@
 ---
 title: Come funzione l’interfaccia tecnica JSON?
-slug: faq1
+slug: jsonapi
 lang: it
 order: E01
 ---

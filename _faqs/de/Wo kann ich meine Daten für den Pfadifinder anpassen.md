@@ -1,6 +1,6 @@
 ---
 title: Wo kann ich meine Daten für den Pfadifinder anpassen?
-slug: faq1
+slug: finder
 lang: de
 order: C04
 ---

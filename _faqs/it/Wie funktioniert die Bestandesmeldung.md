@@ -1,6 +1,6 @@
 ---
 title: Come funziona il censimento dei membri?
-slug: faq1
+slug: effectifs
 lang: it
 order: C01
 ---

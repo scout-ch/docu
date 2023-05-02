@@ -1,6 +1,6 @@
 ---
 title: Come posso unire due account utilizzatore (doppioni)?
-slug: faq1
+slug: combineacc
 lang: it
 order: A02
 ---

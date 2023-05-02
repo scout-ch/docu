@@ -1,6 +1,6 @@
 ---
 title: Mes envois parviennent-ils correctement à leurs destinataires?
-slug: faq1
+slug: mailing_sent
 lang: fr
 order: D03
 ---

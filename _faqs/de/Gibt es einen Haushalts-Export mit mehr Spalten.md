@@ -1,6 +1,6 @@
 ---
 title: Gibt es einen Haushalts-Export mit mehr Spalten?
-slug: faq1
+slug: haushalt_export
 lang: de
 order: D04
 ---

@@ -1,6 +1,6 @@
 ---
 title: Come posso cancellare definitivamente una persona?
-slug: faq1
+slug: delete
 lang: it
 order: A_01
 ---

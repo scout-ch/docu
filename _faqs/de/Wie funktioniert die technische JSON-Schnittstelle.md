@@ -1,6 +1,6 @@
 ---
 title: Wie funktioniert die technische JSON-Schnittstelle?
-slug: faq1
+slug: jsonapi
 lang: de
 order: E01
 ---

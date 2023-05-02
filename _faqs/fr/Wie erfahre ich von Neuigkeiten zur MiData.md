@@ -1,6 +1,6 @@
 ---
 title: Comment apprendre les nouveautés sur la MiData?
-slug: faq1
+slug: relesenotes
 lang: fr
 order: Z08
 ---

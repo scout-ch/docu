@@ -1,6 +1,6 @@
 ---
 title: Comment fonctionne la liste des effectifs?
-slug: faq1
+slug: effectifs
 lang: fr
 order: C01
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ho ancora domande, a chi mi rivolgo?
-slug: faq1
+slug: questions
 lang: it
 order: Z09
 ---

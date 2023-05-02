@@ -1,6 +1,6 @@
 ---
 title: Come posso collegare il mio Wordperss tramite OAuth?
-slug: faq1
+slug: wordpress
 lang: it
 order: E04
 ---

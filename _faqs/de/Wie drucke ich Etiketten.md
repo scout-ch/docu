@@ -1,6 +1,6 @@
 ---
 title: Wie drucke ich Etiketten?
-slug: faq1
+slug: stamps
 lang: de
 order: D05
 ---

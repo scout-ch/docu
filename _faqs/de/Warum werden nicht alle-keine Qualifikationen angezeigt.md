@@ -1,6 +1,6 @@
 ---
 title: Warum werden nicht alle/keine Qualifikationen angezeigt?
-slug: faq1
+slug: allqualifications
 lang: de
 order: B01
 ---

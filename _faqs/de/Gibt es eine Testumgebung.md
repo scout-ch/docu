@@ -1,6 +1,6 @@
 ---
 title: Gibt es eine Testumgebung?
-slug: faq1
+slug: testumg
 lang: de
 order: D02
 ---

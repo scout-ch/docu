@@ -1,6 +1,6 @@
 ---
 title: Come stampo le etichette?
-slug: faq1
+slug: stamps
 lang: it
 order: D05
 ---

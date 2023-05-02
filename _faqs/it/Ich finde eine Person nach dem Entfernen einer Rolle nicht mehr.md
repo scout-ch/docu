@@ -1,6 +1,6 @@
 ---
 title: Dopo aver cancellato una persona non la trovo più. Dov’è?
-slug: faq1
+slug: personlost
 lang: it
 order: A_03
 ---

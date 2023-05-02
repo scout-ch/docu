@@ -1,6 +1,6 @@
 ---
 title: Comment fonctionne la recherche de groupes scouts?
-slug: faq1
+slug: finder
 lang: fr
 order: C04
 ---

@@ -1,6 +1,6 @@
 ---
 title: Come viene configurata l'interfaccia MailChimp?
-slug: faq1
+slug: mailchimpapi
 lang: it
 order: E02
 ---

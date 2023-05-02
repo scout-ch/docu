@@ -1,6 +1,6 @@
 ---
 title: Quel est le degré de sécurité de la banque de données?
-slug: faq1
+slug: securedb
 lang: fr
 order: D01
 ---
