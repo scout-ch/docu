@@ -1,7 +1,7 @@
 ---
 title: Aperçu des fonctions de base
 slug: article-7
-categories: 2_Grundfunktionen
+categories: 2_Fondamentaux
 cat_sort: B
 relevance: Alle
 lang: fr

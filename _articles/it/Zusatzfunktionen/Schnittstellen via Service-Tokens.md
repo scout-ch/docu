@@ -1,7 +1,7 @@
 ---
 title: Interfaccia dei token di servizio
 slug: article-14
-categories: 3_Zusatzfunktionen
+categories: 3_Funzioni&nbsp;supplementari
 cat_sort: C
 relevance: AL, StLei
 lang: it

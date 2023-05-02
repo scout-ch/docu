@@ -1,7 +1,7 @@
 ---
 title: Aperçu des fonctions au niveau du groupe
 slug: article-8
-categories: 2_Grundfunktionen
+categories: 2_Fondamentaux
 cat_sort: B
 relevance: AL, StLei
 lang: fr

@@ -1,7 +1,7 @@
 ---
 title: Interfaccia OAuth
 slug: article-15
-categories: 3_Zusatzfunktionen
+categories: 3_Funzioni&nbsp;supplementari
 cat_sort: C
 relevance: 
 lang: it

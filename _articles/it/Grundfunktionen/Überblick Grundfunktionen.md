@@ -1,7 +1,7 @@
 ---
 title: Panoramica delle funzioni di base
 slug: article-7
-categories: 2_Grundfunktionen
+categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: B
 relevance: Alle
 lang: it
