@@ -14,4 +14,4 @@ Benötigen die kantonalen PowerUser weiterführende Hilfe, können sie sich an d
 
 Wichtig ist, dass dieser Kommunikationsweg eingehalten wird. Anfragen an die PBS, die nicht von kantonalen PowerUsern stammen, werden in der Regel abgewiesen.
 
-<img src="/docu/images/documentation/Support_de.png" width="25%" alt="Kommunikationsweg Support"/>
+<img src="/images/documentation/Support_de.png" width="25%" alt="Kommunikationsweg Support"/>

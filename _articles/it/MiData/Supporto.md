@@ -14,4 +14,4 @@ Se i PowerUser cantonali hanno bisogno di ulteriore aiuto, possono contattare il
 
 È importante che questo canale di comunicazione venga rispettato. Le richieste al MSS che non provengono dai PowerUser cantonali vengono solitamente respinte.
 
-<img src="/docu/images/documentation/Support_it.png" width="25%" alt="canale di communicazione supporto"/>
+<img src="/images/documentation/Support_it.png" width="25%" alt="canale di communicazione supporto"/>

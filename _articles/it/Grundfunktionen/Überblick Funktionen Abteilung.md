@@ -10,7 +10,7 @@ date: 02.10.2022
 
 # Panoramica delle funzioni della sezione
 
-![Funktionen Musterabteilung](/docu/images/basicfunctions/musterabteilung_funktionen_it.jpg)
+![Funktionen Musterabteilung](/images/basicfunctions/musterabteilung_funktionen_it.jpg)
 
 A seconda del ruolo, vengono visualizzate più o meno funzioni: 
 

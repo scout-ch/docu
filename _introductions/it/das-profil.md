@@ -8,7 +8,7 @@ order: aaaa
 
 Dopo la registrazione, si accede al profilo.
 
-<img src="/docu/images/introduction/Einstieg Profil_it.png" width="100%" alt="profile page"/>
+<img src="/images/introduction/Einstieg Profil_it.png" width="100%" alt="profile page"/>
 
 Qui è possibile modificare i propri dati, esportarli e cambiare la password. È inoltre possibile vedere i propri ruoli attivi, le qualifiche e i prossimi eventi previsti.
 

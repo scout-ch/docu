@@ -16,7 +16,7 @@ Where
 - name: Name of your content (Give your content a short but meaningful name)
 
 ### Images
-Images must be uploaded to `images/<folder>/yourimage.jpg`. Afterwards the image can be inserted into the article with the following markdown command: `[image name](/docu/images/folder/yourimage.jpg)`.
+Images must be uploaded to `images/<folder>/yourimage.jpg`. Afterwards the image can be inserted into the article with the following markdown command: `[image name](/images/folder/yourimage.jpg)`.
 
 Where
 - folder: Type of your content (available: articles, faqs, introductions, releases)

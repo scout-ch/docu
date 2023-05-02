@@ -10,7 +10,7 @@ date: 02.10.2022
 
 # Aperçu des fonctions au niveau du groupe
 
-![Funktionen Musterabteilung](/docu/images/basicfunctions/musterabteilung__funktionen_fr.jpg)
+![Funktionen Musterabteilung](/images/basicfunctions/musterabteilung__funktionen_fr.jpg)
 
 Selon le rôle, plus ou moins des fonctions suivantes sont affichées : 
 

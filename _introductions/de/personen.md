@@ -14,7 +14,7 @@ Du kannst dies überprüfen, indem du bei der gewünschten Gruppe auf «+ Person
 
 Wenn du dir ganz sicher bist, dass es die Person noch nicht im System gibt, kannst du oben im Dialog via «Neue Person erfassen» die Daten eintragen. 
 
-<img src="/docu/images/introduction/Person hinzu_de.png" width="100%" alt="adding a person"/>
+<img src="/images/introduction/Person hinzu_de.png" width="100%" alt="adding a person"/>
 
 ## Personen löschen 
 
@@ -42,7 +42,7 @@ Wenn ihr euch sicher seid, dass ihr alle wichtigen Infos im neuen Hauptaccount g
 
 Für die Mehrfachmanipulation von Mitgliedern gibt es eine [Anleitung](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/156/midata-anleitung-mehrfachmanipulationen/). Mehrere Personen können ausgewählt und gleichzeitig bearbeitet werden. Neben der Möglichkeit, mehrere Personen einer Veranstaltung hinzuzufügen, können auch mehrere Rollen vergeben, gelöscht oder sogar verschoben werden. 
 
-<img src="/docu/images/introduction/Mehrfach_de.png" width="100%" alt="Adding multiple people to an event"/>
+<img src="/images/introduction/Mehrfach_de.png" width="100%" alt="Adding multiple people to an event"/>
 
 ## Besondere Attribute der Person 
 
@@ -62,4 +62,4 @@ Hier können Notizen oder weitere Informationen eingetragen werden. Wichtig ist,
 
 Private Einträge sind nur für die eigene Gruppe sichtbar. Als öffentlich markierte Einträge sind auch für andere sichtbar, insofern die betroffene Berson für sie sichtbar ist.
 
-<img src="/docu/images/introduction/oeff_priv_de.png" width="100%" alt="public and private mail and tel fields"/>
+<img src="/images/introduction/oeff_priv_de.png" width="100%" alt="public and private mail and tel fields"/>

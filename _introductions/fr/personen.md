@@ -14,7 +14,7 @@ Tu peux le vérifier en cliquant sur "+ Ajouter une personne" dans le groupe sou
 
 Si tu es absolument sûr que la personne n'existe pas encore dans le système, tu peux saisir ses données et l'enregistrer grâce à la fonction se trouvant en haut "Saisir une nouvelle personne".
 
-<img src="/docu/images/introduction/Person hinzu_fr.png" width="100%" alt="adding a person"/>
+<img src="/images/introduction/Person hinzu_fr.png" width="100%" alt="adding a person"/>
 
 ## Supprimer des personnes 
 
@@ -42,7 +42,7 @@ Si vous êtes sûr d'avoir enregistré toutes les informations importantes dans 
 
 Il existe des [instructions](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/156/midata-anleitung-mehrfachmanipulationen/) (DE) pour modifier les données de plusieurs membres. Plusieurs personnes peuvent être sélectionnées et modifiées simultanément. En plus de la possibilité d'ajouter plusieurs personnes à un événement, plusieurs rôles peuvent être attribués, supprimés ou même déplacés.
 
-<img src="/docu/images/introduction/Mehrfach_fr.png" width="100%" alt="Adding multiple people to an event"/>
+<img src="/images/introduction/Mehrfach_fr.png" width="100%" alt="Adding multiple people to an event"/>
 
 ## Attributs particuliers de la personne  
 
@@ -62,4 +62,4 @@ Des remarques ou d'autres informations peuvent être inscrites ici. Il est impor
 
 Les données privées ne sont visibles que par les membres du groupe. Les données marquées comme publiques sont aussi visibles pour les autres, dans la mesure où la personne concernée est visible pour eux·elles.
 
-<img src="/docu/images/introduction/oeff_priv_fr.png" width="100%" alt="public and private mail and tel fields"/>
+<img src="/images/introduction/oeff_priv_fr.png" width="100%" alt="public and private mail and tel fields"/>
