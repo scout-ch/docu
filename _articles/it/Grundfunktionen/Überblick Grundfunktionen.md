@@ -8,7 +8,7 @@ lang: it
 date: 02.10.2022
 ---
 
-![grundfunktionen](/docu/images/basicfunctions/grundfunktionen_it.jpg)
+![grundfunktionen](/images/basicfunctions/grundfunktionen_it.jpg)
 
 ## Gruppi
 - Panoramica di tutti i gruppi dell'intera Midata

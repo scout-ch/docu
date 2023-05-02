@@ -14,4 +14,4 @@ Si les PowerUser cantonaux ont besoin d'une aide plus approfondie, ils peuvent s
 
 Il est important que ce mode de communication soit respecté. Les demandes adressées au MSdS qui ne proviennent pas de PowerUsers cantonaux sont en général rejetées. 
 
-<img src="/docu/images/documentation/Support_fr.png" width="25%" alt="mode de communication support"/>
+<img src="/images/documentation/Support_fr.png" width="25%" alt="mode de communication support"/>

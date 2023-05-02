@@ -15,12 +15,12 @@ Eine gute Einführung zum Thema Rollen in Hitobito findest du hier:[https://hito
 
 Die Berechtigung eines Benutzers setzt sich aus der Rolle und der Organisationseinheit zu-sammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebe-nen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisati-onseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
 
-<img src="/docu/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Rollen Berechtigungskonzept"/>
+<img src="/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Rollen Berechtigungskonzept"/>
 
 #### Layer
 Ein Layer entspricht einer hierarchischen Schicht und enthält die jeweiligen Gruppen. In der MiData sind die PBS, der KV, die Region (falls vorhanden) und die Abteilung ein Layer. In der folgenden Abbildung sind die Layer entsprechend farbig hervorgehoben.
 
-<img src="/docu/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer Berechtigungskonzept"/>
+<img src="/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer Berechtigungskonzept"/>
 
 Die erlangte Berechtigung bezieht sich immer auf die darunter liegende Organisation (in der Abbildung als Dreieck dargestellt). Wenn die Rolle schreibrechte hat, können die Daten verän-dert werden, bei Leserechten nur gelesen. Welche Person was sieht respektive bearbeiten kann, setzt sich aus der Rolle und der Berechtigungsrolle zusammen.
 

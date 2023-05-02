@@ -8,7 +8,7 @@ order: aaaa
 
 Une fois inscrit, tu accèdes à ton profil. 
 
-<img src="/docu/images/introduction/Einstieg Profil_fr.png" width="100%" alt="profile page"/>
+<img src="/images/introduction/Einstieg Profil_fr.png" width="100%" alt="profile page"/>
 
 Ici, tu peux modifier tes données, les exporter et modifier ton mot de passe. De plus, tu peux voir tes rôles actifs, tes qualifications et les prochains événements.
 

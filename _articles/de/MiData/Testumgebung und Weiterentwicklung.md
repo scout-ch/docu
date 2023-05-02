@@ -10,7 +10,7 @@ date: 25.03.2022
 
 ## Testumgebung
 
-Siehe den Artikel im [F.A.Q.](https://scout-ch.github.io/docu/de/faq)
+Siehe den Artikel im [F.A.Q.](https://docu.scout.ch/de/faq)
 
 ## Weiterentwicklung
 
@@ -37,4 +37,4 @@ Neben dem definierten Ablauf der PBS können auch noch andere Inputs an die IT-K
 
 ## Informationen zu MiData-Updates
 Die Kantonalverbände und Kommissionsleitungen der PBS erhalten jeweils eine Benachrichtigung, wenn ein Release geplant wird. Wie sie die Information innerhalb des Kantonalverbandes streuen, ist unterschiedlich. Um die MiData-Updates zu erhalten, kannst du dich auch [manuell für den IT-Newsletter anmelden](https://db.scout.ch/de/groups/2/mailing_lists/1564).
-Ebenso werden die Release Notes auf der Seite [Versionshinweise](https://scout-ch.github.io/docu/de/versionshinweise) zur Verfügung gestellt. 
+Ebenso werden die Release Notes auf der Seite [Versionshinweise](https://docu.scout.ch/de/versionshinweise) zur Verfügung gestellt. 

@@ -10,7 +10,7 @@ date: 25.03.2023
 
 ## Ambiente di test
 
-Vedi la voce in [F.A.Q.](https://scout-ch.github.io/docu/it/faq)
+Vedi la voce in [F.A.Q.](https://docu.scout.ch/it/faq)
 
 ## ULTERIORI SVILUPPI
 

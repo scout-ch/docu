@@ -16,12 +16,12 @@ https://hitobito.readthedocs.io/de/latest/access_concept.html
 
 Les autorisations d'un·e utilisateur·trice se composent du rôle et d'une unité de l'organisation. La structure, respectivement les différents niveaux du scoutisme, constituent donc la base. Une personne peut avoir un ou plusieurs rôles dans une ou plusieurs unités d'une ou plusieurs or-ganisations. Les autorisations sont toujours liées au rôle. Cela signifie qu'une personne obtient des autorisations supplémentaires avec un nouveau rôle. Si ce rôle est supprimé, les autorisa-tions sont également supprimées.
 
-<img src="/docu/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="rôles concept d'autorisation "/>
+<img src="/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="rôles concept d'autorisation "/>
 
 #### Layer
 Un layer correspond à une couche hiérarchique et contient les groupes respectifs. Dans MiDa-ta, le MSdS, l'AC, la région (si elle existe) et le groupe constituent chacun un layer. Dans l'illus-tration suivante, les layers sont mis en évidence en couleur.
 
-<img src="/docu/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer concept d'autorisation"/>
+<img src="/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer concept d'autorisation"/>
 
 Les autorisations accordées se basent toujours sur l'organisation subordonnée (représentée par un triangle dans l'illustration). Si le rôle a des droits d'écriture, les données peuvent être modifiées, s'il a des droits de lecture, elles peuvent uniquement être lues. Le rôle et les autori-sations déterminent quelle personne peut voir ou modifier les données.
 

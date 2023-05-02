@@ -14,7 +14,7 @@ Prima di aggiungere una persona, è opportuno verificare se questa è già stata
  
 Se si è certi che la persona non esiste ancora nel sistema, è possibile inserire i dati nella parte superiore della finestra di dialogo tramite "Inserisci nuova persona". 
 
-<img src="/docu/images/introduction/Person hinzu_it.png" width="100%" alt="adding a person"/>
+<img src="/images/introduction/Person hinzu_it.png" width="100%" alt="adding a person"/>
 
 ## Eliminare persone
 
@@ -42,7 +42,7 @@ Se siete sicuri di aver salvato tutte le informazioni importanti nel nuovo accou
 
 È disponibile anche una procedura per la manipolazione di più membri. È infatti possibile selezionare e modificare più persone contemporaneamente. Oltre a poter aggiungere più persone a un evento, è possibile anche assegnare, eliminare o spostare più ruoli. 
 
-<img src="/docu/images/introduction/Mehrfach_it.png" width="100%" alt="Adding multiple people to an event"/>
+<img src="/images/introduction/Mehrfach_it.png" width="100%" alt="Adding multiple people to an event"/>
 
 ## Caratteristiche speciali della persona
 
@@ -62,4 +62,4 @@ Qui è possibile inserire note o ulteriori informazioni. È importante che non v
 
 Le annotazioni private sono visibili solo al proprio gruppo. Le voci contrassegnate come pubbliche sono visibili anche agli altri, nella misura in cui la persona interessata è visibile a loro.
 
-<img src="/docu/images/introduction/oeff_priv_it.png" width="100%" alt="public and private mail and tel fields"/>
+<img src="/images/introduction/oeff_priv_it.png" width="100%" alt="public and private mail and tel fields"/>

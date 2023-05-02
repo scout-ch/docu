@@ -16,12 +16,12 @@ https://hitobito.readthedocs.io/de/latest/access_concept.html
 
 L'autorizzazione di un utente è costituita dal suo ruolo e dall'unità organizzativa. La base è quindi anche la struttura, rispettivamente i diversi livelli dello scoutismo. Una persona può avere uno o più ruoli in una o più unità organizzative. Le autorizzazioni sono in ogni caso collegate al ruolo. Ciò significa che una persona con un nuovo ruolo riceve un'autorizzazione aggiuntiva. Se questo ruolo viene rimosso, anche l'autorizzazione viene rimossa.
 
-<img src="/docu/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Ruoli concetto di autorizzazione"/>
+<img src="/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Ruoli concetto di autorizzazione"/>
 
 #### Livelli
 Un livello corrisponde a un livello gerarchico e contiene i rispettivi gruppi. In MiData, il MSS, l'AC, la zona (se presente) e la sezione sono su un unico livello. Nella seguente illustrazione, i livelli sono evidenziati di conseguenza.
 
-<img src="/docu/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer concetto di autorizzazione"/>
+<img src="/images/documentation/layer_berechtigungskonzept.png" width="50%" alt="Layer concetto di autorizzazione"/>
 
 L'autorizzazione ottenuta si riferisce sempre all'organizzazione sottostante (rappresentata da un triangolo nell'illustrazione). Se il ruolo ha l'autorizzazione di scrittura, i dati possono essere modificati; se ha l'autorizzazione di lettura, possono essere solo letti. La persona che può vedere o modificare i dati viene definita dal suo ruolo e dal ruolo di autorizzazione.
 

@@ -10,7 +10,7 @@ date: 25.03.2022
 
 ## Environnement test
 
-Voir l'article dans [F.A.Q.](https://scout-ch.github.io/docu/fr/faq)
+Voir l'article dans [F.A.Q.](https://docu.scout.ch/fr/faq)
 
 ## Développement
 

@@ -1,5 +1,5 @@
 # PBS MiData Documentation Platform
-This repository contains the source code of the documentation platform available at https://scout-ch.github.io/docu/. The documentation platform is ment to spread available documentation of the member database of PBS called MiData.
+This repository contains the source code of the documentation platform available at https://docu.scout.ch/. The documentation platform is ment to spread available documentation of the member database of PBS called MiData.
 
 ## Structure
 ### Header Menu

@@ -8,7 +8,7 @@ order: aaaa
 
 Nach der Anmeldung landest du auf einem Profil. 
 
-<img src="/docu/images/introduction/Einstieg Profil_de.png" width="100%" alt="profile page"/>
+<img src="/images/introduction/Einstieg Profil_de.png" width="100%" alt="profile page"/>
 
 Hier kannst du deine Angaben bearbeiten, exportieren und dein Passwort ändern. Zudem siehst du deine aktiven Rollen, Qualifikationen und die nächsten Anlässe. 
 
