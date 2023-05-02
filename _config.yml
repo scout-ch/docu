@@ -22,8 +22,8 @@ desc_fr: Documentation officielle pour les MiData du PBS
 title_it: PBS MiData - Documentazione
 desc_it: Documentazione ufficiale per i MiData di PBS
 
-baseurl: '/docu/'
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: '/docu/'
+url: "https://docu.scouts.ch" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
