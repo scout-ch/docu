@@ -1,7 +1,7 @@
 ---
 title: Interface OAuth
 slug: article-15
-categories: 3_Zusatzfunktionen
+categories: 3_Fonctions&nbsp;Supplémentaires
 cat_sort: C
 relevance: 
 lang: fr

@@ -16,12 +16,12 @@ lang: fr
 ></iframe>
 
 <br/><br/>
-<h3>Willkommen</h3>
-<p>Du kannst mit deinem Browser am Smartphone, Tablet oder PC direkt via [https://db.scout.ch](https://db.scout.ch) auf die MiData zugreifen. Falls du noch keinen Account hast, kannst du dich bei deiner Abteilung melden. Diese kann dir den Zugang einrichten oder einen Link zuschicken, damit du dich selber registrieren kannst. Hier sind einige Tipps und Links für den Umgang mit der Mitgliederdatenbank.</p>
+<h3>Bienvenue</h3>
+<p>Tu peux accéder à MiData avec ton navigateur sur ton smartphone, ta tablette ou ton PC directement via <a href="https://db.scout.ch" target="_blank">db.scout.ch</a>. Si tu n'as pas encore de compte, tu peux t'adresser à ton groupe. Celui-ci peut te créer un accès ou t'envoyer un lien pour que tu puisses t'enregistrer toi-même. Voici quelques conseils et liens pour l'utilisation de la base de données des membres.</p>
 
 <ul>
 {% for article in articles %}
-	<li><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }} <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+	<li><a href="{{ site.url }}{{ article.url }}">{{ article.title }} <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
 		<path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"/>
 	</svg></a></li>
 {% endfor %}
