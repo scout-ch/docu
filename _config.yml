@@ -151,7 +151,7 @@ defaults:
     values:
       permalink: "fr/notes-de-version/:slug"
       lang: fr
-      releases: "notes de version"
+      releases: "notes-de-version"
       backlink: "Retour à la vue d'ensemble"
       layout: release
   - scope:
@@ -159,7 +159,7 @@ defaults:
     values:
       permalink: "it/note-di-rilascio/:slug"
       lang: it
-      releases: "note di rilascio"
+      releases: "note-di-rilascio"
       backlink: "Torna alla panoramica"
       layout: release
 
