@@ -19,7 +19,7 @@ Password: hito42bito
 
 ### Autenticazione a due fattori (2FA)
 
-Attenzione: ora devi inserire un codice 2FA quando accedi con l'account amministratore. Puoi utilizzare qualsiasi app OTP come FreeOTP, iPhone 2FA, Google Authenticator o Bitwarden sul tuo smartphone. Nell'app, puoi scansionare una volta il codice QR di Hussein Kohlmann e poi leggere il codice 2FA ogni volta che accedi.
+Attenzione: ora devi inserire un codice 2FA quando accedi con l'account amministratore. Puoi utilizzare qualsiasi app OTP come FreeOTP, iPhone 2FA, Google Authenticator o Bitwarden sul tuo smartphone. Nell'app, puoi scansionare una volta il [codice QR di Hussein Kohlmann](https://pfadi.swiss/media/files/cf/totp_qr_midata_integration_hussein_kohlmann.png) e poi leggere il codice 2FA ogni volta che accedi. (Avanzato: utilizzare direttamente [codice TOPT](https://hackmd.io/@ElqEAC_xSsWHfz4LwueLgw/rJIwhSLV2))
 
 ### E-mail
 
