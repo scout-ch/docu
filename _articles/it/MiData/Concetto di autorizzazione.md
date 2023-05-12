@@ -11,8 +11,7 @@ date: 25.03.2023
 ## Ruoli
 Una persona può ricoprire diversi ruoli in MiData. Questi autorizzano la persona, ad esempio, a vedere, modificare o cancellare determinati elementi. I ruoli possono avere effetti molto diversi. Ad esempio, una persona con il ruolo di Lupetto vede solo gli eventi, i corsi e i campi della pro-pria sezione e alcune informazioni sull'unità, ma non i dati delle altre persone. Una persona con il ruolo di responsabile della banca dati di una sezione, invece, ha accesso a tutti i membri del gruppo. Una persona con il ruolo di Capo sezione può anche avviare e confermare un censi-mento. 
 
-Qui potete trovare una buona introduzione al tema dei ruoli in Hitobito:
-https://hitobito.readthedocs.io/de/latest/access_concept.html
+Una buona introduzione al tema dei ruoli si trova nella [Documentazione di Hitobito](https://hitobito.readthedocs.io/it/latest/access_concept.html).
 
 L'autorizzazione di un utente è costituita dal suo ruolo e dall'unità organizzativa. La base è quindi anche la struttura, rispettivamente i diversi livelli dello scoutismo. Una persona può avere uno o più ruoli in una o più unità organizzative. Le autorizzazioni sono in ogni caso collegate al ruolo. Ciò significa che una persona con un nuovo ruolo riceve un'autorizzazione aggiuntiva. Se questo ruolo viene rimosso, anche l'autorizzazione viene rimossa.
 

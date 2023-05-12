@@ -11,7 +11,7 @@ date: 25.03.2022
 ## Rollen
 Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die Person bei-spielsweise, etwas zu sehen, zu bearbeiten oder zu löschen. Rollen können ganz unterschiedli-che Effekte haben. Eine Person mit Rolle Wolf sieht zum Beispiel nur die Anlässe, Kurse und Lager in der eigenen Abteilung und einige Informationen der Einheit, jedoch keine Personen. Eine Person mit der Rolle Adressverwalter* in bei einer Abteilung hat aber Zugriff auf alle Mit-glieder innerhalb dieser Gruppe. Eine Person mit Rolle Abteilungsleiter* in kann zusätzlich noch den Bestand melden und freigeben.
 
-Eine gute Einführung zum Thema Rollen in Hitobito findest du hier:[https://hitobito.readthedocs.io/de/latest/access_concept.html](https://hitobito.readthedocs.io/de/latest/access_concept.html)
+Eine gute Einführung zum Thema Rollen findest du in der [Hitobito-Dokumentation](https://hitobito.readthedocs.io/de/latest/access_concept.html)
 
 Die Berechtigung eines Benutzers setzt sich aus der Rolle und der Organisationseinheit zu-sammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebe-nen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisati-onseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
 

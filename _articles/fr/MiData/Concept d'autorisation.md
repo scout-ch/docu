@@ -11,8 +11,7 @@ date: 25.03.2023
 ## Rôles
 Une personne peut avoir différents rôles dans MiData. Ces rôles autorisent par exemple la personne à voir, à modifier ou à supprimer quelque chose. Les rôles peuvent avoir des fonc-tions très différentes. Une personne ayant le rôle Louveteau·ette ne voit par exemple que les événements, les cours et les camps de son propre groupe et quelques informations de l'unité, mais pas les personnes. Une personne ayant le rôle de gestionnaire d'adresses dans un groupe a cependant accès à tous les membres de son groupe. Une personne ayant le rôle de responsable de groupe peut également signaler et valider le stock.
 
-Tu trouveras ici une bonne introduction au sujet des rôles dans Hitobito :
-https://hitobito.readthedocs.io/de/latest/access_concept.html
+Tu trouveras une bonne introduction au sujet des rôles dans la [Hitobito documentation](https://hitobito.readthedocs.io/fr/latest/access_concept.html).
 
 Les autorisations d'un·e utilisateur·trice se composent du rôle et d'une unité de l'organisation. La structure, respectivement les différents niveaux du scoutisme, constituent donc la base. Une personne peut avoir un ou plusieurs rôles dans une ou plusieurs unités d'une ou plusieurs or-ganisations. Les autorisations sont toujours liées au rôle. Cela signifie qu'une personne obtient des autorisations supplémentaires avec un nouveau rôle. Si ce rôle est supprimé, les autorisa-tions sont également supprimées.
 
