@@ -1,5 +1,5 @@
 ---
-title: Wie kann ich zwei Benutzeraccount zusammenschliessen (Dubletten)?
+title: Wie kann ich zwei Benutzeraccount zusammenschliessen (Doubletten)?
 slug: combineacc
 lang: de
 order: A02
