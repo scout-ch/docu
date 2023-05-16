@@ -16,4 +16,4 @@ In den oberen Reitern findest du verschiedene Informationen. Du kannst überprü
 
 Auf der linken Seite findest du die Navigation für die Gremien und unterliegende Organisationseinheiten. Gremien können frei definiert werden, um beispielsweise Ressorts oder Gruppen zu organisieren.  
 
-Über die Suchfunktionalität oben kannst du Gruppen, Anlässe und Personen suchen, die für die sichtbar sind.
+Über die Suchfunktionalität oben kannst du Gruppen, Anlässe und Personen suchen, die für dich sichtbar sind.
