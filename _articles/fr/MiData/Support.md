@@ -8,7 +8,7 @@ lang: fr
 date: 25.03.2023
 ---
 
-Le rôle d'un PowerUser peut être défini pour les groupes, les régions et les associations canto-nales. Ces PowerUser sont les interlocuteurs principaux des utilisateur·trice·s. Les utilisateur·trice·s peuvent trouver leurs PowerUsers respectifs sur la [page d'aide de MiData](https://db.scout.ch/fr/help).
+Le rôle d'un PowerUser peut être défini pour les groupes, les régions et les associations cantonales. Ces PowerUser sont les interlocuteurs principaux des utilisateur·trice·s. Les utilisateur·trice·s peuvent trouver leurs PowerUsers respectifs sur la [page d'aide de MiData](https://db.scout.ch/fr/help).
 
 Si les PowerUser cantonaux ont besoin d'une aide plus approfondie, ils peuvent s'adresser au MSdS (midata@pbs.ch,  0313280551).
 

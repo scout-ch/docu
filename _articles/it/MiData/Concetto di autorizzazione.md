@@ -9,7 +9,7 @@ date: 25.03.2023
 ---
 
 ## Ruoli
-Una persona può ricoprire diversi ruoli in MiData. Questi autorizzano la persona, ad esempio, a vedere, modificare o cancellare determinati elementi. I ruoli possono avere effetti molto diversi. Ad esempio, una persona con il ruolo di Lupetto vede solo gli eventi, i corsi e i campi della pro-pria sezione e alcune informazioni sull'unità, ma non i dati delle altre persone. Una persona con il ruolo di responsabile della banca dati di una sezione, invece, ha accesso a tutti i membri del gruppo. Una persona con il ruolo di Capo sezione può anche avviare e confermare un censi-mento. 
+Una persona può ricoprire diversi ruoli in MiData. Questi autorizzano la persona, ad esempio, a vedere, modificare o cancellare determinati elementi. I ruoli possono avere effetti molto diversi. Ad esempio, una persona con il ruolo di Lupetto vede solo gli eventi, i corsi e i campi della propria sezione e alcune informazioni sull'unità, ma non i dati delle altre persone. Una persona con il ruolo di responsabile della banca dati di una sezione, invece, ha accesso a tutti i membri del gruppo. Una persona con il ruolo di Capo sezione può anche avviare e confermare un censimento. 
 
 Una buona introduzione al tema dei ruoli si trova nella [Documentazione di Hitobito](https://hitobito.readthedocs.io/it/latest/access_concept.html).
 
@@ -37,7 +37,7 @@ Un livello di autorizzazione definisce l'accesso al sistema, che permette di leg
 * layer_full: Può leggere e scrivere a questo livello. Può creare eventi e iscrizioni (mailing list) a questo livello.
 * layer_read: Può leggere a questo livello. 
 * group_and_below_full: Può leggere e scrivere su questo gruppo e tutti i gruppi inferiori (senza livelli). Può creare eventi e iscrizioni (mailing list)
-* group_and_below_read: Può leggere e scrivere su questo gruppo e tutti i gruppi inferiori (sen-za livelli).
+* group_and_below_read: Può leggere e scrivere su questo gruppo e tutti i gruppi inferiori (senza livelli).
 * group_full: Può leggere e scrivere su questo gruppo. Può creare eventi e iscrizioni (mailing list)
 * group_read: Può leggere solo in questo gruppo 
 * contact_data: Può leggere i dati di contatto di tutte le altre persone con autorizzazione ai dati di contatto
