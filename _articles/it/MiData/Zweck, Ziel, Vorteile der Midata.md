@@ -9,9 +9,9 @@ date: 05.03.2023
 ---
 L'obiettivo e lo scopo della banca dati dei membri (MiData) è quello di consentire un'adeguata gestione dei membri a tutti i livelli dello scoutismo, ovvero le sezioni, le zone, le associazioni cantonali e il livello federale. Oltre alla gestione dei dati dei membri, MiData offre un'ampia gamma di altre funzioni. Si tratta infatti di una versione adattata dell'applicazione "hitobito", utilizzata da diverse associazioni in Svizzera e in Germania. Consideriamo la banca dati dei membri come strumento di supporto a vari processi scout.  
 
-Le sezioni gestiscono autonomamente i propri dati sezionali. La sovranità dei dati, e di conse-guenza anche la loro responsabilità, è quindi organizzata in modo decentrato.  
+Le sezioni gestiscono autonomamente i propri dati sezionali. La sovranità dei dati, e di conseguenza anche la loro responsabilità, è quindi organizzata in modo decentrato.  
 
-La protezione dei dati dei nostri membri ci sta particolarmente a cuore. La [nuova legge sulla protezione dei dati (nLPD)](https://www.kmu.admin.ch/kmu/it/home/fatti-e-tendenze/digitalizzazione/protezione-dei-dati/nuova-legge-sulla-protezione-dei-dati-nlpd.html) e la [direttiva sulla privacy del MSS](https://pfadi.swiss/it/associazione/protezione-dei-dati/isp/) vanno rigorosamente rispet-tate. 
+La protezione dei dati dei nostri membri ci sta particolarmente a cuore. La [nuova legge sulla protezione dei dati (nLPD)](https://www.kmu.admin.ch/kmu/it/home/fatti-e-tendenze/digitalizzazione/protezione-dei-dati/nuova-legge-sulla-protezione-dei-dati-nlpd.html) e la [direttiva sulla privacy del MSS](https://pfadi.swiss/it/associazione/protezione-dei-dati/isp/) vanno rigorosamente rispettate. 
 
 
 ## Quali sono i vantaggi di una banca dati membri unica? 
