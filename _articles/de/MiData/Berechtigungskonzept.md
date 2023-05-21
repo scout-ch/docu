@@ -9,11 +9,11 @@ date: 25.03.2022
 ---
 
 ## Rollen
-Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die Person beispielsweise, etwas zu sehen, zu bearbeiten oder zu löschen. Rollen können ganz unterschiedliche Effekte haben. Eine Person mit Rolle Wolf sieht zum Beispiel nur die Anlässe, Kurse und Lager in der eigenen Abteilung und einige Informationen der Einheit, jedoch keine Personen. Eine Person mit der Rolle Adressverwalter* in bei einer Abteilung hat aber Zugriff auf alle Mitglieder innerhalb dieser Gruppe. Eine Person mit Rolle Abteilungsleiter* in kann zusätzlich noch den Bestand melden und Kursfreigaben verwalten.
+Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die Person beispielsweise, etwas zu sehen, zu bearbeiten oder zu löschen. Rollen können ganz unterschiedliche Effekte haben. Eine Person mit Rolle Wolf sieht zum Beispiel nur die Anlässe, Kurse und Lager in der eigenen Abteilung und einige Informationen der Einheit, jedoch keine Personen. Eine Person mit der Rolle Adressverwalter\*in bei einer Abteilung hat aber Zugriff auf alle Mitglieder innerhalb dieser Gruppe. Eine Person mit Rolle Abteilungsleiter\*in kann zusätzlich noch den Bestand melden und Kursfreigaben verwalten.
 
 Eine gute Einführung zum Thema Rollen findest du in der [Hitobito-Dokumentation](https://hitobito.readthedocs.io/de/latest/access_concept.html)
 
-Die Berechtigung eines Benutzers setzt sich aus der Rolle und der Organisationseinheit zusammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebenen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisationseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
+Die Berechtigung eines/einer Benutzers/Benutzerin setzt sich aus der Rolle und der Organisationseinheit zusammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebenen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisationseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
 
 <img src="/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Rollen Berechtigungskonzept"/>
 
@@ -25,7 +25,7 @@ Ein Layer entspricht einer hierarchischen Schicht und enthält die jeweiligen Gr
 Die erlangte Berechtigung bezieht sich immer auf die darunterliegende Organisation (in der Abbildung als Dreieck dargestellt). Wenn die Rolle Schreibrechte hat, können die Daten verändert werden, bei Leserechten nur gelesen. Welche Person was sieht respektive bearbeiten kann, setzt sich aus der Ebene/Gruppe und der Berechtigungsrolle zusammen.
 
 #### Ausnahme Biber, Wolf, Pfadi, Pio und Rover
-Personen mit den Rollen (Biber, Wolf, Pfadi, Pio und Rover) werden nur für die Personen, die in den entsprechenden Abteilungen eine Rolle haben, angezeigt. Personen aus höheren Ebenen (z.b. Kantonsleiter* in) sehen direkt in der Mitgliederdatenbank keine Daten von den Teilnehmenden. Bei einem Versand über ein Abo können diese Personen aber trotzdem erreicht werden.
+Personen mit den Rollen (Biber, Wolf, Pfadi, Pio und Rover) werden nur für die Personen, die in den entsprechenden Abteilungen eine Rolle haben, angezeigt. Personen aus höheren Ebenen (z.b. Kantonsleiter\*in) sehen direkt in der MiData keine Daten von den Teilnehmenden. Bei einem Versand über ein Abo können diese Personen aber trotzdem erreicht werden.
 
 ## Berechtigungsstufen 
 Eine Berechtigungsstufe definiert den Zugriff im System, welche Daten gelesen und geschrieben werden dürfen. Jede Rolle hat eine oder mehrere Berechtigungsstufen.
