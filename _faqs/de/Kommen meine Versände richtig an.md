@@ -18,5 +18,5 @@ Es gibt ganz viele Gründe, warum ein Mail aus einem Abo-Versand nicht ankommen 
 * Spam-Ordner der Empfänger\*innen überprüfen! Wenn ihr dort Mails von der MiData findet, solltet ihr diese in den Posteingang verschieben damit das E-Mail-System lernt, dass diese Mails erwünscht sind.
 * Die Absender-Adresse zu den Kontakten hinzufügen
 * Beim nächsten Versand noch mal überprüfen
-* In der MiData im Profil der Empfänger\*innen kontrollieren, ob die betreffende E-Mail-Adresse für den Versand aktiviert ist. (entweder als Haupt-E-Mail oder bei weiteren E-Mails mit Häckchen bei der Checkbox "Versand"
+* In der MiData im Profil der Empfänger\*innen kontrollieren, ob die betreffende E-Mail-Adresse für den Versand aktiviert ist (entweder als Haupt-E-Mail oder bei weiteren E-Mails mit Häckchen bei der Checkbox "Versand")
 * Wenn das nicht klappt: Alle Informationen sammeln und ein Mail an den [MiData Support](mailto:midata@pbs.ch) schreiben.
