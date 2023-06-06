@@ -28,7 +28,7 @@ Von Zeit zu Zeit kommt es vor, dass für eine Person zwei Accounts erstellt wurd
 
 ### Vorgehen 
 
-Der/die Poweruser logt sich ein und versichert sich, dass der Zugriff auf beide Accounts möglich ist. Nun müsst ihr herausfinden, welcher der beiden Accounts schlussendlich als Hauptaccount verwendet werden soll. Dafür ist aber nicht die E-Mail-Adresse ausschlaggebend, sondern die definierten Qualifikationen und eventuelle Anmeldungen für Anlässe, die noch verwendet werden. 
+Der/\*die Poweruser logt sich ein und versichert sich, dass der Zugriff auf beide Accounts möglich ist. Nun müsst ihr herausfinden, welcher der beiden Accounts schlussendlich als Hauptaccount verwendet werden soll. Dafür ist aber nicht die E-Mail-Adresse ausschlaggebend, sondern die definierten Qualifikationen und eventuelle Anmeldungen für Anlässe, die noch verwendet werden. 
 
 Wenn ihr euch für einen Hauptaccount entschieden habt, geht ihr zum anderen Account, und schreibt dort hinter den Vornamen den Text «(alt)». So könnt ihr die beiden Accounts gut unterscheiden. 
 
