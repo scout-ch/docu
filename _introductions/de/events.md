@@ -22,7 +22,7 @@ Das «1x1 MiData für Coaches» dient als Factsheet und als Vorbereitung für 
 
 ## Kurse
 
-Im Hauptmenü unter Kurse sind alle für den/die jeweilige\*n Benutzer\*in verfügbaren Kurse aufgeführt:
+Im Hauptmenü unter Kurse sind alle für den/\*die jeweilige\*n Benutzer\*in verfügbaren Kurse aufgeführt:
 
 Hier können Kurse nach diversen Kriterien gefiltert werden, um passende Ergebnisse anzuzeigen. Du kannst dich hier über kommende Kurse informieren und dich direkt anmelden.
 
