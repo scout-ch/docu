@@ -24,7 +24,7 @@ Falls trotzdem eine Person gelöscht werden soll (z.B. eine Doublette): Im Feld 
 
 ## Zwei Benutzer-Accounts zusammenschliessen (Doubletten auflösen) 
 
-Von Zeit zu Zeit kommt es vor, dass für eine Person zwei Accounts erstellt wurden. Damit ihr wieder Ordnung in die Daten bekommt, könnt ihr die beiden Accounts im Normalfall mit Hilfe von einem/einer Poweruser zusammenschliessen. 
+Von Zeit zu Zeit kommt es vor, dass für eine Person zwei Accounts erstellt wurden. Damit ihr wieder Ordnung in die Daten bekommt, könnt ihr die beiden Accounts im Normalfall mit Hilfe von einem/\*einer Poweruser zusammenschliessen. 
 
 ### Vorgehen 
 
