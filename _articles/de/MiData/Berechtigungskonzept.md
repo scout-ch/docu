@@ -24,8 +24,8 @@ Ein Layer entspricht einer hierarchischen Schicht und enthält die jeweiligen Gr
 
 Die erlangte Berechtigung bezieht sich immer auf die darunterliegende Organisation (in der Abbildung als Dreieck dargestellt). Wenn die Rolle Schreibrechte hat, können die Daten verändert werden, bei Leserechten nur gelesen. Welche Person was sieht respektive bearbeiten kann, setzt sich aus der Ebene/Gruppe und der Berechtigungsrolle zusammen.
 
-#### Ausnahme Biber, Wolf, Pfadi, Pio und Rover
-Personen mit den Rollen (Biber, Wolf, Pfadi, Pio und Rover) werden nur für die Personen, die in den entsprechenden Abteilungen eine Rolle haben, angezeigt. Personen aus höheren Ebenen (z.b. Kantonsleiter\*in) sehen direkt in der MiData keine Daten von den Teilnehmenden. Bei einem Versand über ein Abo können diese Personen aber trotzdem erreicht werden.
+* Ausnahme Biber, Wolf, Pfadi, Pio und Rover
+Personen mit den Rollen (Biber, Wolf, Pfadi, Pio und Rover) werden direkt in der MiData nur für die Personen, die in den entsprechenden Abteilungen eine Rolle haben, angezeigt. Personen aus höheren Ebenen (z.b. Kantonsleiter\*in) sehen direkt in der MiData keine Daten von den Teilnehmenden. Bei einem Versand über ein Abo können diese Personen aber trotzdem erreicht werden.
 
 ## Berechtigungsstufen 
 Eine Berechtigungsstufe definiert den Zugriff im System, welche Daten gelesen und geschrieben werden dürfen. Jede Rolle hat eine oder mehrere Berechtigungsstufen.
