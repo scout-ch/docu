@@ -1,8 +1,8 @@
 ---
 title: Wo kann ich meine Daten für den Pfadifinder anpassen?
-slug: faq1
+slug: finder
 lang: de
-order: Wo kann ich
+order: C04
 ---
 
 Seit Januar 2022 werden die Angaben für den Pfadifinder direkt aus der Gruppenseite deiner Abteilung in der MiData ausgelesen. Um die Daten anzupassen, kannst du die Abteilung in der MiData bearbeiten (Reiter "info" und "Bearbeiten").

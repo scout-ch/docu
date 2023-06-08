@@ -29,14 +29,24 @@ a.active {
 	font-weight: 700;
 }
 
+h1 {
+	margin-top: 1.4em;
+}
+
+h2 {
+	margin-top: 1em;
+}
+
+h3 {
+	font-size: 1.75rem;
+	margin-top: 0.8em;
+}
+
 h2,h3,h4,h5,h6 {
 	color: #8c3c4f;
+	margin-top: 0.6em;
 }
-h3 {
-	font-size: 35px;
-	margin: 10px 0;
-	padding-bottom: 0.4em
-}
+
 p, ul, li, a, span, div {
 	line-height: 1.27;
 	font-size: 15px;
@@ -60,6 +70,11 @@ p, ul, li, a, span, div {
 	p, ul, li, a, span, div, h2 .btn {
 		font-size: 20px;
 	}
+}
+
+iframe {
+	aspect-ratio: 16 / 9;
+	width: 100%;
 }
 
 /* display, position */
@@ -115,7 +130,7 @@ p, ul, li, a, span, div {
 		.navbar-brand {
 			margin-left: 4%;
 			margin-top: 10px;
-	    	margin-bottom: 10px;
+			margin-bottom: 10px;
 		}
 		.navbar-brand::after {
 			display:none
@@ -170,7 +185,7 @@ p, ul, li, a, span, div {
 		width: 100%;
 		position: relative;
 		color: white;
-		padding: 5rem 2.5rem;
+		padding: 4rem 2.5rem;
 		border-radius: 0;
 		margin: 0;
 	}
@@ -178,6 +193,7 @@ p, ul, li, a, span, div {
 	.jumbotron h1 {
 		font-size:2.5rem;
 		font-weight: 600;
+		margin-top: 0px;
 	}
 	.jumbotron p {
 		font-size: 1.5rem;
@@ -249,6 +265,12 @@ p, ul, li, a, span, div {
 		.container-lg {
 			padding: 0;
 		}
+		.faq-title .btn {
+			font-size: 22px;
+		}
+		.content img {
+			width: 100%;
+		}
 	}
 	@media (min-width:660px) {
 		.content {
@@ -256,6 +278,12 @@ p, ul, li, a, span, div {
 		}
 		.container-lg {
 			padding: 0;
+		}
+		.faq-title .btn {
+			font-size: 24px;
+		}
+		.content img {
+			max-width: 860px;
 		}
 	}
 	@media (min-width:860px) {
@@ -271,6 +299,18 @@ p, ul, li, a, span, div {
 	@media (min-width:1300px) {
 		.content {
 			padding: 1.2rem 2.5rem;
+		}
+	}
+
+	@media (max-width:991px) {
+		.navbar-nav .nav-item {
+			border-top: 1px dotted #ffffff60;
+		}
+		.navbar-nav .nav-item:nth-child(1) {
+			border-top: none;
+		}
+		.navbar-nav .nav-item .nav-link {
+			font-size: 1.3em;
 		}
 	}
 
@@ -392,7 +432,7 @@ p, ul, li, a, span, div {
 	}
 
 	@media (max-width:660px) {
-		.nav-pills .nav-link {
+		.footer-lang .nav-pills .nav-link {
 			padding: 0.6em 1.2em;
 			margin: 0 3px;
 			font-size: 0.8rem;

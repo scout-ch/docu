@@ -12,9 +12,10 @@
       crossorigin="anonymous"
     />
     <link href="{{ 'assets/fonts/fonts.css' | relative_url }}" rel="stylesheet" />
-    <link href="../assets/fonts/fonts.css" rel="stylesheet" />
+    <!--<link href="../assets/fonts/fonts.css" rel="stylesheet" />-->
     <link href="{{ 'assets/styles.css' | relative_url }}" rel="stylesheet" />
-    <link href="../assets/styles.css" rel="stylesheet" />
+    <!--<link href="../assets/styles.css" rel="stylesheet" />-->
+    <link rel="shortcut icon" type="image/png" href="{{ 'assets/favicon.png' | relative_url }}">
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
@@ -30,7 +31,7 @@
 <div class="container-lg">
   <header class="navbar navbar-dark bg-primary">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-      <a class="navbar-brand" href="{{ site.baseurl }}{{ page.lang }}">
+      <a class="navbar-brand" href="{{ site.url }}/{{ page.lang }}">
         <img alt="Logo" src="{{ 'assets/logo.svg' | relative_url }}">
       </a>
 
@@ -44,8 +45,8 @@
 
   <main role="main">
     <div class="jumbotron">
-      <h1>{{ page.articles | capitalize }}</h1>
-      <p class="lead">{{ page.title }} ({% for category in page.categories %}{{ category | slice: 1,category.size |remove_first: "_" | capitalize }}{% endfor %})</p>
+      <h1>{{ page.pagename | capitalize }}</h1>
+      <p class="lead">{{ page.title }}</p>
     </div>
     <div class="info bg-primary">
       <ul>
@@ -54,7 +55,7 @@
     </div>
     <div class="content">
       <div class="backlink">
-        <a href="{{ site.baseurl }}{{ page.lang }}/{{ page.articles }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+        <a href="{{ site.url }}/{{ page.lang }}/{{ page.backroute }}"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
           <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"/>
         </svg> {{ page.backlink }}</a>
       </div>
@@ -66,9 +67,9 @@
     <div class="footer-bg"></div>
     <div class="footer-lang bg-secondary">
         <ul class="nav justify-content-end">
-          <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="{{ site.baseurl }}de/">Deutsch</a></li>
-          <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="{{ site.baseurl }}fr/">Français</a></li>
-          <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="{{ site.baseurl }}it/">Italiano</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="{{ site.url }}/de/">Deutsch</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="{{ site.url }}/fr/">Français</a></li>
+          <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="{{ site.url }}/it/">Italiano</a></li>
         </ul>
     </div>
     {% include {{ page.lang }}/footer.html %}

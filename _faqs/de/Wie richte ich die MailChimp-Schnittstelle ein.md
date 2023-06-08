@@ -1,8 +1,8 @@
 ---
 title: Wie richte ich die MailChimp-Schnittstelle ein?
-slug: faq1
+slug: mailchimpapi
 lang: de
-order: Wie richte ich
+order: E02
 ---
 
 Wenn du ein Abo direkt als MailChimp-Liste führen willst, kannst du diese Option im Abo aktivieren. Du brauchst dafür einen MailChimp API-Schlüssel und die MailChimp Listen-ID.

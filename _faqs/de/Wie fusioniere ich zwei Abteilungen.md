@@ -1,8 +1,8 @@
 ---
 title: Wie fusioniere ich zwei Abteilungen?
-slug: faq1
+slug: fusiongrp
 lang: de
-order: Wie fusioniere
+order: C03
 ---
 
-Um einen Zusammenschluss zweier Abteilungen vorzunehmen, muss der*die Abteilungsleiter*in in beiden Abteilungen mit der Rolle «Abteilungsleiter» eingetragen sein. Dann kann sie*er bei seiner Abteilung beim Knopf Bearbeiten auf den Pfeil gehen und dort den Punkt «Fusionieren» auswählen.
+Um einen Zusammenschluss zweier Abteilungen vorzunehmen, muss der/\*die Abteilungsleiter\*in in beiden Abteilungen mit der Rolle «Abteilungsleiter\*in» eingetragen sein. Dann kann er/*sie bei der eigenen Abteilung beim Knopf Bearbeiten auf den Pfeil gehen und dort den Punkt «Fusionieren» auswählen.

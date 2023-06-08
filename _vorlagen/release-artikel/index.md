@@ -1,12 +1,16 @@
 ---
-title: MiData Release Notes 1.0.0   # Titel des Release Notes
-date: '01.01.2000'   # Release-Datum dieses Release Notes
-categories: '1.0'  # Minor-Release Nummer
-slug: 1-0-0  # Systemname des Release notes. Keine Sonderzeichen & Leerzeichen. Eindeutig & Einmalig. Wird in der URL angezeigt
-lang: de  # Sprache in welcher dieser Artikel verfasst ist (de, fr, it, en)
+title: MiData Release 1.28.42 # Titel des Release Notes
+date: '31.01.2023' # Release-Datum dieses Release Notes
+categories: '1.28' # Minor-Release Nummer für Kategorisierung
+slug: 1-28-42 # Systemname des Release notes. Keine Sonderzeichen & Leerzeichen. Eindeutig & Einmalig. Wird in der URL angezeigt
+lang: de # Sprache in welcher dieser Artikel verfasst ist (de, fr, it)
 ---
 
-Hier kommt der Inhalt der Release Note. Formatiert mit Markdown.
+# Feature Titel
+
+Featurebeschreibung.
+
+![Log-Reiter](/images/releasenotes/1.28.42_logs.png)
 
 Verfügbare Markdown-Befehle:
 https://guides.github.com/features/mastering-markdown/

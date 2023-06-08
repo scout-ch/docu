@@ -2,30 +2,26 @@
 title: Zweck, Ziel, Vorteile der MiData
 slug: article-1
 categories: 1_Midata
-cat_sort: 06.03.2022
+cat_sort: 25.03.2023
 relevance: Alle
 lang: de
-date: 06.03.2022
+date: 25.03.2023
 ---
 
-Die Mitgliederdatenbank (MiData) ist eine Weblösung mit dem Ziel der Bereitstellung einer Mitgliederverwaltung für alle Ebenen des Verbands (lokale Abteilungen, Regionen, Kantonalverbände und Bundesebene). Die Hauptfunktion der MiData ist die Verwaltung von Mitgliederdaten der Pfadi. Mittlerweilen sind weitere Funktionalitäten vorhanden:  
+Ziel und Zweck der Mitgliederdatenbank (MiData) ist, allen Ebenen der Pfadi – also Abteilungen, Regionen, Kantonalverbände und Bundesebene - eine Mitgliederverwaltung zu ermöglichen. Neben der Verwaltung von Mitgliederdaten bietet die MiData eine breite Palette an weiteren Funktionen. Sie ist eine angepasste Version der Applikation «hitobito», welche von diversen Verbänden in der Schweiz und in Deutschland eingesetzt wird. Wir sehen die Mitgliederdatenbank als Werkzeug, dass verschiedene Pfadi-Prozesse unterstützt.
 
-* Komfortable Verwaltung der Mitgliederdaten deiner Abteilung (Kinder, Leitende, etc.)  
-* Einfache Darstellung der Gruppenhierarchie (Stufe, Abteilung, Region, Kantonalverband)  
-* Bestandesmeldung von Abteilung an Kantonalverband 
-* Verwaltung von Anlässen und Teilnehmenden 
-* Verwaltung von Lagern inkl. elektronischer Anmeldung und Lagermeldung an die PBS 
-* Prozesse rund um die Ausbildungskurse und Qualifikationen
-* Versand von Informationen an spezifische Empfänger durch Abos 
-* Anmeldung bei ausgewählten externen Applikationen mittels MiData-Login 
+Die Abteilungen verwalten ihre Abteilungsdaten selber. Die Datenhoheit, und damit auch die Verantwortung über diese Daten, ist also dezentral organisiert. 
+
+Der Datenschutz für unsere Mitglieder ist uns ein grosses Anliegen. Das [neue Datenschutzgesetz (revDSG)](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html), sowie die [Datenschutzerklärung der PBS](https://pfadi.swiss/de/verband/datenschutz/dse/) sind einzuhalten.
+
 
 ## Vorteile der MiData für die Pfadi
 
 * Alle Daten sind strukturiert und einheitlich an einem Ort abgelegt 
+* Dreisprachige Benutzerschnittstelle (Deutsch, Französisch, Italienisch)
 * Abteilungen haben die volle Kontrolle über ihre Mitgliederdaten 
-* Finden von Kontaktdaten und Organisationseinheiten innerhalb der Pfadi 
 * Striktes Berechtigungskonzept und Einhaltung der Datenschutzvorgaben 
 * Daten werden sicher auf einem Server in der Schweiz gespeichert  
-* Erleichterung diverser administrativer Prozesse  
-* Die Mitgliederdatenbank ist Dreisprachig aufgebaut (Deutsch, Französisch, Italienisch) 
-* Anbindung von Schnittstellen für die digitale Vernetzung 
+* Erleichteren von diversen administrativen Prozessen (Kurse, Lager, Sarasani, ...)  
+* Vereinfachtes Finden von Kontaktdaten und Organisationseinheiten 
+* Anbindung von weiteren Pfadi-Applikationen via Schnittstelle

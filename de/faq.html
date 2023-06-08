@@ -7,10 +7,10 @@ lang: de
 <div class="accordion" id="accordionFAQ">
 	<hr class="hr-faq" />
 
-	{% assign faqs = site.faqs | where: "lang", "de" %}
+	{% assign faqs = site.faqs | where: "lang", "de" | sort: "order" %}
 	{% for faq in faqs %}
 		<div class="card">
-		    <div class="card-header" id="heading-{{ forloop.index }}">
+		    <div class="card-header" id="{{ faq.slug }}">
 		      <h2 class="faq-title">
 		        <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#content-{{ forloop.index }}" aria-expanded="true" aria-controls="content-{{ forloop.index }}">
 		          {{ faq.title }}<span class="right"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">

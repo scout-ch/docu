@@ -1,8 +1,8 @@
 ---
 title: Ich finde eine Person nach dem Entfernen einer Rolle nicht mehr, wo ist sie?
-slug: faq1
+slug: personlost
 lang: de
-order: Ich finde eine Person
+order: A_03
 ---
 
 Ich kann eine Person nicht neu erfassen, weil sie bereits vorhanden ist. Über die Suche finde ich sie aber nicht.
