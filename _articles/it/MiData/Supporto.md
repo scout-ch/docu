@@ -8,7 +8,7 @@ lang: it
 date: 25.03.2023
 ---
 
-Il ruolo di PowerUser può essere definito a livello sezionale, regionale e cantonale. Questi Po-werUser sono i contatti principali per gli utenti. Gli utenti possono trovare i rispettivi PowerUser nella pagina di aiuto di MiData.
+Il ruolo di PowerUser può essere definito a livello sezionale, regionale e cantonale. Questi PowerUser sono i contatti principali per gli utenti. Gli utenti possono trovare i rispettivi PowerUser nella pagina di aiuto di MiData.
 
 Se i PowerUser cantonali hanno bisogno di ulteriore aiuto, possono contattare il MSS (midata@pbs.ch, 0313280551). 
 

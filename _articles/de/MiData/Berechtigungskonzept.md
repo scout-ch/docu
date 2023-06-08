@@ -13,7 +13,7 @@ Eine Person kann in der MiData verschiedene Rollen haben. Diese berechtigen die 
 
 Eine gute Einführung zum Thema Rollen findest du in der [Hitobito-Dokumentation](https://hitobito.readthedocs.io/de/latest/access_concept.html)
 
-Die Berechtigung eines/einer Benutzers/Benutzerin setzt sich aus der Rolle und der Organisationseinheit zusammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebenen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisationseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
+Die Berechtigung von Benutzer/*innen setzt sich aus der Rolle und der Organisationseinheit zusammen. Grundlage dafür ist also auch die Struktur, beziehungsweise die verschiedenen Ebenen der Pfadi. Eine Person kann eine oder mehrere Rollen in einer oder mehreren Organisationseinheiten haben. Die Berechtigung ist jeweils an die Rolle gebunden. Dies bedeutet, dass eine Person mit einer neuen Rolle eine zusätzliche Berechtigung erhält. Wird diese Rolle wieder entfernt, wird auch die Berechtigung entfernt.
 
 <img src="/images/documentation/rollen_berechtigungskonzept.png" width="50%" alt="Rollen Berechtigungskonzept"/>
 

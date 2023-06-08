@@ -29,7 +29,7 @@ Per garantire un funzionamento regolare, i compiti previsti sono ben definiti e 
 * Organizza e comunica aggiornamenti, manutenzioni e interruzioni di servizio
 
 ## Team MiData (midata@pbs.ch) 
-* Include evtl. estensioni in collaborazione con i PowerUser delle AC - Conferenza MiDa-ta
+* Include evtl. estensioni in collaborazione con i PowerUser delle AC - Conferenza MiData
 * Definisce le priorità e le specifiche delle integrazioni in collaborazione con i PowerUsers delle AC.
 * Organizza i Hackathon
 * Rappresenta Midata all’interno della comunità Hitobito
