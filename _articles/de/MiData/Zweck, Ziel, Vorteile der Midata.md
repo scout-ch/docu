@@ -10,7 +10,7 @@ date: 25.03.2023
 
 Ziel und Zweck der Mitgliederdatenbank (MiData) ist, allen Ebenen der Pfadi – also Abteilungen, Regionen, Kantonalverbände und Bundesebene - eine Mitgliederverwaltung zu ermöglichen. Neben der Verwaltung von Mitgliederdaten bietet die MiData eine breite Palette an weiteren Funktionen. Sie ist eine angepasste Version der Applikation «hitobito», welche von diversen Verbänden in der Schweiz und in Deutschland eingesetzt wird. Wir sehen die Mitgliederdatenbank als Werkzeug, dass verschiedene Pfadi-Prozesse unterstützt.
 
-Die Abteilungen verwalten ihre Abteilungsdaten selber. Die Datenhoheit, und damit auch die Verantwortung über diese Daten ist also dezentral organisiert. 
+Die Abteilungen verwalten ihre Abteilungsdaten selber. Die Datenhoheit, und damit auch die Verantwortung über diese Daten, ist also dezentral organisiert. 
 
 Der Datenschutz für unsere Mitglieder ist uns ein grosses Anliegen. Das [neue Datenschutzgesetz (revDSG)](https://www.kmu.admin.ch/kmu/de/home/fakten-trends/digitalisierung/datenschutz/neues-datenschutzgesetz-rev-dsg.html), sowie die [Datenschutzerklärung der PBS](https://pfadi.swiss/de/verband/datenschutz/dse/) sind einzuhalten.
 

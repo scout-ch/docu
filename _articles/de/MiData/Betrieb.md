@@ -10,7 +10,7 @@ date: 25.03.2023
 
 Um einen geregelten Betrieb sicherzustellen, sind die anfallenden Aufgaben definiert und auf verschiedene Funktionen verteilt. Nachfolgend werden die Aufgaben der jeweiligen Funktionen aufgelistet:
 
-## Abteilungsleitung, Sekretariat und Adressverwalter* in
+## Abteilungsleiter\*in, Sekretariat und Adressverwalter\*in
 * Verantwortlich für die Daten seiner Organisationseinheit und deren Mitglieder  
 * Pflege der Daten seiner Organisationseinheit und Sicherstellung der Aktualität  
 * Archivierung von nicht mehr verwendeten Daten 

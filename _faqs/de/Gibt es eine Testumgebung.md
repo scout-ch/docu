@@ -11,8 +11,8 @@ Link: <a href="https://pbs.puzzle.ch/" target="_blank">pbs.puzzle.ch</a>
 
 Anmelden kannst du dich als:
 
-* Stufenleiter: ullrich_emirhan ( at ) hitobito.example.com
-* Abteilungsleiter: letizia_wilhelm ( at ) hitobito.example.com
+* Stufenleiter\*in: ullrich_emirhan ( at ) hitobito.example.com
+* Abteilungsleiter\*in: letizia_wilhelm ( at ) hitobito.example.com
 * Admin: hussein_kohlmann ( at ) hitobito.example.com
 
 Passwort: hito42bito
