@@ -17,9 +17,11 @@ Siehe den Artikel im [F.A.Q.](https://docu.scout.ch/de/faq)
 ## Weiterentwicklung
 
 Damit die MiData den bestehenden und neuen Bedürfnissen gerecht werden kann und auch in Zukunft weiterverwendet wird, muss sie kontinuierlich weiterentwickelt werden. Die Weiterentwicklung ist unabhängig vom Support aufgestellt. Die MiData wird als strategisches Element in der PBS geführt und hat einen fixen Bestandteil der IT-Strategie und ein entsprechendes Budget.
-Für die Weiterentwicklung ist folgender Ablauf definiert: 
-1. Die primären Ansprechpersonen für die Benutzer sind die PowerUser in den Kantonen oder allenfalls noch in den Regionen. Ideen und Wünsche der Anwender*innen werden von den PowerUsern gesammelt und via E-Mail an den Product-Owner eingegeben. 
-2. Der Product-Owner der PBS sammelt die Anregungen und bereitet diese falls notwendig auf. 
+
+Die MiData ist häufig auch von Entwicklungen durch andere Projekte mitbetroffen. Das Team MiData und der ProductOwner sorgen für eine gesamtheitliche und pragmatische Priorisierung der jeweils anstehenden Weiterentwicklungen. Damit die Priorisierung zu nützlichen Ergebnissen kommt, werden auch die PowerUser der Kantonalverbände und der grösseren Regionen involviert. Folgender Ablauf hilft dabei, die Bedürfnisse der Benutzer\*innen einschätzen zu können:
+
+1. Die primären Ansprechpersonen für die Benutzer sind die PowerUser in den Kantonen oder allenfalls noch in den Regionen. Ideen und Wünsche der Anwender\*innen werden von den PowerUsern gesammelt und via E-Mail an den Product-Owner eingegeben. 
+2. Der ProductOwner der PBS sammelt die Anregungen und bereitet diese falls notwendig auf. 
 3. Das MiData-Team priorisiert und spezifiziert die Erweiterung, wobei die Anforderungen der Kantonalverbände berücksichtigt werden. 
 4. Umgesetzt wird dann die Erweiterung mit dem Softwaredienstleister.
 
