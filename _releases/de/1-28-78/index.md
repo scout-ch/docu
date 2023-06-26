@@ -2,7 +2,7 @@
 title: MiData Release 1.28.78
 date: '04.07.2023'
 categories: '1.28'
-slug: 1-28-42
+slug: 1-28-78
 lang: de
 ---
 
@@ -34,7 +34,7 @@ Diese Berechtigung wurde auf Basis der Rückmeldungen zu den Gruppenanfragen ang
 Benutzer\*innen haben nun die Möglichkeit, im Sicherheits-Tab alle Rollen anzuzeigen, die Leserechte auf das eigene Profil haben. Genauer werden die Rollen aufgelistet, welche die wichtigsten Profilinformationen wie die Adresse, Telefonnummern, und den Abschnitt “Weitere Angaben" anzeigen können. Diese Darstellung soll Transparenz schaffen und das Verständnis für Zugriffsrechte in der MiData verbessern.
 
 ## Eigene Doku-Plattform anstelle PBS-Webseite
-Die MiData-Dokumentation hat ein neues Gesicht erhalten! Alle MiData-Informationen, von Einstieg bis zu den ReleaseNotes, sind neu unter [docu.scout.ch](http://docu.scout.ch) gebündelt. Das Besondere an dieser Plattform ist, dass ihr als PowerUser oder als interessierte Person selber Vorschläge für Änderungen zu den Inhalten einbringen könnt. Dafür sind minimale Kenntnisse des Git-Protokolls und des Markdown-Formates erforderlich. Wir freuen uns über eure Vorschläge und Ergänzungen zur MiData-Dokumentation!
+Die MiData-Dokumentation hat ein neues Gesicht erhalten! Alle MiData-Informationen, von Einstieg bis zu den ReleaseNotes, sind neu unter [docu.scout.ch](https://docu.scout.ch) gebündelt. Das Besondere an dieser Plattform ist, dass ihr als PowerUser oder als interessierte Person selber Vorschläge für Änderungen zu den Inhalten einbringen könnt. Dafür sind minimale Kenntnisse des Git-Protokolls und des Markdown-Formates erforderlich. Wir freuen uns über eure Vorschläge und Ergänzungen zur MiData-Dokumentation!
 
 [Zur Dokumentationsplattform](https://docu.scout.ch)
 
@@ -54,4 +54,4 @@ Die MiData-Dokumentation hat ein neues Gesicht erhalten! Alle MiData-Information
 ## Bugfixes
 - Rechnungslisten von Sammelrechnungen zeigen neu korrekterweise auch Rechnungen vom ersten und letzten Tag der Auswahl an.
 - Tags auf Anlässen können jetzt von allen Personen entfernt werden, die sie auch erfassen können.
-- Die Ansicht zum Einrichten der 2FA wurde für Mobile optimiert. Ausserdem kann man neu das sogenannte TOTP Secret auch manuell kopieren und beispielsweise in einem Password-Manager einfügen, anstatt den QR-Code zu scannen.
+- Die Ansicht zum Einrichten der 2FA wurde für Mobile optimiert. Ausserdem kann man neu das sogenannte TOTP-Secret auch manuell kopieren und beispielsweise in einem Password-Manager einfügen, anstatt den QR-Code zu scannen.
