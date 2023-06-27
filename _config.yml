@@ -32,6 +32,9 @@ markdown: kramdown
 
 permalink: none
 
+# allow rendering release notes with date in the future
+future: true 
+
 sass:
   # loading path from site root
   # default to _sass
