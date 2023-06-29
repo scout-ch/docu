@@ -46,7 +46,7 @@
   <main role="main">
     <div class="jumbotron">
       <h1>{{ page.releases | capitalize }}</h1>
-      <p class="lead">{{ page.title }}</p>
+      <p class="lead">{{ page.title }} | {{ page.date | date: "%m.%d.%Y" }}</p>
     </div>
     <div class="content">
       <div class="backlink">
