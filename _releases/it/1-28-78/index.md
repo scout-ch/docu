@@ -9,14 +9,14 @@ lang: it
 ## Autentificazione a 2 fattori (2FA) a partire da un determinato livello
 Nella Release-Notes del 31.05.2022 l'autenticazione a due fattori (2FA) è stata introdotta in MiData. Da allora è possibile attivare la 2FA per il proprio account utente. La 2FA è particolarmente importante per prevenire gli attacchi di phishing automatici. Questa impostazione aiuta anche a evitare altri attacchi mirati.
 
-**Attenzione: è necessario agire** I seguenti ruoli: responsabili di zona, responsabili cantonali, segretariato, responsabili degli indirizzi o PowerUser sono ora obbligati ad attivare l’autentificazione a 2 fattori. Al prossimo accesso, alle persone che ricoprono uno di questi ruoli, sarà richiesto di impostare il 2FA.
+**Attenzione, è necessario agire:** I seguenti ruoli: responsabili di zona, responsabili cantonali, segretariato, responsabili degli indirizzi o PowerUser sono ora obbligati ad attivare l’autentificazione a 2 fattori. Al prossimo accesso, alle persone che ricoprono uno di questi ruoli, sarà richiesto di impostare il 2FA.
 
-I ruoli interessati sono contrassegnati "2FA" nella [Gerarchia dei ruoli] (https://github.com/hitobito/hitobito_pbs#pfadi-organization-hierarchy). Si tratta di tutti i ruoli a livello di zona, associazione cantonale o federale che hanno almeno i diritti di lettura dell’intero livello e dei livelli sottostanti.
+I ruoli interessati sono contrassegnati "2FA" nella [Gerarchia dei ruoli](https://github.com/hitobito/hitobito_pbs#pfadi-organization-hierarchy). Si tratta di tutti i ruoli a livello di zona, associazione cantonale o federale che hanno almeno i diritti di lettura dell’intero livello e dei livelli sottostanti.
 
 ## Forzare le richieste di accesso
 Nella versione del 26.08.2022 abbiamo attivato le richieste di accesso eccezionalmente per tutti i livelli. In seguito a questa modifica, abbiamo riscontrato soltanto rari problemi. Uno dei feedback ricevuti è stato che i e le responsabili dell’amministrazione degli indirizzi dovrebbero poter essere in grado di rispondere alle richieste. Abbiamo provveduto a modificare questo aspetto (si veda la nota nella sezione successiva).
 
-A partire dalla nuova versione, la funzione non può più essere disattivata. Ciò significa che le richieste di accesso da altri livelli devono sempre essere confermate dal livello a cui la persona appartiene. È possibile trovare una spiegazione delle richieste di accesso [qui] (https://hitobito.readthedocs.io/it/latest/access_concept.html).
+A partire dalla nuova versione, la funzione non può più essere disattivata. Ciò significa che le richieste di accesso da altri livelli devono sempre essere confermate dal livello a cui la persona appartiene. È possibile trovare una spiegazione delle richieste di accesso [qui](https://hitobito.readthedocs.io/it/latest/access_concept.html).
 
 ## Adattamenti al ruolo di amministratrice o amministratore bancadati delle sezioni
 Gli amministratori degli bancadati delle sezioni hanno ora accesso all'intero livello. Ciò significa che queste persone hanno ora delle autorizzazioni aggiuntive:
@@ -25,7 +25,6 @@ Gli amministratori degli bancadati delle sezioni hanno ora accesso all'intero li
 - Accesso alla sezione “Senza ruolo”
 - Accesso alle chiavi API e ai feed del calendario
 - Accesso alle note di tutte le persone del livello
-
 Queste autorizzazioni sono state modificate sulla base dei feedback ricevuti dai gruppi. Le note sono ora visibili anche agli amministratori bancadati.
 
 ## Ruoli che hanno accesso al mio profilo

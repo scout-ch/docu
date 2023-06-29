@@ -9,7 +9,7 @@ lang: fr
 ## 2FA à partir d'un certain niveau
 Dans la Version du 31.05.2022, l'authentification à deux facteurs (2FA) a été introduite dans MiData. Depuis lors, il est possible d'activer la 2FA pour son propre compte d'utilisateur. L’authentification à deux facteurs est particulièrement importante pour contrer les attaques de phishing automatisées, mais elle permet également d'empêcher des attaques ciblées.
 
-**Attention : action nécessaire** Désormais, les rôles tels que responsable de région, responsable cantonal, secrétariat, gestionnaire d'adresse ou PowerUser sont soumis à une obligation d'activer le 2FA. Les personnes qui exercent l'une de ces fonctions seront contraintes d'activer le 2FA lors de leur prochaine connexion.
+**Attention, action nécessaire:** Désormais, les rôles tels que responsable de région, responsable cantonal, secrétariat, gestionnaire d'adresse ou PowerUser sont soumis à une obligation d'activer le 2FA. Les personnes qui exercent l'une de ces fonctions seront contraintes d'activer le 2FA lors de leur prochaine connexion.
 
 Les rôles concernés sont marqués "2FA" dans la [Hiérarchie des rôles](https://github.com/hitobito/hitobito_pbs#pfadi-organization-hierarchy). Il s'agit de tous les rôles au niveau de la région, de l'association cantonale ou du niveau fédéral qui ont au moins des droits de lecture de tout le niveau et en dessous.
 
@@ -18,15 +18,14 @@ Dans la version du 26.08.2022, nous avons activé les demandes d'accès pour tou
 
 À partir de la nouvelle version, cette fonction ne peut plus être désactivée. Ainsi, les demandes d'accès d’autres niveaux doivent toujours être confirmées par le niveau actuel de la personne. Tu trouveras une explication des demandes d'accès [ici](https://hitobito.readthedocs.io/fr/latest/access_concept.html).
 
-## Adaptations au rôle de responsable de l’administration des adresses des groupes
-Les responsables de l’administration des adresses des groupes ont désormais accès à l'ensemble du niveau. Ainsi, ce rôle a désormais reçu des autorisations supplémentaires :
+## Adaptations au rôle de l’administrateur·trice des adresses des groupes
+Les administrateur·trice·s des adresses des groupes ont désormais accès à l'ensemble du niveau. Ainsi, ce rôle a désormais reçu des autorisations supplémentaires :
 
 - Possibilité de répondre au groupe aux demandes liées au rôle.
 - Accès à l’onglet "Sans rôles".
 - Accès aux clés API et aux flux de calendrier
 - Accès aux notes de toutes les personnes du niveau.
-
-Cette autorisation a été adaptée sur la base des retours reçus des groupes. Les notes sont désormais également visibles par les responsables de l’administration des adresses.
+Cette autorisation a été adaptée sur la base des retours reçus des groupes. Les notes sont désormais également visibles par les administrateur·trice·s des adresses.
 
 ## Rôles qui ont accès à mon compte
 Les utilisatrices et utilisateurs ont désormais la possibilité d'afficher dans l'onglet Sécurité tous les rôles qui ont des droits de lecture sur leur propre compte. Plus précisément, seront listés les rôles qui peuvent afficher les informations les plus importantes du compte comme l'adresse, les numéros de téléphone et la section "Autres informations". Cette présentation vise à assurer la transparence et à améliorer la compréhension des droits d'accès dans MiData.
