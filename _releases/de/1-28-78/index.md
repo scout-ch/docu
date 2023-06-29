@@ -26,9 +26,7 @@ Adressverwalter\*innen von Abteilungen haben neu Zugriff auf die ganze Ebene. Da
 - Zugriff auf API-Keys und Kalender-Feeds
 - Zugriff auf die Notizen aller Personen auf der Ebene
 
-Diese Berechtigung wurde auf Basis der Rückmeldungen zu den Gruppenanfragen angepasst.
-
-**Achtung Handlungsbedarf:** Notizen sind neu auch für Adressverwalter\*innen sichtbar. Bitte überprüft, ob die Änderung eine Auswirkung auf eure Abteilung haben könnte.
+Diese Berechtigung wurde auf Basis der Rückmeldungen zu den Gruppenanfragen angepasst. Notizen sind neu auch für Adressverwalter\*innen sichtbar. 
 
 ## Rollen, die auf mich Zugriff haben
 Benutzer\*innen haben nun die Möglichkeit, im Sicherheits-Tab alle Rollen anzuzeigen, die Leserechte auf das eigene Profil haben. Genauer werden die Rollen aufgelistet, welche die wichtigsten Profilinformationen wie die Adresse, Telefonnummern, und den Abschnitt “Weitere Angaben" anzeigen können. Diese Darstellung soll Transparenz schaffen und das Verständnis für Zugriffsrechte in der MiData verbessern.

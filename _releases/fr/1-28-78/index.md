@@ -6,52 +6,50 @@ slug: 1-28-78
 lang: fr
 ---
 
-## 2FA ab gewissem Level
-Im Release vom 31.05.2022 wurde die Zwei-Faktor-Authentifizierung (2FA) in der MiData ausgerollt. Seither ist es möglich, 2FA für den eigenen Benutzer-Account zu aktivieren. 2FA ist besonders wichtig, um automatisierte Phishing-Angriffe abzuwehren. Die Einstellung hilft aber auch, um gezielte Angriffe zu verhindern.
+## 2FA à partir d'un certain niveau
+Dans la Version du 31.05.2022, l'authentification à deux facteurs (2FA) a été introduite dans MiData. Depuis lors, il est possible d'activer la 2FA pour son propre compte d'utilisateur. L’authentification à deux facteurs est particulièrement importante pour contrer les attaques de phishing automatisées, mais elle permet également d'empêcher des attaques ciblées.
 
-**Achtung Handlungsbedarf:** Neu werden Rollen wie Regionsleiter\*in, Kantonsleiter\*in, Sekretariat, Adressverwalter\*in oder PowerUser gezwungen, 2FA zu aktivieren. Personen, die eine dieser Rollen haben, werden beim nächsten Login gezwungen, 2FA einzurichten.
+**Attention : action nécessaire** Désormais, les rôles tels que responsable de région, responsable cantonal, secrétariat, gestionnaire d'adresse ou PowerUser sont soumis à une obligation d'activer le 2FA. Les personnes qui exercent l'une de ces fonctions seront contraintes d'activer le 2FA lors de leur prochaine connexion.
 
-Die betroffenen Rollen sind in der [Rollen-Hierarchie](https://github.com/hitobito/hitobito_pbs#pfadi-organization-hierarchy) mit "2FA" markiert. Es handelt sich dabei um alle Rollen auf Ebene Region, Kantonalverband oder Bundesebene, die mindestens Leserechte der ganzen Ebene und darunter haben.
+Les rôles concernés sont marqués "2FA" dans la [Hiérarchie des rôles](https://github.com/hitobito/hitobito_pbs#pfadi-organization-hierarchy). Il s'agit de tous les rôles au niveau de la région, de l'association cantonale ou du niveau fédéral qui ont au moins des droits de lecture de tout le niveau et en dessous.
 
-## Zugriffsanfragen erzwingen
-Im Release vom 26.08.2022 haben wir die Zugriffsanfragen einmalig für alle Ebene aktiviert. Im Nachgang dieser Anpassung haben wir nur wenige Probleme festgestellt. Eine Rückmeldung war, dass Adressverwalter\*innen ebenfalls die Anfragen beantworten sollen können. Dies haben wir nun angepasst (siehe den Hinweis im nächsten Abschnitt).
+## Forcer les demandes d'accès
+Dans la version du 26.08.2022, nous avons activé les demandes d'accès pour tous les niveaux. Suite à cette adaptation, nous n'avons constaté que peu de problèmes. Les feedbacks que nous avons reçus suggérait que les administratrices et administrateurs d'adresses devraient également pouvoir répondre aux demandes. Nous avons maintenant adapté cet aspect (voir la remarque dans la section suivante).
 
-Die Funktion kann ab dem Release nicht mehr deaktiviert werden. Somit müssen Zugriffsanfragen von fremden Ebenen immer von der aktuellen Ebene der Person bestätigt werden. Eine Erklärung der Zugriffsanfragen findest du [hier](https://hitobito.readthedocs.io/de/latest/access_concept.html#security-zugriffsanfragen-und-manuelle-freigabe).
+À partir de la nouvelle version, cette fonction ne peut plus être désactivée. Ainsi, les demandes d'accès d’autres niveaux doivent toujours être confirmées par le niveau actuel de la personne. Tu trouveras une explication des demandes d'accès [ici](https://hitobito.readthedocs.io/fr/latest/access_concept.html).
 
-## Anpassungen an der Rolle Adressverwalter\*in von Abteilungen
-Adressverwalter\*innen von Abteilungen haben neu Zugriff auf die ganze Ebene. Damit hat diese Rolle neu zusätzliche Berechtigungen:
+## Adaptations au rôle de responsable de l’administration des adresses des groupes
+Les responsables de l’administration des adresses des groupes ont désormais accès à l'ensemble du niveau. Ainsi, ce rôle a désormais reçu des autorisations supplémentaires :
 
-- Möglichkeit, Rollenanfragen an die Gruppe zu beantworten
-- Zugriff auf die Ansicht “Ohne Rollen”
-- Zugriff auf API-Keys und Kalender-Feeds
-- Zugriff auf die Notizen aller Personen auf der Ebene
+- Possibilité de répondre au groupe aux demandes liées au rôle.
+- Accès à l’onglet "Sans rôles".
+- Accès aux clés API et aux flux de calendrier
+- Accès aux notes de toutes les personnes du niveau.
 
-Diese Berechtigung wurde auf Basis der Rückmeldungen zu den Gruppenanfragen angepasst.
+Cette autorisation a été adaptée sur la base des retours reçus des groupes. Les notes sont désormais également visibles par les responsables de l’administration des adresses.
 
-**Achtung Handlungsbedarf:** Notizen sind neu auch für Adressverwalter\*innen sichtbar. Bitte überprüft, ob die Änderung eine Auswirkung auf eure Abteilung haben könnte.
+## Rôles qui ont accès à mon compte
+Les utilisatrices et utilisateurs ont désormais la possibilité d'afficher dans l'onglet Sécurité tous les rôles qui ont des droits de lecture sur leur propre compte. Plus précisément, seront listés les rôles qui peuvent afficher les informations les plus importantes du compte comme l'adresse, les numéros de téléphone et la section "Autres informations". Cette présentation vise à assurer la transparence et à améliorer la compréhension des droits d'accès dans MiData.
 
-## Rollen, die auf mich Zugriff haben
-Benutzer\*innen haben nun die Möglichkeit, im Sicherheits-Tab alle Rollen anzuzeigen, die Leserechte auf das eigene Profil haben. Genauer werden die Rollen aufgelistet, welche die wichtigsten Profilinformationen wie die Adresse, Telefonnummern, und den Abschnitt “Weitere Angaben" anzeigen können. Diese Darstellung soll Transparenz schaffen und das Verständnis für Zugriffsrechte in der MiData verbessern.
+## Une propre plateforme de documentation à la place du site web du MSS
+La documentation MiData a un nouveau visage ! Toutes les informations MiData, de l'introduction aux Release-Notes, sont désormais regroupées sous [docu.scout.ch](https://docu.scout.ch). La particularité de cette plateforme est que vous pouvez, en tant que PowerUser ou personne intéressée, apporter vous-même des propositions de modifications aux contenus. Pour cela, une connaissance minimale du protocole Git et du format Markdown est nécessaire. Nous nous réjouissons de vos propositions et de vos enrichissements à la documentation MiData !
 
-## Eigene Doku-Plattform anstelle PBS-Webseite
-Die MiData-Dokumentation hat ein neues Gesicht erhalten! Alle MiData-Informationen, von Einstieg bis zu den ReleaseNotes, sind neu unter [docu.scout.ch](https://docu.scout.ch) gebündelt. Das Besondere an dieser Plattform ist, dass ihr als PowerUser oder als interessierte Person selber Vorschläge für Änderungen zu den Inhalten einbringen könnt. Dafür sind minimale Kenntnisse des Git-Protokolls und des Markdown-Formates erforderlich. Wir freuen uns über eure Vorschläge und Ergänzungen zur MiData-Dokumentation!
+ [Vers la plateforme de documentation](https://docu.scout.ch)
 
-[Zur Dokumentationsplattform](https://docu.scout.ch)
+ [Proposer une modification](https://github.com/scout-ch/docu/blob/master/CONTRIBUTING.md)
 
-[Eine Änderung vorschlagen](https://github.com/scout-ch/docu/blob/master/CONTRIBUTING.md)
+## Ultérieures adaptations
+- L'e-mail envoyé par l’option "Mot de passe oublié" est désormais envoyé dans la langue de correspondance de la personne.
+- Via l'API JSON, les applications tierces peuvent désormais également consulter la langue de correspondance choisie par la personne.
+- La photo de profil d'une personne peut désormais être agrandie par un clic.
+- Il existe désormais une option permettant d'exporter les adresses e-mail des listes de personnes dans un format spécifique à Outlook.
+- Les listes de factures collectives n'affichent plus par défaut uniquement les factures de l'année en cours, mais toutes les factures depuis la création de la facture collective.
+- Les personnes qui ont des droits d'écriture pour tout le niveau peuvent également inviter des personnes dans les événements de tout le niveau en question.
+- Lorsque l'on invite des personnes à un événement, une remarque explique désormais que l'invitation n'est pas automatiquement envoyée par e-mail.
+- Les invitations peuvent être triées et supprimées, mais ne peuvent plus être saisies deux fois.
+- Si l'on refuse une invitation, celle-ci continue d’être indiquée pour information.
 
-## Weitere Anpassungen
-- Die E-Mail, welche bei der "Passwort vergessen" Funktion versendet wird, wird neu in der Korrespondenzsprache der Person versendet.
-- Über die JSON:API können Drittapplikationen neu auch die ausgewählte Korrespondenzsprache von Personen abrufen.
-- Das Profilbild einer Person kann neu via Klick vergrössert angezeigt werden.
-- Neu gibt es eine Option, um die Mailadressen von Personenlisten in einem Format spezifisch für Outlook zu exportieren.
-- Rechnungslisten von Sammelrechnungen zeigen neu standardmässig nicht mehr Rechnungen vom aktuellen Jahr, sondern alle Rechnungen seit Erstellung der Sammelrechnung an.
-- Personen, welche für die ganze Ebene Schreibrechte haben, können auch in Anlässen der ganzen Ebene Personen einladen.
-- Lädt man Personen zu einem Event ein, erklärt neu ein Hinweis, dass die Einladung nicht automatisch per Mail versendet wird.
-- Einladungen können neu sortiert und gelöscht, dafür nicht mehr doppelt erfasst werden.
-- Wenn man eine Einladung ablehnt, wird einem dies weiterhin zur Information angezeigt.
-
-## Bugfixes
-- Rechnungslisten von Sammelrechnungen zeigen neu korrekterweise auch Rechnungen vom ersten und letzten Tag der Auswahl an.
-- Tags auf Anlässen können jetzt von allen Personen entfernt werden, die sie auch erfassen können.
-- Die Ansicht zum Einrichten der 2FA wurde für Mobile optimiert. Ausserdem kann man neu das sogenannte TOTP-Secret auch manuell kopieren und beispielsweise in einem Password-Manager einfügen, anstatt den QR-Code zu scannen.
+## Correction de bugs
+- Les listes de factures collectives affichent désormais correctement toutes les factures, y compris celles du premier et du dernier jour de la sélection.
+- Les tags sur les événements peuvent désormais être supprimés par toutes les personnes qui peuvent les saisir.
+- L'affichage pour la mise en place de la 2FA a été optimisé pour les téléphones portables. De plus, il est désormais possible de copier manuellement le TOTP (Mot de passe à usage unique basé sur le temps) et de l'insérer, par exemple, dans un gestionnaire de mots de passe au lieu de scanner le code QR. 
