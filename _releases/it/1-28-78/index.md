@@ -25,6 +25,7 @@ Gli amministratori degli bancadati delle sezioni hanno ora accesso all'intero li
 - Accesso alla sezione “Senza ruolo”
 - Accesso alle chiavi API e ai feed del calendario
 - Accesso alle note di tutte le persone del livello
+
 Queste autorizzazioni sono state modificate sulla base dei feedback ricevuti dai gruppi. Le note sono ora visibili anche agli amministratori bancadati.
 
 ## Ruoli che hanno accesso al mio profilo

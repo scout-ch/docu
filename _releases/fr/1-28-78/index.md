@@ -25,6 +25,7 @@ Les administrateur·trice·s des adresses des groupes ont désormais accès à l
 - Accès à l’onglet "Sans rôles".
 - Accès aux clés API et aux flux de calendrier
 - Accès aux notes de toutes les personnes du niveau.
+
 Cette autorisation a été adaptée sur la base des retours reçus des groupes. Les notes sont désormais également visibles par les administrateur·trice·s des adresses.
 
 ## Rôles qui ont accès à mon compte
