@@ -1,5 +1,5 @@
 ---
-title: Wie richte ich die Zwei-Faktor-Authentifizierung ein?
+title: Come faccio a impostare l'autenticazione a due fattori?
 slug: enable-2fa
 lang: it
 order: A01
