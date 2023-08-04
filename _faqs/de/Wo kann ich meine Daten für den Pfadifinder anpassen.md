@@ -15,10 +15,10 @@ Bitte bedenke folgendes:
 * PTA (Ja/Nein)
 * Geschlecht (w/m/gemischt)
 * Webseite
-* E-Mail
 * Treffpunkte:
   * Es können bis zu vier Treffpunkte pro Abteilung erfasst werden.
   * Die Treffpunkte sind im Format WGS84 (Dezimalgrad) auf 6 Nachkommastellen genau zu erfassen.
-
+* E-Mail (Reiter "Kontaktangaben")
+* Social Media (Reiter "Kontaktangaben")
 
 Du findest den Pfadi-Finder wie gewohnt unter [pfadi.swiss/de/go/mitmachen/](https://pfadi.swiss/de/go/mitmachen/). Deine Änderungen in der MiData werden jeweils nächtlich in den Pfadi-Finder übernommen!
