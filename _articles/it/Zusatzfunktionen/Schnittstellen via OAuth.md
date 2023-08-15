@@ -3,7 +3,7 @@ title: Interfaccia OAuth
 slug: article-15
 categories: 3_Funzioni&nbsp;supplementari
 cat_sort: C
-relevance: 
+relevance: Webmaster
 lang: it
 date: 02.10.2022
 ---

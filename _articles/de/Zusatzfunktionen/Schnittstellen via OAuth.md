@@ -3,7 +3,7 @@ title: Schnittstellen via OAuth
 slug: article-15
 categories: 3_Zusatzfunktionen
 cat_sort: C
-relevance: 
+relevance: Webmaster
 lang: de
 date: 01.01.2022
 ---

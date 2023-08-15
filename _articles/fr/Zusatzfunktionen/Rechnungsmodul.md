@@ -3,7 +3,7 @@ title: Factures
 slug: article-16
 categories: 3_Fonctions&nbsp;Supplémentaires
 cat_sort: D
-relevance: 
+relevance: Trésorier·ère
 lang: fr
 date: 11.08.2023
 ---

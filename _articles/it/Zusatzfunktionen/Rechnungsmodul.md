@@ -3,7 +3,7 @@ title: Fatturazione
 slug: article-16
 categories: 3_Funzioni&nbsp;supplementari
 cat_sort: D
-relevance: 
+relevance: Cassiere
 lang: it
 date: 11.08.2023
 ---
