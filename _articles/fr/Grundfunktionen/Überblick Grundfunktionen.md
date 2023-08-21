@@ -3,7 +3,7 @@ title: Aperçu des fonctions de base
 slug: article-7
 categories: 2_Fondamentaux
 cat_sort: B
-relevance: Alle
+relevance: Tous
 lang: fr
 date: 02.10.2022
 ---

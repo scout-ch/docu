@@ -3,7 +3,7 @@ title: Aperçu des fonctions au niveau du groupe
 slug: article-8
 categories: 2_Fondamentaux
 cat_sort: B
-relevance: AL, StLei
+relevance: RG, RG-adj. 
 lang: fr
 date: 02.10.2022
 ---

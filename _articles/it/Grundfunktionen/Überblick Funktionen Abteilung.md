@@ -3,7 +3,7 @@ title: Panoramica delle funzioni della sezione
 slug: article-8
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: B
-relevance: AL, StLei
+relevance: CSZ, VCSZ
 lang: it
 date: 02.10.2022
 ---

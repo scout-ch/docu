@@ -3,7 +3,7 @@ title: Ambiente di test e ulteriori sviluppi
 slug: article-6
 categories: 1_Midata
 cat_sort: 25.03.2023
-relevance: Alle
+relevance: Tutti
 lang: it
 date: 25.03.2023
 ---
