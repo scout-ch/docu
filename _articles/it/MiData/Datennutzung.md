@@ -3,7 +3,7 @@ title: Utilizzo dei dati
 slug: article-2
 categories: 1_Midata
 cat_sort: 03.03.2022
-relevance: Alle
+relevance: Tutti
 lang: it
 date: 02.10.2022
 ---

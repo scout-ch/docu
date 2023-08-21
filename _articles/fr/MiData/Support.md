@@ -3,7 +3,7 @@ title: Support
 slug: article-4
 categories: 1_Midata
 cat_sort: 25.03.2023
-relevance: Alle
+relevance: Tous
 lang: fr
 date: 25.03.2023
 ---

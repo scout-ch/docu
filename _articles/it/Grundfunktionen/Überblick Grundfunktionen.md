@@ -3,7 +3,7 @@ title: Panoramica delle funzioni di base
 slug: article-7
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: B
-relevance: Alle
+relevance: Tutti
 lang: it
 date: 02.10.2022
 ---

@@ -3,7 +3,7 @@ title: Interface des jetons de service
 slug: article-14
 categories: 3_Fonctions&nbsp;Supplémentaires
 cat_sort: C
-relevance: AL, StLei
+relevance: RG, RG-adj.
 lang: fr
 date: 02.10.2022
 ---
