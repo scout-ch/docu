@@ -1,69 +1,69 @@
 ---
-title: Bestandesmeldung
+title: Censimento dei membri
 slug: bestand
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: C
-relevance: Alle
+relevance: Tutti
 lang: it
 date: 25.07.2023
 ---
 
-Bei der Bestandesmeldung werden die aktuellen Mitgliederzahlen aller Abteilungen erfasst. Dadurch können Mitgliederbeiträge korrekt berechnet, Stimmen für Versammlungen gezählt und die Entwicklung der Mitgliederzahlen gemessen und kommuniziert werden. Die MiData erleichtert die Abwicklung der Bestandesmeldung für alle Beteiligten.
+Con l’annuncio dei membri si registra la quantità attuale di membri in tutte le sezioni. In questo modo i membri possono venir calcolati correttamente, si possono definire i voti nelle assemblee e si può misurare e comunicare lo sviluppo dei membri. MiData semplifica il disbrigo dell’annuncio dei membri per tutte le persone coinvolte. 
 
-### Ablauf
+### Esecuzione
 
-1. Die PBS eröffnet die Bestandesmeldung jeweils am 1. Januar in der MiData und informiert die Kantonalverbände über die Einrechefrist bis am 28. Januar.
-2. Die KVs informieren und erinnern ihre Abteilungen.
-3. Bei den Abteilungen erscheint neben dem Register "Bestand" ein rotes Ausrufezeichen (❗). Die Abteilungen ergänzen ihre Angaben und bestätigen ihren Bestand. Dafür müssen mindestens die Felder "Geschlecht" und "Geburtstag", sowie die korrekte Rolle pro Mitglied eingetragen sein.
-4. KVs haben die Möglichkeit, über das Register "Statistik" die Bestandesmeldung einer Abteilung zu löschen, manuell einzugeben oder zu bearbeiten.
+1. Il MSS apre l’annuncio dei membri in MiData ogni primo gennaio e informa le associazioni cantonale che il termine ultimo per l’annuncio è il 28 gennaio.
+2. Le associazioni cantonali informano le e lo ricordano alle loro sezioni.
+3. Per le sezioni appare di fianco al registro «Censimento dei membri» un punto esclamativo rosso (❗). Le sezioni completano se necessario i loro dati e confermano la quantità di membri in MiData. Nel far questo per ogni membro devono essere completati almeno i campi «Sesso» e «Data di nascita» e deve essere assegnato il ruolo corretto.
+4. Le AC hanno la possibilità di cancellare per mezzo del registro «Statistica» un annuncio della quantità di membri di una sezione, inserirlo manualmente o elaborarlo.
 
-![Bestand Bestätigen](/images/basicfunctions/bestand_abteilung_de.png) 
+![Confermare i censimenti](/images/basicfunctions/bestand_abteilung_de.png) 
 
-## Welche Rollen zählen für den Bestand?
+## Quali ruoli sono rilevanti per la quantità di membri? 
 
-Die Personen werden aufgrund ihrer Rolle in der MiData wie folgt für die Bestandesmeldung gezählt. 
+Per l’annuncio della quantità dei membri in MiData le persone vengono contate sulla base della loro funzione nel seguente modo. 
 
-**Leitende**
-- Abteilungsleiter\*in
-- Abteilungsleiter\*in Stv.
-- Einheitsleiter\*in
-- Mitleiter\*in
-- Alle Stufenleiter\*innen
-- Leitwolf
-- Leitpfadi
+**Animatrici/tori**
+- Cape/i sezione  
+- Sostitute/i cape/i sezione  
+- Animatrici/tori d’unità  
+- Aggiunte/i  
+- Tutti le/gli animatrici/tori di branca  
+- Cape/i sestena  
+- Cape/i pattuglia  
 
-**Stufen**
-- Biber
-- Wolf
-- Pfadi
-- Pio
-- Rover
-- Mitglied PTA
+**Branche**
+- Castori  
+- Lupetti  
+- Esploratrici/tori  
+- Pionieri  
+- Rover  
+- Membri SOC  
 
-Prinzipiell werden Personen nur einmal gezählt. Leiter\*innen werden nur in dieser Funktion gezählt.
+Di principio le persone vengono contate una sola volta. Le/gli animatrici/tori vengono contati solo in questa funzione. 
 
-Wenn jemand in mehreren Stufen eine Rolle hat, dann wird nur die höchste Stufe gezählt.
+Se qualcuno ha una funzione in più branche, viene contata solo la branca più alta. 
 
-## Manuelle Anpassung der Bestandesmeldung
+## Modifica manuale dell’annuncio della quantità di membri
 
-Es besteht die Möglichkeit, die Bestandesmeldung manuell einzugeben oder anzupassen. Diese Funktion steht folgenden Rollen zur Verfügung:
+C’è la possibilità di inserire manualmente l’annuncio della quantità di membri, o di modificarlo. Questa funzione è a disposizione dei seguenti ruoi:
 
-**Bund**
-- Mitarbeiter\*in GS
-- Sekretariat
+**Confederazione**
+- Collaboratrice/tore G+S
+- Segretariato
 
-**Kantonalverband**
-- Kantonsleiter\*in
-- Sekretariat
+**Associazione cantonale**
+- Animatrice/tore cantonale
+- Segretariato
 
-**Region**
-- Regionsleiter\*in
-- Sekretariat
+**Regione**
+- Animatrice/tore regionale
+- Segretariato
 
-Falls die Gruppe die Bestandesmeldung noch nicht bestätigt hat, erscheint neben dem Bestand ein rotes Ausrufezeichen. Im Register Statistik mit dem Knopf „Aktuellen Bestand erzeugen“ kann die Bestandesmeldung auch manuell erfolgen.
+Se il gruppo non ha ancora confermato l’annuncio della quantità di membri, vicino alla quantità di membri apparirà un punto esclamativo rosso. Nel registro statistica tramite il bottone rosso «creare la quantità di membri attuale» la quantità di membri può venir creata anche manualmente.
 
-Anschliessend können im Register „Statistik“ die Zahlen bearbeitet oder gelöscht können. Wenn die Daten gelöscht werden, kann die Abteilung die Bestandesmeldung auch nochmals bestätigen.
+Infine nel registro «statistica» si possono elaborare o cancellare i numeri. Se i dati vengono cancellati, la sezione può ancora confermare l’annuncio della quantità di membri.
 
-Mit der Funktion „Bearbeiten“ kann die Bestandesmeldung manuell eingegeben oder angepasst werden:
+Per mezzo di «elaborare» l’annuncio della quantità di membri può venir inserita o corretta manualmente:
 
 ![Statistik](/images/basicfunctions/bestand_manuell_it.png)

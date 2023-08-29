@@ -3,7 +3,7 @@ title: Liste des effectifs
 slug: bestand
 categories: 2_Fondamentaux
 cat_sort: C
-relevance: Alle
+relevance: Tous
 lang: fr
 date: 25.07.2023
 ---
