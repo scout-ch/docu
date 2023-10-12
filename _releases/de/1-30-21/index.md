@@ -1,6 +1,6 @@
 ---
 title: MiData Release 1.30.21
-date: '04.07.2023'
+date: '17.10.2023'
 categories: '1.30'
 slug: 1-30-21
 lang: de
