@@ -16,6 +16,6 @@ Das Team MiData wird auch die Option einer Anbindung für dedizierte Rechnungs- 
 
 [Infos und Step-By-Step aktivierung des Rechnungensmoduls](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/787/dokumentation-rechnungen/)
 
-[Infos über die benötigten Informationen der Post / Bank für die technische Schnittstelle](https://hitobito.readthedocs.io/de/latest/ebics.html)
+[Erklärung der benötigten Informationen der Post / Bank für die technische Schnittstelle](https://hitobito.readthedocs.io/de/latest/ebics.html)
 
 [Hitobito-Dokumentation](https://hitobito.readthedocs.io/de/latest/invoices.html)
