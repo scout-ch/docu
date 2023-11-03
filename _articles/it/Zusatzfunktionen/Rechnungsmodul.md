@@ -18,4 +18,6 @@ L’equipe MiData continuerà ad approfondire la possibilità di una connessione
 
 [Istruzioni e impostazioni del modulo di fatturazione](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/787/dokumentation-rechnungen/)
 
+[Spiegazione delle informazioni richieste dalla posta/banca per l'interfaccia tecnica](https://hitobito.readthedocs.io/it/latest/ebics.html)
+
 [Documentazione di Hitobito](https://hitobito.readthedocs.io/it/latest/invoices.html)
