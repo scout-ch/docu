@@ -16,4 +16,6 @@ L'équipe MiData poursuivra également l'option d'une connexion pour des outils 
 
 [Instructions et mise en place des factures](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/787/dokumentation-rechnungen/)
 
+[Explication des informations requises de la part de la poste / banque pour l'interface technique](https://hitobito.readthedocs.io/fr/latest/ebics.html)
+
 [Hitobito documentation](https://hitobito.readthedocs.io/fr/latest/invoices.html)
