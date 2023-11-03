@@ -1,6 +1,8 @@
 ---
 title: Interfaccia dei token di servizio
 slug: article-14
+redirect_from:
+  - /it/documentazione/article-14
 categories: 3_Funzioni&nbsp;supplementari
 cat_sort: C
 relevance: CSZ, VCSZ

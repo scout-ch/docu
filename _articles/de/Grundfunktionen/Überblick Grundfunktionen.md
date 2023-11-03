@@ -1,6 +1,8 @@
 ---
 title: Überblick Grundfunktionen
 slug: article-7
+redirect_from:
+  - /de/dokumentation/article-7
 categories: 2_Grundfunktionen
 cat_sort: B
 relevance: Alle

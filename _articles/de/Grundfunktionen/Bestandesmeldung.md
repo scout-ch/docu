@@ -1,6 +1,8 @@
 ---
 title: Bestandesmeldung
 slug: bestand
+redirect_from:
+  - /de/dokumentation/bestand
 categories: 2_Grundfunktionen
 cat_sort: C
 relevance: Alle

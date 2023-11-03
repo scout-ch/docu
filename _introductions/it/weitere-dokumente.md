@@ -1,6 +1,8 @@
 ---
 title: Altri documenti 
 slug: introdart6
+redirect_from:
+  - /it/einstieg/introdart6
 relevance: Alle
 lang: it
 order: ffff

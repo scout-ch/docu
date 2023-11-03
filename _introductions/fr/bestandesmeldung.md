@@ -1,6 +1,8 @@
 ---
 title: Annonce des effectifs
 slug: introdart5
+redirect_from:
+  - /fr/einstieg/introdart5
 relevance: Alle
 lang: fr
 order: eeee

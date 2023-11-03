@@ -1,6 +1,8 @@
 ---
 title: Fatturazione
 slug: article-16
+redirect_from:
+  - /it/documentazione/article-16
 categories: 3_Funzioni&nbsp;supplementari
 cat_sort: D
 relevance: Cassiere

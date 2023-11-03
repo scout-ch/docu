@@ -1,6 +1,8 @@
 ---
 title: Überblick Funktionen auf Abteilungsebene
 slug: article-8
+redirect_from:
+  - /de/dokumentation/article-8
 categories: 2_Grundfunktionen
 cat_sort: B
 relevance: AL, StLei

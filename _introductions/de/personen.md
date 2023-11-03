@@ -1,6 +1,8 @@
 ---
 title: Personen
 slug: introdart2
+redirect_from:
+  - /de/einstieg/introdart2
 relevance: Alle
 lang: de
 order: bbbb

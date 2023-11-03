@@ -1,6 +1,8 @@
 ---
 title: Betrieb
 slug: article-2
+redirect_from:
+  - /de/dokumentation/article-2
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Alle

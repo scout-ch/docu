@@ -1,6 +1,8 @@
 ---
 title: Das Profil
 slug: introdart1
+redirect_from:
+  - /de/einstieg/introdart1
 relevance: Alle
 lang: de
 order: aaaa

@@ -28,7 +28,8 @@ url: "https://docu.scout.ch" # the base hostname & protocol for your site, e.g. 
 # Build settings
 markdown: kramdown
 
-# plugins:
+plugins:
+ - jekyll-redirect-from
 
 permalink: none
 
@@ -84,10 +85,10 @@ defaults:
   - scope:
       path: "_articles/de"
     values:
-      permalink: "de/dokumentation/:slug"
+      permalink: "de/documentation/:slug"
       lang: de
-      pagename: "dokumentation"
-      backroute: "dokumentation"
+      pagename: "documentation"
+      backroute: "documentation"
       backlink: "Zurück zur Übersicht"
       relevance_title: "Relevant für:"
       layout: article
@@ -104,17 +105,17 @@ defaults:
   - scope:
       path: "_articles/it"
     values:
-      permalink: "it/documentazione/:slug"
+      permalink: "it/documentation/:slug"
       lang: it
-      pagename: "documentazione"
-      backroute: "documentazione"
+      pagename: "documentation"
+      backroute: "documentation"
       backlink: "Torna alla panoramica"
       relevance_title: "Rilevante per:"
       layout: article
   - scope:
       path: "_introductions/de"
     values:
-      permalink: "de/einstieg/:slug"
+      permalink: "de/introductions/:slug"
       lang: de
       pagename: "einstieg"
       backroute: "index"
@@ -124,9 +125,9 @@ defaults:
   - scope:
       path: "_introductions/fr"
     values:
-      permalink: "fr/einstieg/:slug"
+      permalink: "fr/introductions/:slug"
       lang: fr
-      pagename: "einstieg"
+      pagename: "Introduction"
       backroute: "index"
       backlink: "Retour à la vue d'ensemble"
       relevance_title: "Pertinent pour:"
@@ -134,9 +135,9 @@ defaults:
   - scope:
       path: "_introductions/it"
     values:
-      permalink: "it/einstieg/:slug"
+      permalink: "it/introductions/:slug"
       lang: it
-      pagename: "einstieg"
+      pagename: "Ingresso"
       backroute: "index"
       backlink: "Torna alla panoramica"
       relevance_title: "Rilevante per:"
@@ -144,25 +145,25 @@ defaults:
   - scope:
       path: "_releases/de"
     values:
-      permalink: "de/versionshinweise/:slug"
+      permalink: "de/releases/:slug"
       lang: de
-      releases: "versionshinweise"
+      releases: "release"
       backlink: "Zurück zur Übersicht"
       layout: release
   - scope:
       path: "_releases/fr"
     values:
-      permalink: "fr/notes-de-version/:slug"
+      permalink: "fr/releases/:slug"
       lang: fr
-      releases: "notes-de-version"
+      releases: "release"
       backlink: "Retour à la vue d'ensemble"
       layout: release
   - scope:
       path: "_releases/it"
     values:
-      permalink: "it/note-di-rilascio/:slug"
+      permalink: "it/releases/:slug"
       lang: it
-      releases: "note-di-rilascio"
+      releases: "release"
       backlink: "Torna alla panoramica"
       layout: release
 

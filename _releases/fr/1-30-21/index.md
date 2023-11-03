@@ -3,6 +3,8 @@ title: MiData Release 1.30.21
 date: '17.10.2023'
 categories: '1.30'
 slug: 1-30-21
+redirect_from:
+  - /fr/notes-de-version/1-30-21
 lang: fr
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Abos
 slug: introdart4
+redirect_from:
+  - /de/einstieg/introdart4
 relevance: Alle
 lang: de
 order: dddd

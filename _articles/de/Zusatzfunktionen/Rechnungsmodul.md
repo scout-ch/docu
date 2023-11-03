@@ -1,6 +1,8 @@
 ---
 title: Rechnungsmodul
 slug: article-16
+redirect_from:
+  - /de/dokumentation/article-16
 categories: 3_Zusatzfunktionen
 cat_sort: D
 relevance: Kassier*in

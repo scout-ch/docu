@@ -1,3 +1,14 @@
+<div class="footer-bg"></div>
+
+{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}
+<div class="footer-lang bg-secondary">
+    <ul class="nav justify-content-end">
+      <li class="nav-item"><a class="nav-link {% if page.lang == "de" %}active{% endif %}" href="{{ url_path | replace: 'fr', 'de' | replace: '.html', '' }}">Deutsch</a></li>
+      <li class="nav-item"><a class="nav-link {% if page.lang == "fr" %}active{% endif %}" href="#">Français</a></li>
+      <li class="nav-item"><a class="nav-link {% if page.lang == "it" %}active{% endif %}" href="{{ url_path | replace: 'fr', 'it' | replace: '.html', ''  }}">Italiano</a></li>
+    </ul>
+</div>
+
 <div class="footer-bottom d-flex bg-primary">
   <p class="copyright justify-content-start">
     &copy; {{ 'now' | date: "%Y" }} Mouvement Scout de Suisse
@@ -5,7 +16,7 @@
   <ul class="nav justify-content-end">
     <li class="nav-item"><a class="nav-link" href="https://pfadi.swiss/fr/f/contact/">Contact</a></li>
     <li class="nav-item">
-      <a class="nav-link {% if page.slug == "soumettre" %}active{% endif %}" href="{{ site.url }}/fr/soumettre">Soumettre un docu</a>
+      <a class="nav-link {% if page.slug == "soumettre" %}active{% endif %}" href="{{ site.url }}/fr/share">Soumettre un docu</a>
     </li>
     <li class="nav-item"><a class="nav-link" href="https://pfadi.swiss/fr/f/impressum/">Impressum</a></li>
     <li class="nav-item"><a class="nav-link" href="https://db.scout.ch/fr/users/sign_in">MiData</a></li>

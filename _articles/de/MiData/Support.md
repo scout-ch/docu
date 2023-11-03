@@ -1,6 +1,8 @@
 ---
 title: Support
 slug: article-6
+redirect_from:
+  - /de/dokumentation/article-6
 categories: 1_Midata
 cat_sort: 25.03.2022
 relevance: Alle
