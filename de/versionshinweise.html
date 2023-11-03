@@ -7,7 +7,7 @@ lang: de
 ---
 
 {% assign releases = site.releases | where: "lang", "de" %}
-{% assign categories =  releases | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" %}
+{% assign categories =  releases | map: 'categories' | join: ',' | split: ',' | group_by: category | sort: "name" | reverse %}
 {% for category in categories %}
 	<h3>{{ category.name | capitalize }}</h3>
 	{% assign posts = releases | where: "categories", category.name | sort: "date" | reverse  %}
