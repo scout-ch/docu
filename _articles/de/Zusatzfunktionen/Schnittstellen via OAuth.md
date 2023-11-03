@@ -1,6 +1,8 @@
 ---
 title: Schnittstellen via OAuth
 slug: article-15
+redirect_from:
+  - /de/dokumentation/article-15
 categories: 3_Zusatzfunktionen
 cat_sort: C
 relevance: Webmaster

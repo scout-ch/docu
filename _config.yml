@@ -28,7 +28,8 @@ url: "https://docu.scout.ch" # the base hostname & protocol for your site, e.g. 
 # Build settings
 markdown: kramdown
 
-# plugins:
+plugins:
+ - jekyll-redirect-from
 
 permalink: none
 

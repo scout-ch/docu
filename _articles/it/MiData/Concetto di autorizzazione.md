@@ -1,6 +1,8 @@
 ---
 title: Concetto di autorizzazione
 slug: article-5
+redirect_from:
+  - /it/documentazione/article-5
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Tutti

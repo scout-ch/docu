@@ -1,6 +1,8 @@
 ---
 title: Censimento
 slug: introdart5
+redirect_from:
+  - /it/einstieg/introdart5
 relevance: Alle
 lang: it
 order: eeee

@@ -1,6 +1,8 @@
 ---
 title: Le profil
 slug: introdart1
+redirect_from:
+  - /fr/einstieg/introdart1
 relevance: Alle
 lang: fr
 order: aaaa

@@ -1,6 +1,8 @@
 ---
 title: Schnittstellen via Service-Tokens
 slug: article-14
+redirect_from:
+  - /de/dokumentation/article-14
 categories: 3_Zusatzfunktionen
 cat_sort: C
 relevance: AL, StLei

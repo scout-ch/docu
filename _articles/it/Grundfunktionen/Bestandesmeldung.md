@@ -1,6 +1,8 @@
 ---
 title: Censimento dei membri
 slug: bestand
+redirect_from:
+  - /it/documentazione/bestand
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: C
 relevance: Tutti

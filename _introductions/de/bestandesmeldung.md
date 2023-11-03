@@ -1,6 +1,8 @@
 ---
 title: Bestandesmeldung
 slug: introdart5
+redirect_from:
+  - /de/einstieg/introdart5
 relevance: Alle
 lang: de
 order: eeee

@@ -1,6 +1,8 @@
 ---
 title: Panoramica delle funzioni della sezione
 slug: article-8
+redirect_from:
+  - /it/documentazione/article-8
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: B
 relevance: CSZ, VCSZ

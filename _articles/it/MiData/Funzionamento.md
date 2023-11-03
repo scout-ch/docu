@@ -1,6 +1,8 @@
 ---
 title: Funzionamento
 slug: article-2
+redirect_from:
+  - /it/documentazione/article-3
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Tutti

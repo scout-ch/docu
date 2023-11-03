@@ -14,6 +14,7 @@ Depending on the type of content you want to edit, contibute to the following fo
 Where
 - language: Language of your content (available: de, fr, it)
 - name: Name of your content (Give your content a short but meaningful name)
+- slug: Give your site a meaningful slug in English and use the same slug in all versions/languages of the site
 
 ### Images
 Images must be uploaded to `images/<folder>/yourimage.jpg`. Afterwards the image can be inserted into the article with the following markdown command: `[image name](/images/folder/yourimage.jpg)`.

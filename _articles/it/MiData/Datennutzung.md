@@ -1,6 +1,8 @@
 ---
 title: Utilizzo dei dati
 slug: article-4
+redirect_from:
+  - /it/documentazione/article-2
 categories: 1_Midata
 cat_sort: 03.03.2022
 relevance: Tutti

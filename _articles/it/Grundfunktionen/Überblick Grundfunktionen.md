@@ -1,6 +1,8 @@
 ---
 title: Panoramica delle funzioni di base
 slug: article-7
+redirect_from:
+  - /it/documentazione/article-7
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: B
 relevance: Tutti

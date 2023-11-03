@@ -1,6 +1,8 @@
 ---
 title: Ambiente di test e ulteriori sviluppi 
 slug: article-3
+redirect_from:
+  - /it/documentazione/article-6
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Tutti

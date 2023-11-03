@@ -3,6 +3,8 @@ title: MiData Release 1.28.78
 date: '04.07.2023'
 categories: '1.28'
 slug: 1-28-78
+redirect_from:
+  - /fr/notes-de-version/1-28-78
 lang: fr
 ---
 

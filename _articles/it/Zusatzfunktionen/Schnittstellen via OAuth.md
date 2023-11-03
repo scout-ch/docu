@@ -1,6 +1,8 @@
 ---
 title: Interfaccia OAuth
 slug: article-15
+redirect_from:
+  - /it/documentazione/article-15
 categories: 3_Funzioni&nbsp;supplementari
 cat_sort: C
 relevance: Webmaster

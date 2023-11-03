@@ -1,6 +1,8 @@
 ---
 title: Scopo, obiettivo e vantaggi di MiData
 slug: article-1
+redirect_from:
+  - /it/documentazione/article-1
 categories: 1_Midata
 cat_sort: 25.03.2023
 relevance: Tutti

@@ -1,6 +1,8 @@
 ---
 title: Événements 
 slug: introdart3
+redirect_from:
+  - /fr/einstieg/introdart3
 relevance: Alle
 lang: fr
 order: cccc

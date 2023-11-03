@@ -1,6 +1,8 @@
 ---
 title: Abonnements
 slug: introdart4
+redirect_from:
+  - /fr/einstieg/introdart4
 relevance: Alle
 lang: fr
 order: dddd
