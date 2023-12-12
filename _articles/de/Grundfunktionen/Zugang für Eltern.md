@@ -63,4 +63,4 @@ Nur die folgenden Nachrichten werden aus Sicherheitsgründen nicht an die EB wei
 - Login-E-Mail bei Selbstregistrierung via externen Anlass
 - Versandbestätigung bei Mails an Abos
 
-Bitte bedenke auch, dass die EB-Person neue Kinder erfassen kann. Es lohnt sich vielleicht, darauf hinzuweisen, dass jedes Kind nur einmal erfasst werden soll, auch wenn etwas mit einer Anmeldung schief läuft oder ähnlich.
+Bitte bedenke auch, dass die EB-Person neue Kinder erfassen kann. Es lohnt sich, darauf hinzuweisen, dass jedes Kind nur einmal erfasst werden soll, auch wenn etwas mit einer Anmeldung schief läuft.
