@@ -1,9 +1,9 @@
 ---
-title: Zugänge für Eltern / Erziehungsbereichtigte
+title: Zugänge für Eltern
 slug: eltern
 categories: 2_Grundfunktionen
 cat_sort: D
-relevance: AL, Adressverwalter*in, Sekretariat
+relevance: AL, Adressv., Sekretariat
 lang: de
 date: 25.07.2023
 ---
@@ -32,8 +32,12 @@ Der neue Gruppentyp "Erziehungsberechtigte" hat eine nützliche Eigenschaft: Die
 
 Wenn du die Gruppe bearbeitest, findest du unter dem Register "Externe Registrierung" den Rollentyp "Selbstregistrierte\*r". Aktiviere diese Option, damit du auf einen Blick sehen kannst, wer sich für diese Gruppe selber registriert hat. Verwende ausserdem eine gültige E-Mail-Adresse im Feld "Benachrichtigungs-E-Mail". Wenn du speicherst und zur Gruppeninfo wechselst, findest du nun einen Link zur Externen Registrierung, den du später noch brauchen wirst.
 
+![Kind zuteilen](/images/basicfunctions/selbst_reg_de.png)
+
 #### 3. Wer ist Kind und wer ist EB?
-Jetzt wird es spannend: Sicher hast auch du in deiner Abteilungen Kinder, die eine E-Mail-Adresse der Eltern eingetragen haben. Die Haupt-E-Mail ist aber einmalig, du kannst also nicht einfach eine neue Person mit der gleichen Haupt-E-Mail erstellen! Dein Ziel ist es, aus der Person zwei zu machen: Der bestehende Account wird zum Kind mit allen Angaben und ohne Haupt-E-Mail. Der neue Account ist die Erziehungsberechtigte Person, mit der eigenen (und korrekten) Haupt-E-Mail. 
+Jetzt wird es spannend: Sicher hast auch du in deiner Abteilungen Kinder, die eine E-Mail-Adresse der Eltern eingetragen haben. Die Haupt-E-Mail ist aber einmalig, du kannst also nicht einfach eine neue Person mit der gleichen Haupt-E-Mail erstellen! Dein Ziel ist es, aus der Person zwei zu machen: Der bestehende Account wird zum Kind mit allen Angaben und ohne Haupt-E-Mail. Der neue Account ist die Erziehungsberechtigte Person, mit der eigenen (und korrekten) Haupt-E-Mail.
+
+![Kind zuteilen](/images/basicfunctions/kind_falsche_email_de.png)
 
 #### 4. Löschen der Haupt-E-Mail
 Wenn du ein Kind mit der Haupt-E-Mail der EB findest, lösche die Haupt-E-Mail. Ansonsten kannst du das Profil des Kindes so belassen wie es ist.
@@ -47,6 +51,8 @@ Deshalb suchst du also wieder den Gruppenlink aus Schritt 2 und schickst ihn an 
 Sobald sich die EB registriert hat, bekommst du ein E-Mail. Du findest die neu registrierte Person bereits in der Elterngruppe und kannst ihr dort zum Beispiel die Rolle "Mitglied" erteilen.
 
 Ausserdem kannst du der Person jetzt das Kind zuteilen, indem du auf "Bearbeiten" und "Kinder" -> "Eintrag hinzufügen" gehst. Stelle sicher, dass du auch auf das Kind Zugriff hast, sonst erscheint es nicht im Suchfeld. Wähle dann das Kind aus und speichere die Person ab.
+
+![Kind zuteilen](/images/basicfunctions/kind_zuteilen_de.png)
 
 #### 7. Abschluss
 Die zwei Personen sind jetzt verknüpft. Achtung: Ab jetzt gehen alle Mails, die von der MiData oder über ein Abo an das Kind verschickt werden, auch an die E-Mail der eingetragenen EB.
