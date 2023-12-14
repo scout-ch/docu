@@ -19,7 +19,7 @@ Wenn du bisher häufig die E-Mail-Adresse der Eltern für ihre Kinder eingetrage
 - EB können die Daten der Kinder selber einsehen und bearbeiten
 - EB erhalten die E-Mail-Kommunikation an ihre Kinder
 - Kinder brauchen keine Haupt-E-Mail, um sich für einen Anlass anzumelden
-- EB können neue Kinder erfassen und dabei das Einverständnis für die Datenschutzerklärung ausfüllen. Wenn sich die EB zuerst registrieren und dann erst ihre Kinder, hast du alle Kontakte im Griff: Die der Eltern und die der Kinder!
+- Kontakt-Informationen der EB sind einfach zugänglich
 - EB und Kinder sind getrennte Personen: Du kannst die Eltern für den Elternabend eintragen und die Kinder für das nächste SoLa!
 
 ### Schritt für Schritt zur neuen Gruppenstruktur
@@ -30,7 +30,9 @@ Melde dich in der MiData an und überprüfe, dass du die Berechtigung hast, um P
 #### 2. Gruppe für die EB erstellen
 Der neue Gruppentyp "Erziehungsberechtigte" hat eine nützliche Eigenschaft: Die Mitglieder dieser Gruppe sehen sich gegenseitig nicht und haben auch sonst keine Berechtigungen, ausser auf das eigene Profil. Du kannst dort also mit gutem Gewissen alle EB eintragen.
 
-Wenn du die Gruppe bearbeitest, findest du unter dem Register "Externe Registrierung" den Rollentyp "Selbstregistrierte\*r". Aktiviere diese Option, damit du auf einen Blick sehen kannst, wer sich für diese Gruppe selber registriert hat. Verwende ausserdem eine gültige E-Mail-Adresse im Feld "Benachrichtigungs-E-Mail". Wenn du speicherst und zur Gruppeninfo wechselst, findest du nun einen Link zur Externen Registrierung, den du später noch brauchen wirst.
+Wenn du die Gruppe bearbeitest, findest du unter dem Register "Externe Registrierung" den Rollentyp "Selbstregistrierte\*r". Wähle diese Option, um die Selbstregistrierung zu aktivieren. Mit dieser Rolle siehst du auf einen Blick, wer sich selber in deiner Gruppe registriert hat (im Vergleich zur Rolle "Mitglied", die manuell vergeben wird). 
+
+Verwende ausserdem eine gültige E-Mail-Adresse im Feld "Benachrichtigungs-E-Mail". Wenn du speicherst und zur Gruppeninfo wechselst, findest du nun einen Link zur Externen Registrierung, den du später noch brauchen wirst.
 
 ![Kind zuteilen](/images/basicfunctions/selbst_reg_de.png)
 
@@ -57,10 +59,7 @@ Ausserdem kannst du der Person jetzt das Kind zuteilen, indem du auf "Bearbeiten
 #### 7. Abschluss
 Die zwei Personen sind jetzt verknüpft. Achtung: Ab jetzt gehen alle Mails, die von der MiData oder über ein Abo an das Kind verschickt werden, auch an die E-Mail der eingetragenen EB.
 
-Nur die folgenden Nachrichten werden aus Sicherheitsgründen nicht an die EB weitergeleitet:
-- Passwort-Reset bzw. "Login schicken"-Mail
+Nur die folgenden E-Mail-Nachrichten werden aus Sicherheitsgründen nicht an die EB weitergeleitet:
+- Passwort-Reset bzw. "Login schicken"
 - E-Mail-Verifikation
-- Login-E-Mail bei Selbstregistrierung via externen Anlass
 - Versandbestätigung bei Mails an Abos
-
-Bitte bedenke auch, dass die EB-Person neue Kinder erfassen kann. Es lohnt sich, darauf hinzuweisen, dass jedes Kind nur einmal erfasst werden soll, auch wenn etwas mit einer Anmeldung schief läuft.
