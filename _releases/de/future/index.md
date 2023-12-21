@@ -1,13 +1,43 @@
 ---
-title: MiData Release 1.31.00
+title: MiData Release 2.00.00
 date: '09.01.2024'
-categories: '1.31'
-slug: 1-31-00
+categories: '2.00'
+slug: 2-00-00
 lang: de
 ---
 
+## Anpassungen an der Optik
+
+## Umgang mit nicht mehr verwendeten Personendaten und Datenlöschung
+Im Sinne des Datenschutzes werden neu Personendaten gelöscht, die nicht mehr verwendet werden. Dieser Vorgang geschieht automatisch und nach spezifischen Kriterien. Es werden diverse Profildaten einer Person gelöscht, wenn sie über längere Zeit keine Rolle mehr hatte und auch sonst nicht mit der MiData interagiert (z.B. kein Verwalter-Account, Anlassteilnahme und weitere Kriterien). Ganz gelöscht werden nur Personen, die in den letzten 10 Jahren zusätzlich keine Kurse oder Lager besucht haben.
+
+❗Achtung Handlungsbedarf❗
+Überprüfe, ob die Personen unter "ohne Rollen" nicht mehr benötigt werden. Weise ihnen eine Rolle in einer Ehemaligengruppe oder ähnlich zu, wenn du die Löschung verhindern möchtest!
+
+❗Neuer Prozess❗
+Die manuelle Löschung von Personen, ist nun auch für Abteilungs-, Regions- und Kantonsleiter\*innen möglich. Der bisherige Löschprozess via Kennwort "!DELETE!" im Pfadinamen wird eingestellt.
+
+[Mehr Informationen](https://docu.scout.ch/de/documentation/article-4)
+
+## Bemerkungen werden automatisch gelöscht
+Das Bemerkungsfeld bei Anmeldungen für Kurse, Lager und Anlässe wird nun bei vergangenen Anlässen wieder gelöscht. Wir gehen davon aus, dass Bemerkungen nur vor und während einem Anlass wichtig sind. Deshalb ist es unproblematisch und im Sinne des Datenschutzes, diese Daten 3 Monate nach Abschluss des Anlasses zu löschen.
+
+![Bemerkungsfeld](/images/basicfunctions/ehemalige_de.png)
+
+## Login entzug
+Bisher besteht für Benutzer unbegrenzter Zugriff auf die MiData, was aus Sicherheits- und Datenschutzperspektive nicht ideal ist. In diesem Zusammenhang wird die Einführung eines Automatismus erwogen:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesendet, die darauf hinweist, dass der Zugang in Kürze entfernt wird. Sollte innerhalb eines weiteren Monats kein erneutes Login erfolgen, wird der Zugang gesperrt, wobei der betroffene Benutzer per E-Mail benachrichtigt wird. Die Fristen von 18 Monaten und einem zusätzlichen Monat sind dabei anpassbar und gelten pro Instanz. Standardmäßig wird der Job für andere Zugriffe deaktiviert. Neue OAuth-Zugriffe sollen bei gesperrten Accounts nicht mehr möglich sein, wobei bestehende Sessions nicht unbedingt überprüft werden müssen.
+
+Zusätzlich wird die Funktion "Login schicken" eingeführt:
+
+Der Button "Login schicken" ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten können diesen Button verwenden. Die Funktion "Passwort vergessen" schlägt nun fehl, wenn der Account gesperrt ist (⚠️).
+
+Die Funktion "Login sperren" ermöglicht es, das Login manuell zu sperren. Diese Option erscheint im Drop-Down-Menü unter "Login schicken". Im Security-Tab werden die beiden Abschnitte angepasst, und es wird ein Button zur manuellen Sperrung eingefügt.
+
+
 ## Zugang für Eltern
-Es freut uns, euch ein lange gewünschtes Feature vorstellen zu dürfen: Der Zugang für Eltern! Neu können die Eltern (oder Erziehungsberechtigten) separat in der MiData geführt werden. Du die Verknüpfung zu ihren Kindern können sie selber die Daten der Kinder bearbeiten und diese für Lager, Kurse, usw. anmelden. Wir erhoffen uns durch diese Änderung eine deutliche Vereinfachung für Eltern mit mehreren Kindern, sowie mehr Möglichkeiten im Umgang mit den Daten der Eltern und Kinder.  
+Es freut uns, euch ein lange gewünschtes Feature vorstellen zu dürfen: Der Zugang für Eltern! Neu können die Eltern (oder Erziehungsberechtigten) separat in der MiData geführt werden. Du die Verknüpfung zu ihren Kindern können sie selber die Daten der Kinder bearbeiten und diese für Lager, Kurse, usw. anmelden. Wir erhoffen uns durch diese Änderung eine deutliche Vereinfachung für Eltern mit mehreren Kindern, sowie mehr Möglichkeiten im Umgang mit den Daten der Eltern und Kinder.
 
 Mit dieser Änderung führen wir ausserdem einen neuen Gruppentyp "Erziehungsberechtigte" ein. In diesen Gruppen können die Eltern verwaltet werden, ohne dass diese unnötige Berechtigungen erhalten.
 
@@ -15,29 +45,9 @@ Zur [Dokumentation der Elternzugänge](https://docu.scout.ch/de/documentation/el
 Zum Video [Kind für das Lager anmelden](https://duckduckgo.com)
 
 ## Silverscouts und Ehemalige
-Die MiData wird um einen wichtigen Teil ergänzt: Ehemalige Personen, welche weiterhin in irgendeiner Form Teil der Pfadi sein möchten. 
+Die MiData wird um eine wichtige Personengruppe erweitert: Ehemalige Personen, die auch nach ihrer aktiven Zeit mit der Pfadi verbunden bleiben möchten. Neu sind die Silver Scouts in die MiData integriert, zudem haben Abteilungen die Möglichkeit, lokale Ehemaligengruppen zu gründen. Ein automatischer Opt-In-Mechanismus erleichtert den Einstieg für potenzielle Ehemalige und ermöglicht eine Datenschutzkonforme Handhabung der Ehemaligendaten.
 
-Der erste Teil davon sind die Silverscouts, welche eine Parallelstruktur zur PBS erhalten. Dort werden alle Silverscouts-Regionen abgebildet, und die bestehenden Silverscouts als Personen importiert. Silverscouts sehen keine aktiven Pfadis und aktive Pfadis keine Silverscouts. Es ist aber möglich, dass ein Account in beiden strukturen je eine Rolle hat. So muss beim Wechsel aus der aktiven Pfadiwelt zu den Silverscouts kein neuer Account erstellt werden.
-
-Der zweite Teil betrifft lokale Ehemaligengruppen: Der neue Gruppentyp "Ehemalige" kann neu auf Ebene Abteilung erstellt werden. Dort können Personen geführt werden, die nicht mehr aktiv sind, die aber weiterhin zur Zielgruppe von Versänden oder für Ehemaligenanlässe zur Verfügung stehen wollen. Es ist auch möglich, den APV als Ehemaligengruppe zu führen. Personen mit der Rolle "Mitglied" in einer Ehemaligengruppe sehen keine anderen Personen, nur die Rolle "Leitung" hat Zugriff auf andere Personen in der Gruppe.
-
-### Automatismus & Opt-In
-Um den Einstieg für potentielle Silverscouts oder lokale Ehemalige möglichst niederschwellig zu gestalten, wurde folgender Opt-In-Mechanismus eingebaut: Die MiData verschickt, nachdem eine Person die letzte Rolle in einer Ebene verliert, einen E-Mail-Aufruf zur Anmeldung für Ehemaligengruppen. In diesem Mail werden alle Silverscouts-Regionen, sowie lokale Ehemaligengruppen aufgeführt, für die sich die Person anmelden kann. Konkret sind das Ehemaligengruppen dieser Ebene, sowie der darüberliegenden Ebenen. Wenn du willst, dass deine Ehemaligengruppe ebenfalls in diesem E-Mail erscheint, kannst du die Selbstregistrierung für diese Ehemaligengruppe aktivieren. Im E-Mail-Aufruf werden die Links zur Selbstregistrierung angezeigt, so dass die Person mit wenigen Klicks ein Opt-in machen kann. Alles andere passiert automatisch. Sowohl aktive, wie auch ehemalige Benutzer\*innen können sich mit der MiData bei anderen Pfadi-Tools einloggen. Es sind also in Zukunft auch gemeinsame Angebote / Tools denkbar.
-
-Die folgenden Kriterien müssen erfüllt sein, damit eine Person einen Aufruf via E-Mail erhält:
-- Die letzte aktive Rolle der Person in dieser Gruppe und Ebene wurde gelöscht
-- Es sind 3 Monate verstrichen und keine aktive Rolle wurde hinzugefügt
-- Die gelöschte Rolle war mindestens 7 Tage alt (temporäre und aus Versehen gesetzte Rollen zählen nicht)
-- Die gelöschte Rolle war nicht in einer Kindergruppe (Biber, Wölfe, Pfadi, Pio, PTA)
-- Die gelöschte Rolle war nicht in einer Ehemaligengruppe
-- Falls die Rolle doch in einer Kindergruppe war, muss die Person mindestens 16 Jahre alt sein. Ist kein Geburtsdatum gesetzt, wird auch keine Ehemaligen-Rolle erstellt und kein Mail versendet
-- Es hat vorher noch keine Ehemaligenrolle in dieser Ebene existiert
-- Die Person hat eine Haupt-E-Mailadresse
-
-### Was muss ich tun?
-- Damit die Ehemaligen korrekt erfasst werden, kannst du eine Gruppe vom neuen Gruppentype "Ehemalige" erstellen und die entsprechenden Personen dorthin verschieben.
-- Wenn du etwas Werbung für deine Ehemaligen-Gruppe machen willst, aktiviere die Selbstregistrierung in den Gruppeneinstellungen.
-- Am besten setzt du auch eine passende E-Mail-Adresse für die Benachrichtigung, so dass du mitbekommst, wer sich selber registriert hat.
+[Mehr Informationen](https://docu.scout.ch/de/documentation/ehemalige)
 
 ## Geschwister in der Abteilung
 Bisher gab es zwei Felder für Geschwister auf dem Profil: Das erste erlaubt das Verknüpfen von zwei Personen als Geschwister-Beziehung. Das zweite Feld war eine Checkbox, welche für das Berechnen von Rabatten verwendet wurde. Bisher hatten die beiden Felder keinen Zusammenhang.
@@ -45,21 +55,6 @@ Bisher gab es zwei Felder für Geschwister auf dem Profil: Das erste erlaubt das
 Neu wird die Checkbox entfernt und stattdessen wird der Wert aus der Geschwister-Relation berechnet. Das zweite Feld kann also nicht mehr manuell definiert werden, sondern ergibt sich aus der betreffenden Gruppe sowie den Geschwister-Relationen der gegebenen Person. Tatsächlich zeigt das Feld die Geschwister in der aktuell angezeigten Gruppe /Personenansicht an. Je nach dem, wer die Person anschaut, kann der Wert also unterschiedlich sein (z.B. wenn eine Person in zwei Abteilungen oder zusätlich in der Region tätig ist).
 
 Der neue Wert ist auch in Personen-Exports (Option "Alle Angaben") enthalten. Beispielsweise heissen die Spalten bei Anlässen "Geschwister im Anlass" oder in der Abteilung "Geschwister in der Ebene".  
-
-## Umgang mit nicht mehr verwendeten Personendaten und Datenlöschung
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Achtung Handlungsbedarf: Personen ohne Rolle können von der MiData automatisch gelöscht werden.
-
-Kriterien sind folgende:
-
-Was gibt es zu tun?
-
-Manuelle Löschung 
--> "ohne Rolle"
-
-## Bemerkungen werden automatisch gelöscht
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Die Bemerkungen einer Anlassteilnahme können automatisiert nach einer gewissen Zeit gelöscht werden. Standardmässig abgestellt 
 
 ## Ansicht bei externer Registrierung
 
@@ -86,6 +81,9 @@ Le persone registrate in questo modo non vedono più alcuna struttura o collegam
 - Der Tab "Gelöscht" erscheint nur noch für Personen, die Schreibrechte auf der Ebene haben
 - Rollen mit Start-Datum in der Zukunft können erfasst werden
 - Im [neuen JSON-API (seit 2023)](https://github.com/hitobito/hitobito/blob/master/doc/development/05_json_api.md) können neben Personen nun auch Gruppen gelesen werden
+- Rollen, welche im Verlauf einer Person aufgeführt werden, werden gruppiert in «Aktive Rollen», «Zukünftige Rollen» und «Inaktive Rollen».
+- Es ist möglich, eine Rolle mit einem Von-Datum in der Zukunft zu erstellen
+- Abonnements können nach Alter und Sprache gefiltert werden
 
 - Der Text des Bemerkungsfeldes bei Anlässen wurde entsprechend der Datenschutz-Informationen angepasst
 - Le texte du champ de remarque pour les événements a été adapté en fonction des informations sur la protection des données.
