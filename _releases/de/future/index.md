@@ -25,16 +25,14 @@ Das Bemerkungsfeld bei Anmeldungen für Kurse, Lager und Anlässe wird nun bei v
 ![Bemerkungsfeld](/images/basicfunctions/ehemalige_de.png)
 
 ## Login entzug
-Bisher besteht für Benutzer unbegrenzter Zugriff auf die MiData, was aus Sicherheits- und Datenschutzperspektive nicht ideal ist. In diesem Zusammenhang wird die Einführung eines Automatismus erwogen:
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesendet, die darauf hinweist, dass der Zugang in Kürze entfernt wird. Sollte innerhalb eines weiteren Monats kein erneutes Login erfolgen, wird der Zugang gesperrt, wobei der betroffene Benutzer per E-Mail benachrichtigt wird. Die Fristen von 18 Monaten und einem zusätzlichen Monat sind dabei anpassbar und gelten pro Instanz. Standardmäßig wird der Job für andere Zugriffe deaktiviert. Neue OAuth-Zugriffe sollen bei gesperrten Accounts nicht mehr möglich sein, wobei bestehende Sessions nicht unbedingt überprüft werden müssen.
+Bisher besteht für Benutzer zeitlich keine Beschränkung für den Zugriff auf die MiData. In diesem Zusammenhang erhöhen wir die Sicherheit und schränken den Zugriff für inaktive Accounts ein. Damit verhindern wir, dass es zahlreiche Benutzer gibt, die ihren Zugriff nie verwenden
 
-Zusätzlich wird die Funktion "Login schicken" eingeführt:
+Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesendet, die darauf hinweist, dass der Zugang in Kürze entfernt wird. Sollte innerhalb eines weiteren Monats kein erneutes Login erfolgen, wird der Zugang gesperrt, wobei der betroffene Benutzer per E-Mail benachrichtigt wird.
 
-Der Button "Login schicken" ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten können diesen Button verwenden. Die Funktion "Passwort vergessen" schlägt nun fehl, wenn der Account gesperrt ist (⚠️).
+Zusätzlich wird die Funktion "Login schicken" leicht angepasst: Der Button ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten sehen auch in der Sicherheitsansicht, dass die Person gesperrt ist und können sie so wieder entsperren. 
 
-Die Funktion "Login sperren" ermöglicht es, das Login manuell zu sperren. Diese Option erscheint im Drop-Down-Menü unter "Login schicken". Im Security-Tab werden die beiden Abschnitte angepasst, und es wird ein Button zur manuellen Sperrung eingefügt.
-
+❗Wichtige Änderung❗
+Wenn eine Person mit gesperrtem Zugang die Funktion "Passwort vergessen" verwendet, schlägt diese nun fehl. Aus Sicherheitsgründen ist es auch nicht möglich, transparent zu kommunizieren, dass der eigene Account gesperrt ist. In solchen Fällen kann es also nötig sein, dass die Adressverwalter\*innen das Problem erkennen uns lösen.
 
 ## Zugang für Eltern
 Es freut uns, euch ein lange gewünschtes Feature vorstellen zu dürfen: Der Zugang für Eltern! Neu können die Eltern (oder Erziehungsberechtigten) separat in der MiData geführt werden. Du die Verknüpfung zu ihren Kindern können sie selber die Daten der Kinder bearbeiten und diese für Lager, Kurse, usw. anmelden. Wir erhoffen uns durch diese Änderung eine deutliche Vereinfachung für Eltern mit mehreren Kindern, sowie mehr Möglichkeiten im Umgang mit den Daten der Eltern und Kinder.
