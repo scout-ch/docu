@@ -51,7 +51,7 @@ Wenn zusätzlich zu den Kriterien aus der Datenreduktion auch das folgende Krite
 
 - Die Person hat in den letzten 10 Jahren weder an einem Kurs noch an einem Lager teilgenommen
 
-Profile, die auf diese Weise gelöscht werden, sind nur noch für einige Wochen im Backup auffindbar und danach komplett gelöscht.
+Profile, die auf diese Weise gelöscht werden, werden komplett gelöscht und können nicht wiederhergestellt werden.
 
 ## Manuelle Datenreduktion und Datenlöschung
 Bei einer Anfrage zur Datenlöschung ist es wichtig, rasch und korrekt zu reagieren. Siehe auch [Merkblatt zur Datenauskunft und -löschung](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/818/merkblatt-datenauskunft)

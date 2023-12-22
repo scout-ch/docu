@@ -3,10 +3,8 @@ title: MiData Release 2.00.00
 date: '09.01.2024'
 categories: '2.00'
 slug: 2-00-00
-lang: de
+lang: it
 ---
-
-## Anpassungen an der Optik
 
 ## Umgang mit nicht mehr verwendeten Personendaten und Datenlöschung
 Im Sinne des Datenschutzes werden neu Personendaten gelöscht, die nicht mehr verwendet werden. Dieser Vorgang geschieht automatisch und nach spezifischen Kriterien. Es werden diverse Profildaten einer Person gelöscht, wenn sie über längere Zeit keine Rolle mehr hatte und auch sonst nicht mit der MiData interagiert (z.B. kein Verwalter-Account, Anlassteilnahme und weitere Kriterien). Ganz gelöscht werden nur Personen, die in den letzten 10 Jahren zusätzlich keine Kurse oder Lager besucht haben.
@@ -20,16 +18,16 @@ Die manuelle Löschung von Personen, ist nun auch für Abteilungs-, Regions- und
 [Mehr Informationen](https://docu.scout.ch/de/documentation/article-4)
 
 ## Bemerkungen werden automatisch gelöscht
-Das Bemerkungsfeld bei Anmeldungen für Kurse, Lager und Anlässe wird nun bei vergangenen Anlässen wieder gelöscht. Wir gehen davon aus, dass Bemerkungen nur vor und während einem Anlass wichtig sind. Deshalb ist es unproblematisch und im Sinne des Datenschutzes, diese Daten 3 Monate nach Abschluss des Anlasses zu löschen.
+Das Bemerkungsfeld bei Anmeldungen für Kurse, Lager und Anlässe wird nun bei vergangenen Anlässen wieder gelöscht. Wir gehen davon aus, dass Bemerkungen nur vor und während einem Anlass wichtig sind. Im Sinne des Datenschutzes werden diese Daten darum 3 Monate nach Abschluss des Anlasses gelöscht.
 
-![Bemerkungsfeld](/images/basicfunctions/ehemalige_de.png)
+![Bemerkungsfeld](/images/releasenotes/bemerkungen_events_de.png)
 
 ## Login entzug
 Bisher besteht für Benutzer zeitlich keine Beschränkung für den Zugriff auf die MiData. In diesem Zusammenhang erhöhen wir die Sicherheit und schränken den Zugriff für inaktive Accounts ein. Damit verhindern wir, dass es zahlreiche Benutzer gibt, die ihren Zugriff nie verwenden
 
 Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesendet, die darauf hinweist, dass der Zugang in Kürze entfernt wird. Sollte innerhalb eines weiteren Monats kein erneutes Login erfolgen, wird der Zugang gesperrt, wobei der betroffene Benutzer per E-Mail benachrichtigt wird.
 
-Zusätzlich wird die Funktion "Login schicken" leicht angepasst: Der Button ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten sehen auch in der Sicherheitsansicht, dass die Person gesperrt ist und können sie so wieder entsperren. 
+Zusätzlich wird die Funktion "Login schicken" leicht angepasst: Der Button ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten sehen auch in der Sicherheitsansicht, dass die Person gesperrt ist und können sie so wieder entsperren.
 
 ❗Wichtige Änderung❗
 Wenn eine Person mit gesperrtem Zugang die Funktion "Passwort vergessen" verwendet, schlägt diese nun fehl. Aus Sicherheitsgründen ist es auch nicht möglich, transparent zu kommunizieren, dass der eigene Account gesperrt ist. In solchen Fällen kann es also nötig sein, dass die Adressverwalter\*innen das Problem erkennen uns lösen.
@@ -52,7 +50,7 @@ Bisher gab es zwei Felder für Geschwister auf dem Profil: Das erste erlaubt das
 
 Neu wird die Checkbox entfernt und stattdessen wird der Wert aus der Geschwister-Relation berechnet. Das zweite Feld kann also nicht mehr manuell definiert werden, sondern ergibt sich aus der betreffenden Gruppe sowie den Geschwister-Relationen der gegebenen Person. Tatsächlich zeigt das Feld die Geschwister in der aktuell angezeigten Gruppe /Personenansicht an. Je nach dem, wer die Person anschaut, kann der Wert also unterschiedlich sein (z.B. wenn eine Person in zwei Abteilungen oder zusätlich in der Region tätig ist).
 
-Der neue Wert ist auch in Personen-Exports (Option "Alle Angaben") enthalten. Beispielsweise heissen die Spalten bei Anlässen "Geschwister im Anlass" oder in der Abteilung "Geschwister in der Ebene".  
+Der neue Wert ist auch in Personen-Exports (Option "Alle Angaben") enthalten. Beispielsweise heissen die Spalten bei Anlässen "Geschwister im Anlass" oder in der Abteilung "Geschwister in der Ebene".
 
 ## Ansicht bei externer Registrierung
 
@@ -82,6 +80,7 @@ Le persone registrate in questo modo non vedono più alcuna struttura o collegam
 - Rollen, welche im Verlauf einer Person aufgeführt werden, werden gruppiert in «Aktive Rollen», «Zukünftige Rollen» und «Inaktive Rollen».
 - Es ist möglich, eine Rolle mit einem Von-Datum in der Zukunft zu erstellen
 - Abonnements können nach Alter und Sprache gefiltert werden
+- Das unterliegende Gestaltungsframework (Bootstrap) wurde auf die aktuelle Version angehoben. Dadurch sehen Buttons und andere Elemente etwas anders aus.
 
 - Der Text des Bemerkungsfeldes bei Anlässen wurde entsprechend der Datenschutz-Informationen angepasst
 - Le texte du champ de remarque pour les événements a été adapté en fonction des informations sur la protection des données.
