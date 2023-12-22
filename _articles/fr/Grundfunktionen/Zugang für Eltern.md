@@ -10,7 +10,7 @@ date: 22.12.2023
 
 Depuis la version du 9 janvier 2024, il est possible de saisir les parents ou tuteurs de manière à ce qu'ils aient accès à leurs enfants. Grâce à cette fonction, il est possible de consulter les données des enfants et de les inscrire à des événements, des cours et des camps.
 
-**Nous utilisons le terme de tuteurs légaux avec l'abréviation "TL", car ce ne sont pas toujours les parents qui administrent leurs enfants.** En fait, ce pourrait être une sœur ou un oncle que tu autorises à administrer un enfant. Mais tu peux aussi penser aux parents, si c'est plus approprié pour toi dans ton département. Dans MiData, les champs s'appellent "gérants*" et "enfants".
+**Nous utilisons le terme de tuteurs légaux avec l'abréviation "TL", car ce ne sont pas toujours les parents qui administrent leurs enfants.** En fait, ce pourrait être une sœur ou un oncle que tu autorises à administrer un enfant. Mais tu peux aussi penser aux parents, si c'est plus approprié pour toi dans ton département. Dans MiData, les champs s'appellent "gérants" et "enfants".
 
 ## Saisir TL dans le département
 Si jusqu'à présent tu as souvent saisi l'adresse e-mail des parents pour leurs enfants, tu es au bon endroit ! Tu peux lire ici comment saisir les parents dans ta section sans créer de chaos.
