@@ -12,7 +12,7 @@ Avec la sortie du 9 janvier 2024, MiData s'est enrichi d'un groupe de personnes 
 
 La première partie est constituée par les Silver Scouts, le réseau national d'ancien·ne·s scout·e·s. Ceux-ci obtiennent une structure parallèle au MSdS dans la hiérarchie des groupes. Toutes les régions Silver Scouts y sont représentées, et les Silver Scouts existants sont importés en tant que personnes. Les Silver Scouts ne voient pas les scouts actifs et les scouts actifs ne voient pas les Silver Scouts. Il est toutefois possible qu'un compte ait un rôle dans chacune des deux structures. Ainsi, lors du passage du monde scout actif aux Silver Scouts, il n'est pas nécessaire de créer un nouveau compte.
 
-![SiSc-Regionen](/images/basicfunctions/sisc_regionen_de.png)
+![SiSc-Regionen](/images/basicfunctions/sisc_regionen_fr.png)
 
 La deuxième partie concerne les groupes locaux des ancien·ne·s : Le nouveau type de groupe "Ancien·ne·s" peut être créé au niveau du groupe. Il est possible d'y gérer des personnes qui ne sont plus actives, mais qui souhaitent continuer à être disponibles pour le groupe cible des envois ou pour des événements d'ancien·ne·s. Il est également possible de gérer l'ADA comme un groupe d'ancien·ne·s. Les personnes ayant le rôle de "membre" dans un groupe d'ancien·ne·s ne voient pas les autres personnes, seul le rôle de "direction" a accès aux autres personnes du groupe.
 
