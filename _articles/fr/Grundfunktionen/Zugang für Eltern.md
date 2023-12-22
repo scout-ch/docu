@@ -34,12 +34,12 @@ Lorsque tu éditeras le groupe, tu trouveras sous l'onglet "Enregistrement exter
 
 Utilise également une adresse e-mail valide dans le champ "e-mail de notification". Si tu enregistres et que tu passes aux infos du groupe, tu trouveras maintenant un lien vers l'enregistrement externe, dont tu auras besoin plus tard.
 
-![Attribuer un enfant](/images/basicfunctions/selbst_reg_fr.png)
+![Attribuer un enfant](/images/basicfunctions/selbst_reg_de.png)
 
 #### 3. Qui est enfant et qui est TL ?
 C'est maintenant que ça devient intéressant : tu as certainement aussi des enfants dans ton groupe qui ont une adresse e-mail de leurs parents inscrite. Mais l'adresse e-mail principale est unique, tu ne peux donc pas simplement créer une nouvelle personne avec la même adresse e-mail principale ! Ton objectif est de transformer cette personne en deux : Le compte existant devient l'enfant avec toutes les informations et sans l'e-mail principal. Le nouveau compte est le parent, avec sa propre (et correcte) adresse e-mail principale.
 
-![Attribuer un enfant](/images/basicfunctions/kind_faux_email_fr.png)
+![Attribuer un enfant](/images/basicfunctions/kind_falsche_email_de.png)
 
 #### 4. Suppression de l'e-mail principal
 Si tu trouves un enfant avec l'e-mail principal de la TL, supprime l'e-mail principal. Sinon, tu peux laisser le profil de l'enfant tel qu'il est.
@@ -54,7 +54,7 @@ Dès que la TL s'est inscrite, tu reçois un e-mail. Tu trouves la personne nouv
 
 En outre, tu peux maintenant attribuer l'enfant à la personne en allant sur "Modifier" et "Enfants" -> "Ajouter une entrée". Assure-toi que tu as aussi accès à l'enfant, sinon il n'apparaîtra pas dans le champ de recherche. Sélectionne ensuite l'enfant et enregistre la personne.
 
-![Attribuer un enfant](/images/basicfunctions/kind_zuteilen_fr.png)
+![Attribuer un enfant](/images/basicfunctions/kind_zuteilen_de.png)
 
 #### 7. Conclusion
 Les deux personnes sont maintenant liées. Attention : à partir de maintenant, tous les e-mails envoyés à l'enfant par MiData ou via un abonnement vont également à l'e-mail de la TL inscrite.

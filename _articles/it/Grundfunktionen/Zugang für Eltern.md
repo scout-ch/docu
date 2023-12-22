@@ -1,66 +1,65 @@
 ---
-title: Zugänge für Eltern
+title: Accesso per i genitori
 slug: eltern
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: D
-relevance: AL, Adressv., Sekretariat
+relevance: CS, Ammin.BD., Segretariato
 lang: it
 date: 22.12.2023
 ---
 
-Seit dem Release vom 9. Januar 2024 ist es möglich, Eltern oder Erziehungsberechtigte so zu erfassen, dass sie Zugriff auf ihre Kinder haben. Dank dieser Funktion ist eine Einsicht in die Daten der Kinder und deren Anmeldung zu Anlässen, Kursen und Lagern möglich.
+Dal rilascio del 9 gennaio 2024, è possibile registrare i genitori o i tutori in modo che abbiano accesso ai loro figli. Grazie a questa funzione, è possibile visualizzare i dati dei bambini e iscriverli a eventi, corsi e campi.
 
-**Wir verwenden den Begriff Erziehungsberechtigte\*r mit der Abkürzung "EB", weil es nicht immer die Eltern sind, die ihre Kinder administrieren.** Tatsächlich könnte es auch eine Schwester oder ein Onkel sein, die du berechtigst, ein Kind zu verwalten. Du kannst dabei aber auch an Eltern denken, wenn das bei dir in der Abteilung besser zutrifft. In der MiData heissen die Felder "Verwalter\*innen" und "Kinder".
+**Utilizziamo il termine "tutori legali" con l'abbreviazione "TL" perché non sempre sono i genitori ad amministrare i propri figli: infatti, potrTLbe essere anche una sorella o uno zio che autorizzi ad amministrare un bambino. Tuttavia, puoi anche pensare ai genitori se questo è più appropriato per te nella sezione. In MiData, i campi si chiamano "Gestore" e "Bambini".
 
-## EB in der Abteilung erfassen
-Wenn du bisher häufig die E-Mail-Adresse der Eltern für ihre Kinder eingetragen hast, bist du hier genau richtig! Hier kannst du nachlesen, wie du in deiner Abteilung Erziehungsberechtigte erfassen kannst, ohne ein Chaos zu veranstalten.
+## Inserisci l'TL nel reparto
+Hai presente la situazione in cui l'indirizzo e-mail del genitore viene inserito per un figlio? Allora sei nel posto giusto! Qui puoi leggere come inserire i tutori legali nella tua sezione senza creare caos.
 
-### Warum sollte ich die EB erfassen?
-- EB können die Daten der Kinder selber einsehen und bearbeiten
-- EB erhalten die E-Mail-Kommunikation an ihre Kinder
-- Kinder brauchen keine Haupt-E-Mail, um sich für einen Anlass anzumelden
-- EB können neue Kinder erfassen und dabei das Einverständnis für die Datenschutzerklärung ausfüllen. Wenn sich die EB zuerst registrieren und dann erst ihre Kinder, hast du alle Kontakte im Griff: Die der Eltern und die der Kinder!
-- EB und Kinder sind getrennte Personen: Du kannst die Eltern für den Elternabend eintragen und die Kinder für das nächste SoLa!
+### Perché dovrei inserire l'TL?
+- Gli TL possono visualizzare e modificare da soli i dati dei bambini
+- Gli TL ricevono le comunicazioni via e-mail ai loro figli
+- I bambini non hanno bisogno di un'email principale per iscriversi a un evento.
+- Le informazioni di contatto del TL sono facilmente accessibili
+- Genitori e figli sono persone distinte: Puoi registrare i genitori per la serata dei genitori e i bambini per la prossima SoLa!
 
-### Schritt für Schritt zur neuen Gruppenstruktur
-#### 1. Anmelden und Berechtigungen überprüfen
+### Passo dopo passo verso la nuova struttura di gruppo
+#### 1. Accesso e verifica delle autorizzazioni
 
-Melde dich in der MiData an und überprüfe, dass du die Berechtigung hast, um Personen und Gruppen zu erstellen (Rolle Adressverwalter\*in, Abteilungsleiter\*in, Sekretariat, ...). Falls nicht, schicke diese Anleitung an jemanden in deiner Abteilung mit den notwendigen Zugriffen.
+Accedi a MiData e verifica di avere le autorizzazioni per creare persone e gruppi (ruolo di amministratore dell'indirizzo, capo dipartimento, segretario, ecc.) In caso contrario, invia queste istruzioni a qualcuno del tuo dipartimento con i diritti di accesso necessari.
 
-#### 2. Gruppe für die EB erstellen
-Der neue Gruppentyp "Erziehungsberechtigte" hat eine nützliche Eigenschaft: Die Mitglieder dieser Gruppe sehen sich gegenseitig nicht und haben auch sonst keine Berechtigungen, ausser auf das eigene Profil. Du kannst dort also mit gutem Gewissen alle EB eintragen.
+#### 2. Creare un gruppo per l'TL
+Il nuovo tipo di gruppo "Genitori" ha una caratteristica utile: i membri di questo gruppo non si vedono tra loro e non hanno altre autorizzazioni se non per il proprio profilo. Puoi quindi inserire tutti gli TL in questo gruppo con la massima tranquillità.
 
-Wenn du die Gruppe bearbeitest, findest du unter dem Register "Externe Registrierung" den Rollentyp "Selbstregistrierte\*r". Aktiviere diese Option, damit du auf einen Blick sehen kannst, wer sich für diese Gruppe selber registriert hat. Verwende ausserdem eine gültige E-Mail-Adresse im Feld "Benachrichtigungs-E-Mail". Wenn du speicherst und zur Gruppeninfo wechselst, findest du nun einen Link zur Externen Registrierung, den du später noch brauchen wirst.
+Quando modifichi il gruppo, troverai il tipo di ruolo "Autoregistrazione" nella scheda "Registrazione esterna". Seleziona questa opzione per attivare l'autoregistrazione. Con questo ruolo, puoi vedere a colpo d'occhio chi si è registrato nel tuo gruppo (rispetto al ruolo "Membro", che viene assegnato manualmente). 
 
-![Kind zuteilen](/images/basicfunctions/selbst_reg_de.png)
+Utilizza anche un indirizzo e-mail valido nel campo "E-mail di notifica". Quando salvi e passi alle informazioni sul gruppo, troverai un link alla registrazione esterna, che ti servirà in seguito.
 
-#### 3. Wer ist Kind und wer ist EB?
-Jetzt wird es spannend: Sicher hast auch du in deiner Abteilungen Kinder, die eine E-Mail-Adresse der Eltern eingetragen haben. Die Haupt-E-Mail ist aber einmalig, du kannst also nicht einfach eine neue Person mit der gleichen Haupt-E-Mail erstellen! Dein Ziel ist es, aus der Person zwei zu machen: Der bestehende Account wird zum Kind mit allen Angaben und ohne Haupt-E-Mail. Der neue Account ist die Erziehungsberechtigte Person, mit der eigenen (und korrekten) Haupt-E-Mail.
+![Assegna figlio](/images/basicfunctions/selbst_reg_de.png)
 
-![Kind zuteilen](/images/basicfunctions/kind_falsche_email_de.png)
+#### 3. Chi è un bambino e chi è TL?
+Ora la situazione si fa interessante: probabilmente nella tua sezione ci sono bambini che hanno inserito l'indirizzo e-mail di un genitore. Tuttavia, l'e-mail principale è unica, quindi non puoi semplicemente creare una nuova persona con la stessa e-mail principale! Il tuo obiettivo è trasformare una persona in due: L'account esistente diventa il bambino con tutti i dettagli e senza l'email principale. Il nuovo account è il tutore legale, con il proprio (e corretto) indirizzo e-mail principale.
 
-#### 4. Löschen der Haupt-E-Mail
-Wenn du ein Kind mit der Haupt-E-Mail der EB findest, lösche die Haupt-E-Mail. Ansonsten kannst du das Profil des Kindes so belassen wie es ist.
+![Assegna figlio](/images/basicfunctions/kind_falsche_email_de.png)
 
-#### 5. Onboarding der EB-Person
-Jetzt, wo die Haupt-E-Mail wieder frei ist, könntest du einfach eine neue Person erstellen. Hier gibt es aber ein Problem: Die EB hat nie zugestimmt, dass ihre Daten von dir bearbeitet werden. Da die Person vielleicht auch gar kein Mitglied in deinem Verein ist, brauchst du eine Zustimmung für die Datenschutzerklärung. 
+#### 4. Eliminare l'email principale
+Se trovi un figlio con l'email principale dell'TL, elimina l'email principale. Altrimenti, puoi lasciare il profilo del bambino così com'è.
 
-Deshalb suchst du also wieder den Gruppenlink aus Schritt 2 und schickst ihn an die gewünschte EB. So kann sich die Person selber eintragen und stimmt dabei gleich der Datenschutzerklärung zu!
+#### 5. Inserire la persona dell'TL
+Ora che l'email principale è di nuovo libera, potresti semplicemente creare una nuova persona. Tuttavia, c'è un problema: l'TL non ha mai acconsentito al trattamento dei suoi dati da parte tua. Poiché la persona potrTLbe anche non essere un membro della tua organizzazione, hai bisogno del consenso per la politica sulla privacy. 
 
-#### 6. Verknüpfen der Profile
-Sobald sich die EB registriert hat, bekommst du ein E-Mail. Du findest die neu registrierte Person bereits in der Elterngruppe und kannst ihr dort zum Beispiel die Rolle "Mitglied" erteilen.
+Quindi cerca di nuovo il link del gruppo dal punto 2 e invialo all'TL desiderato. In questo modo, la persona può registrarsi e allo stesso tempo accettare l'informativa sulla privacy!
 
-Ausserdem kannst du der Person jetzt das Kind zuteilen, indem du auf "Bearbeiten" und "Kinder" -> "Eintrag hinzufügen" gehst. Stelle sicher, dass du auch auf das Kind Zugriff hast, sonst erscheint es nicht im Suchfeld. Wähle dann das Kind aus und speichere die Person ab.
+#### 6. Collegare i profili
+Non appena l'TL si sarà registrato, riceverai un'e-mail. Troverai già la persona appena registrata nel gruppo dei genitori e potrai assegnarle il ruolo di "Membro", ad esempio.
 
-![Kind zuteilen](/images/basicfunctions/kind_zuteilen_de.png)
+Ora puoi anche assegnare il figlio alla persona andando su "Modifica" e "Bambini" -> "Aggiungi voce". Assicurati di avere accesso anche al figlio, altrimenti non comparirà nel campo di ricerca. Quindi seleziona il bambino e salva la persona.
 
-#### 7. Abschluss
-Die zwei Personen sind jetzt verknüpft. Achtung: Ab jetzt gehen alle Mails, die von der MiData oder über ein Abo an das Kind verschickt werden, auch an die E-Mail der eingetragenen EB.
+![Assegna figlio](/images/basicfunctions/kind_zuteilen_de.png)
 
-Nur die folgenden Nachrichten werden aus Sicherheitsgründen nicht an die EB weitergeleitet:
-- Passwort-Reset bzw. "Login schicken"-Mail
-- E-Mail-Verifikation
-- Login-E-Mail bei Selbstregistrierung via externen Anlass
-- Versandbestätigung bei Mails an Abos
+#### 7. Conclusione
+Le due persone sono ora collegate. Attenzione: d'ora in poi, tutte le e-mail inviate al bambino da MiData o tramite un abbonamento saranno inviate anche all'e-mail dell'TL registrato.
 
-Bitte bedenke auch, dass die EB-Person neue Kinder erfassen kann. Es lohnt sich, darauf hinzuweisen, dass jedes Kind nur einmal erfasst werden soll, auch wenn etwas mit einer Anmeldung schief läuft.
+Solo i seguenti messaggi non verranno inoltrati all'TL per motivi di sicurezza:
+- e-mail di reimpostazione della password o di "invio del login
+- E-mail di verifica
+- Conferma di invio delle e-mail di iscrizione
