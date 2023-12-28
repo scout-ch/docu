@@ -9,10 +9,10 @@ lang: it
 ## Trattamento e cancellazione dei dati personali che non vengono più utilizzati
 Nell’interesse della protezione dei dati, ora i dati personali non più utilizzati verranno cancellati. Questo processo avviene automaticamente e secondo criteri specifici. Diversi dati del profilo di una persona vengono cancellati se non riveste un ruolo da molto tempo e non ha interagito altrimenti con MiData (es. nessun account amministratore, partecipazione ad eventi e altri criteri). Vengono cancellate completamente solo le persone che non hanno frequentato nessun corso o campo negli ultimi 10 anni.
 
-❗Attenzione, necessità di azione❗
+❗Attenzione, necessità di azione❗<br/>
 Controlla se le persone sotto "senza ruoli" non sono più necessarie. Assegna loro un ruolo in un gruppo di ex scout o simili se vuoi evitare la cancellazione! L'eliminazione sarà attivata a partire dalla release successiva, ovvero da aprile 2024.
 
-❗Nuovo processo❗
+❗Nuovo processo❗<br/>
 La cancellazione manuale delle persone è ora possibile anche per le animatrici/gli animatori sezionali, regionali e cantonali. Il processo di eliminazione utilizzato finora tramite password “!DELETE!” nel nome scout è impostato.
 
 [Maggiori informazioni](/it/documentation/article-4)
@@ -29,7 +29,7 @@ Dopo 18 mesi di inattività, verrà inviato un avviso all'indirizzo email princi
 
 Inoltre, la funzione “Invia login” verrà leggermente modificata: Il pulsante ora consente anche di sbloccare l'account. Se l'account è bloccato, il testo del pulsante verrà modificato in "Sbloccare e inviare login". Le persone con diritti di scrittura vedono anche nella vista di sicurezza che la persona è bloccata e possono quindi sbloccarla nuovamente.
 
-❗Cambiamento importante❗
+❗Cambiamento importante❗<br/>
 Se una persona con accesso bloccato utilizza la funzione Password dimenticata, l'operazione fallirà. Per motivi di sicurezza non è inoltre possibile comunicare in modo trasparente che il proprio account è bloccato. In questi casi potrebbe essere necessario che le/gli amministratrici/tori dell'indirizzo riconoscano il problema e lo risolvano. 
 
 ## Accesso per i genitori

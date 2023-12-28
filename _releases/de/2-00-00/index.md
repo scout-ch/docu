@@ -9,10 +9,10 @@ lang: de
 ## Umgang mit nicht mehr verwendeten Personendaten und Datenlöschung
 Im Sinne des Datenschutzes werden neu Personendaten gelöscht, die nicht mehr verwendet werden. Dieser Vorgang geschieht automatisch und nach spezifischen Kriterien. Es werden diverse Profildaten einer Person gelöscht, wenn sie über längere Zeit keine Rolle mehr hatte und auch sonst nicht mit der MiData interagiert (z.B. kein Verwalter-Account, Anlassteilnahme und weitere Kriterien). Ganz gelöscht werden nur Personen, die in den letzten 10 Jahren zusätzlich keine Kurse oder Lager besucht haben.
 
-❗Achtung Handlungsbedarf❗
+❗Achtung Handlungsbedarf❗<br/>
 Überprüfe, ob die Personen unter "ohne Rollen" nicht mehr benötigt werden. Weise ihnen eine Rolle in einer Ehemaligengruppe oder ähnlich zu, wenn du die Löschung verhindern möchtest! Die Löschung wird ab dem folgenden Release, also April 2024 scharf gestellt.
 
-❗Neuer Prozess❗
+❗Neuer Prozess❗<br/>
 Die manuelle Löschung von Personen, ist nun auch für Abteilungs-, Regions- und Kantonsleiter\*innen möglich. Der bisherige Löschprozess via Kennwort "!DELETE!" im Pfadinamen wird eingestellt.
 
 [Mehr Informationen](/de/documentation/article-4)
@@ -29,7 +29,7 @@ Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesen
 
 Zusätzlich wird die Funktion "Login schicken" leicht angepasst: Der Button ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten sehen auch in der Sicherheitsansicht, dass die Person gesperrt ist und können sie so wieder entsperren.
 
-❗Wichtige Änderung❗
+❗Wichtige Änderung❗<br/>
 Wenn eine Person mit gesperrtem Zugang die Funktion "Passwort vergessen" verwendet, schlägt diese nun fehl. Aus Sicherheitsgründen ist es auch nicht möglich, transparent zu kommunizieren, dass der eigene Account gesperrt ist. In solchen Fällen kann es also nötig sein, dass die Adressverwalter\*innen das Problem erkennen uns lösen.
 
 ## Zugang für Eltern
@@ -57,7 +57,7 @@ Der neue Wert ist auch in Personen-Exports (Option "Alle Angaben") enthalten. Be
 
 ## Ansicht bei externer Registrierung
 
-Im Release [1.28.21](https://pfadi.swiss/de/publikationen-downloads/downloads/?search=Release&c=7&c=87&page=1) haben wir die externe Registrierung vorgestellt. Mit dieser Funktion können sich Personen via einem öffentlichen Link registrieren und erhalten so eine Rolle in der dazugehörigen Gruppe.
+Im Release [1.28.21](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/790/midata-release-notes-12821/) haben wir die externe Registrierung vorgestellt. Mit dieser Funktion können sich Personen via einem öffentlichen Link registrieren und erhalten so eine Rolle in der dazugehörigen Gruppe.
 
 Auf diese Weise registrierte Personen sehen neu keine Struktur und kein Menu Links mehr. Sie sehen also nur ihr eigenes Profil in einer minimalistischen Ansicht.
 

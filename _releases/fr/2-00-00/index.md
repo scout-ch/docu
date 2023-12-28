@@ -9,10 +9,10 @@ lang: fr
 ## Traitement des données personnelles qui ne sont plus utilisées et suppression des données
 Conformément à la protection des données, les données personnelles qui ne sont plus utilisées sont désormais supprimées. Ce processus se fait automatiquement et selon des critères spécifiques. Diverses données de profil d'une personne sont effacées si elle n'a plus tenu de rôle pendant un certain temps et n'a pas interagi avec MiData (p. ex. pas de compte d'administrateur, participation à des événements et autres critères). Seules les personnes qui n'ont en outre pas participé à des cours ou des camps au cours des 10 dernières années sont entièrement supprimées.
 
-❗Attention : action nécessaire❗
+❗Attention : action nécessaire❗<br/>
 Vérifie si les personnes se trouvant sous "Sans Rôle" ne sont plus nécessaires. Attribue-leur un rôle dans un groupe d'anciens ou similaire si tu veux éviter leur suppression ! La suppression sera armée à partir de la version suivante, c'est-à-dire avril 2024.
 
-❗Nouveau processus❗.
+❗Nouveau processus❗<br/>
 La suppression manuelle de personnes, est désormais également possible pour les responsables de groupe, de région et cantonal·e. L'ancien processus de suppression via le code "!DELETE !" dans le totem est abandonné.
 
 [Plus d'informations](/fr/documentation/article-4)
@@ -29,7 +29,7 @@ Après 18 mois d'inactivité, un avertissement est envoyé à l'adresse e-mail p
 
 En outre, la fonction "Envoyer le login" est légèrement adaptée : Le bouton permet désormais aussi de débloquer le compte. Le texte du bouton est adapté en "Débloquer et envoyer le login" lorsque le compte est bloqué. Les personnes disposant de droits d'écriture voient également dans la vue de sécurité que la personne est bloquée et peuvent ainsi la débloquer.
 
-❗Modification importante❗.
+❗Modification importante❗<br/>
 Si une personne dont l'accès est bloqué utilise la fonction "Mot de passe oublié", cela échoue. Pour des raisons de sécurité, il n'est pas possible, dans ces cas, d'informer l'utilisateur que son propre compte est bloqué. Il peut donc être nécessaire qu'un(e) administrateur(trice) d'adresses\*reconnaisse le problème et débloque la personne.
 
 ## Accès pour les parents
