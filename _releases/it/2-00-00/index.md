@@ -44,6 +44,8 @@ Al video [Iscrivere i bambini al campo](https://duckduckgo.com)
 ## Silverscouts ed ex scout
 MiData si sta espandendo per includere un importante gruppo di persone: ex scout che vogliono rimanere in contatto con gli scout anche dopo il loro periodo attivo. I Silver Scout sono ora integrati in MiData e le sezioni hanno anche l'opportunità di creare gruppi di ex scout locali. Un meccanismo di adesione automatica semplifica l'avvio del progetto per i potenziali ex scout e consente di gestire i dati degli ex scout in modo conforme alla protezione dei dati.
 
+Il meccanismo di opt-in sarà attivato a partire dalla release successiva, ovvero da aprile 2024.
+
 [Ulteriori informazioni](/it/documentation/ehemalige)
 
 ## Fratelli e sorelle in sezione

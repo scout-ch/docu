@@ -43,6 +43,8 @@ Zum Video [Kind für das Lager anmelden](https://duckduckgo.com)
 ## Silverscouts und Ehemalige
 Die MiData wird um eine wichtige Personengruppe erweitert: Ehemalige Personen, die auch nach ihrer aktiven Zeit mit der Pfadi verbunden bleiben möchten. Neu sind die Silver Scouts in die MiData integriert, zudem haben Abteilungen die Möglichkeit, lokale Ehemaligengruppen zu gründen. Ein automatischer Opt-In-Mechanismus erleichtert den Einstieg für potenzielle Ehemalige und ermöglicht eine Datenschutzkonforme Handhabung der Ehemaligendaten.
 
+Der Opt-In-Mechanismus wird ab dem folgenden Release, also im April 2024 scharf gestellt.
+
 [Mehr Informationen](/de/documentation/ehemalige)
 
 ## Geschwister in der Abteilung

@@ -43,6 +43,8 @@ Vers la vidéo [Inscrire son enfant au camp](https://duckduckgo.com)
 ## Silverscouts et Ancien·ne·s
 MiData s'enrichit d'un groupe de personnes important : les ancien·ne·s scout·e·s qui souhaitent rester en contact avec le scoutisme même après leur période d'activité. Les Silver Scouts sont désormais intégrés dans MiData, de plus les groupes ont la possibilité de créer des groupes locaux d'ancien·ne·s. Un mécanisme d'opt-in automatique facilite l'accès pour les ancien·ne·s potentiels et permet un traitement des données des ancien·ne·s conforme à la protection des données.
 
+Le méchanisme d'opt-in sera armée à partir de la version suivante, c'est-à-dire avril 2024.
+
 [Plus d'informations](/fr/documentation/ehemalige)
 
 ## Frères et sœurs dans le groupe
