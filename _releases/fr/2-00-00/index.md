@@ -38,6 +38,7 @@ Nous sommes heureux de vous présenter une fonctionnalité que nous attendions d
 Avec cette modification, nous introduisons en outre un nouveau type de groupe "Responsables légaux". Dans ces groupes, il est possible de gérer les parents sans leur donner des autorisations inutiles.
 
 Vers [la documentation sur les accès des parents](/fr/documentation/eltern)
+
 Vers la vidéo [Camp inscription - Perspective des parents](https://youtu.be/PiN7sgcr2pw)
 
 ## Silverscouts et Ancien·ne·s

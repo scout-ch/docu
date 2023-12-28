@@ -40,6 +40,7 @@ Con questa modifica introdurremo anche un nuovo tipo di gruppo “Autorità pare
 Alla [Documentazione sull’accesso per i genitori](/it/documentation/eltern)
 
 Al video (DE): [Lageranmeldung - Perspektive der Eltern](https://youtu.be/3ykrNqTBpAA)
+
 Al video (FR):[Camp inscription - Perspective des parents](https://youtu.be/PiN7sgcr2pw)
 
 ## Silverscouts ed ex scout
