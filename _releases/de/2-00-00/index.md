@@ -38,7 +38,7 @@ Es freut uns, euch ein lange gewünschtes Feature vorstellen zu dürfen: Der Zug
 Mit dieser Änderung führen wir ausserdem einen neuen Gruppentyp "Erziehungsberechtigte" ein. In diesen Gruppen können die Eltern verwaltet werden, ohne dass diese unnötige Berechtigungen erhalten.
 
 Zur [Dokumentation der Elternzugänge](/de/documentation/eltern)
-Zum Video [Kind für das Lager anmelden](https://duckduckgo.com)
+Zum Video [Lageranmeldung - Perspektive der Eltern](https://youtu.be/3ykrNqTBpAA)
 
 ## Silverscouts und Ehemalige
 Die MiData wird um eine wichtige Personengruppe erweitert: Ehemalige Personen, die auch nach ihrer aktiven Zeit mit der Pfadi verbunden bleiben möchten. Neu sind die Silver Scouts in die MiData integriert, zudem haben Abteilungen die Möglichkeit, lokale Ehemaligengruppen zu gründen. Ein automatischer Opt-In-Mechanismus erleichtert den Einstieg für potenzielle Ehemalige und ermöglicht eine Datenschutzkonforme Handhabung der Ehemaligendaten.

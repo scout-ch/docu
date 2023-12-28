@@ -39,7 +39,8 @@ Con questa modifica introdurremo anche un nuovo tipo di gruppo “Autorità pare
 
 Alla [Documentazione sull’accesso per i genitori](/it/documentation/eltern)
 
-Al video [Iscrivere i bambini al campo](https://duckduckgo.com)
+Al video (DE): [Lageranmeldung - Perspektive der Eltern](https://youtu.be/3ykrNqTBpAA)
+Al video (FR):[Camp inscription - Perspective des parents](https://youtu.be/PiN7sgcr2pw)
 
 ## Silverscouts ed ex scout
 MiData si sta espandendo per includere un importante gruppo di persone: ex scout che vogliono rimanere in contatto con gli scout anche dopo il loro periodo attivo. I Silver Scout sono ora integrati in MiData e le sezioni hanno anche l'opportunità di creare gruppi di ex scout locali. Un meccanismo di adesione automatica semplifica l'avvio del progetto per i potenziali ex scout e consente di gestire i dati degli ex scout in modo conforme alla protezione dei dati.

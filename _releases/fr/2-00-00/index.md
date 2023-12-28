@@ -38,7 +38,7 @@ Nous sommes heureux de vous présenter une fonctionnalité que nous attendions d
 Avec cette modification, nous introduisons en outre un nouveau type de groupe "Responsables légaux". Dans ces groupes, il est possible de gérer les parents sans leur donner des autorisations inutiles.
 
 Vers [la documentation sur les accès des parents](/fr/documentation/eltern)
-Vers la vidéo [Inscrire son enfant au camp](https://duckduckgo.com)
+Vers la vidéo [Camp inscription - Perspective des parents](https://youtu.be/PiN7sgcr2pw)
 
 ## Silverscouts et Ancien·ne·s
 MiData s'enrichit d'un groupe de personnes important : les ancien·ne·s scout·e·s qui souhaitent rester en contact avec le scoutisme même après leur période d'activité. Les Silver Scouts sont désormais intégrés dans MiData, de plus les groupes ont la possibilité de créer des groupes locaux d'ancien·ne·s. Un mécanisme d'opt-in automatique facilite l'accès pour les ancien·ne·s potentiels et permet un traitement des données des ancien·ne·s conforme à la protection des données.
