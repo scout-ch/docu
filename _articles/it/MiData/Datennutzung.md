@@ -7,7 +7,7 @@ categories: 1_Midata
 cat_sort: 03.03.2022
 relevance: Tutti
 lang: it
-date: 02.10.2022
+date: 28.12.2023
 ---
 
 Attribuiamo grande importanza alla sicurezza dei dati in MiData. La comunicazione è criptata e i dati vengono salvati in Svizzera dalla ditta Puzzla ITC. Per prevenire abusi abbiamo sviluppato un modello di autorizzazione e protetto gli accessi con diverse misure di sicurezza.

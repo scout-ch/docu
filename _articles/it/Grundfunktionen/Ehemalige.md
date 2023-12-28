@@ -1,9 +1,9 @@
 ---
-title: Silver Scouts und Ehemalige
+title: Silver Scouts e ex scout
 slug: ehemalige
 categories: 2_Funzioni&nbsp;di&nbsp;base
 cat_sort: E
-relevance: Alle
+relevance: Tutti
 lang: it
 date: 21.12.2023
 ---

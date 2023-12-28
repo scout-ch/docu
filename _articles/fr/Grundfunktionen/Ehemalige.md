@@ -3,7 +3,7 @@ title: Silverscouts et Ancien·ne·s
 slug: ehemalige
 categories: 2_Fondamentaux
 cat_sort: E
-relevance: Alle
+relevance: Tous
 lang: fr
 date: 21.12.2023
 ---

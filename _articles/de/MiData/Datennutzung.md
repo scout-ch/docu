@@ -7,7 +7,7 @@ categories: 1_Midata
 cat_sort: 03.03.2022
 relevance: Alle
 lang: de
-date: 03.03.2022
+date: 28.12.2023
 ---
 
 Wir legen grossen Wert auf die Sicherheit der Daten in der MiData. Die Verbindung ist verschlüsselt und die Daten werden in der Schweiz bei der Firma Puzzle ITC gespeichert. Um Missbrauch vorzubeugen, haben wir ein Berechtigungsmodell erarbeitet und Logins durch diverse Sicherheitsmassnahmen geschützt.
