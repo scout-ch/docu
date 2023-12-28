@@ -10,54 +10,54 @@ lang: it
 date: 02.10.2022
 ---
 
-Wir legen grossen Wert auf die Sicherheit der Daten in der MiData. Die Verbindung ist verschlüsselt und die Daten werden in der Schweiz bei der Firma Puzzle ITC gespeichert. Um Missbrauch vorzubeugen, haben wir ein Berechtigungsmodell erarbeitet und Logins durch diverse Sicherheitsmassnahmen geschützt.
+Attribuiamo grande importanza alla sicurezza dei dati in MiData. La comunicazione è criptata e i dati vengono salvati in Svizzera dalla ditta Puzzla ITC. Per prevenire abusi abbiamo sviluppato un modello di autorizzazione e protetto gli accessi con diverse misure di sicurezza.
 
-Informationen zum Datenschutz findest du auf der [PBS-Website](https://pfadi.swiss/de/verband/datenschutz/).
+Potete trovare informazioni sulla protezione dei dati sul [sito web MSS](https://pfadi.swiss/it/associazione/protezione-dei-dati/).
 
-## Umgang mit nicht mehr verwendeten Personendaten
-Im Sinne des Datenschutzes werden Personendaten gelöscht, die nicht mehr verwendet werden. Dieser Vorgang geschieht automatisch und nach spezifischen Kriterien. Wir sprechen von einer Datenreduktion, wenn nicht die ganze Person gelöscht wird, sondern nur die Informationen, die nicht mehr benötigt werden. Bei der Datenlöschung wird ein Profil komplett gelöscht.
+## Trattamento dei dati personali che non vengono più utilizzati
+Nell’interesse della protezione dei dati, i dati personali non più utilizzati verranno cancellati. Questo processo avviene automaticamente e secondo criteri specifici. Si parla di riduzione dei dati quando non viene cancellata l'intera persona, ma solo le informazioni che non sono più necessarie. Quando i dati vengono eliminati, un profilo viene completamente eliminato.
 
-Um eine Datenreduktion für eine Person zu verhindern, reicht es, dieser eine Rolle in einer Gruppe zuzuweisen. Beispielsweise können solche Personen in einer Ehemaligengruppe erfasst werden.
+Per evitare la riduzione dei dati di una persona è sufficiente assegnarle un ruolo in un gruppo. Ad esempio, queste persone possono essere registrate in un gruppo di ex scout.
 
-### Datenreduktion
-Eine Datenreduktion erfolgt nach folgenden Kriterien:
+### Riduzione dei dati
+La riduzione dei dati viene effettuata secondo i seguenti criteri:
 
-- Die Person hatte in den letzten 18 Monaten keine Rolle in einer Gruppe
-- Die Person hat in der Zukunft keine Voranmeldung oder Anmeldung für Events
-- Die Person hat sich in den letzten 24 Monaten nicht eingeloggt
-- Die Person verwaltet keine Accounts (Elternzugang)
+- La persona non ha avuto un ruolo in un gruppo negli ultimi 18 mesi
+- La persona non ha pre-registrazioni o registrazioni per eventi futuri
+- La persona non ha effettuato l'accesso negli ultimi 24 mesi
+- La persona non gestisce alcun account (accesso parentale)
 
-Bei der Datenreduktion werden folgende Felder geleert / auf den Standardwert zurückgesetzt:
+Durante la riduzione dei dati, i seguenti campi vengono cancellati/ripristinati al valore predefinito:
 
-- Notizen
-- Adresse
-- Weitere E-Mails
-- Telefonnummern
+- Appunti
+- Indirizzo
+- Ulteriori e-mails
+- Numero di telefono
 - Social Media
-- Titel
-- Anrede
-- Sprache
-- Schulklasse
-- Eintritt / Austritt
-- J+S Personennummer (sowieso nicht mehr relevant in der MiData)
-- Nationalität J+S
-- Geschwister
-- Zusätzliche Angaben
+- Titolo
+- Saluto
+- Lingua
+- Classe scolalstica
+- Entrata/uscita
+- Numero personale G+S (in ogni caso non rilevante in MiData)
+- Nazionalità G+S
+- Fratelli e sorelle
+- Ulteriori informazioni
 - Foto
 - Tags
 
-### Datenlöschung
-Wenn zusätzlich zu den Kriterien aus der Datenreduktion auch das folgende Kriterium erfüllt ist, wird die Person nicht nur reduziert, sonder ganz gelöscht:
+### Cancellazione dei dati
+Se oltre ai criteri di riduzione dei dati viene soddisfatto anche il seguente criterio, la persona non solo verrà ridotta, ma verrà completamente cancellata:
 
-- Die Person hat in den letzten 10 Jahren weder an einem Kurs noch an einem Lager teilgenommen
+- La persona non ha frequentato un corso o un campo negli ultimi 10 anni
 
-Profile, die auf diese Weise gelöscht werden, werden komplett gelöscht und können nicht wiederhergestellt werden.
+I profili eliminati in questo modo si trovano nel backup solo per alcune settimane e poi vengono completamente eliminati.
 
-## Manuelle Datenreduktion und Datenlöschung
-Bei einer Anfrage zur Datenlöschung ist es wichtig, rasch und korrekt zu reagieren. Siehe auch [Merkblatt zur Datenauskunft und -löschung](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/818/merkblatt-datenauskunft)
+## Riduzione e cancellazione manuale dei dati
+Se richiedi la cancellazione dei dati, è importante reagire in modo rapido e corretto. Vedi anche [Volantino sull'informazione e la cancellazione dei dati](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/818/promemoria-richieste-dati/)
 
-Eine manuelle Datenlöschung kann für Personen vorgenommen werden, die keine Rolle mehr haben. Diese Einschränkung ist wichtig, damit niemand eine Person löscht, die auf einer anderen Ebene noch aktiv ist. Gehe dafür auf deiner Gruppe in die Ansicht "ohne Rollen" und wähle den Papierkorb rechts von der Person, die du löschen möchtest.
+La cancellazione manuale dei dati può essere effettuata per le persone che non hanno più un ruolo. Questa restrizione è importante affinché nessuno elimini una persona che è ancora attiva ad un altro livello. Per fare ciò, vai alla vista "senza ruoli" del tuo gruppo e seleziona il cestino a destra della persona che desideri eliminare.
 
-Wenn eine Person in den letzen 10 Jahren an einem Kurs oder Lager teilgenommen hat, kannst du sie nur minimieren, jedoch nicht ganz löschen.
+Se una persona ha frequentato un corso o un campo negli ultimi 10 anni, puoi solo minimizzarla, non cancellarla del tutto.
 
-![Gruppe Ehemalige](/images/documentation/manual_deletion_de.png)
+![Gruppo ex scout](/images/documentation/manual_deletion_de.png)

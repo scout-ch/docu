@@ -6,62 +6,52 @@ slug: 2-00-00
 lang: it
 ---
 
-## Umgang mit nicht mehr verwendeten Personendaten und Datenlöschung
-Im Sinne des Datenschutzes werden neu Personendaten gelöscht, die nicht mehr verwendet werden. Dieser Vorgang geschieht automatisch und nach spezifischen Kriterien. Es werden diverse Profildaten einer Person gelöscht, wenn sie über längere Zeit keine Rolle mehr hatte und auch sonst nicht mit der MiData interagiert (z.B. kein Verwalter-Account, Anlassteilnahme und weitere Kriterien). Ganz gelöscht werden nur Personen, die in den letzten 10 Jahren zusätzlich keine Kurse oder Lager besucht haben.
+## Trattamento e cancellazione dei dati personali che non vengono più utilizzati
+Nell’interesse della protezione dei dati, ora i dati personali non più utilizzati verranno cancellati. Questo processo avviene automaticamente e secondo criteri specifici. Diversi dati del profilo di una persona vengono cancellati se non riveste un ruolo da molto tempo e non ha interagito altrimenti con MiData (es. nessun account amministratore, partecipazione ad eventi e altri criteri). Vengono cancellate completamente solo le persone che non hanno frequentato nessun corso o campo negli ultimi 10 anni.
 
-❗Achtung Handlungsbedarf❗
-Überprüfe, ob die Personen unter "ohne Rollen" nicht mehr benötigt werden. Weise ihnen eine Rolle in einer Ehemaligengruppe oder ähnlich zu, wenn du die Löschung verhindern möchtest!
+❗Attenzione, necessità di azione❗
+Controlla se le persone sotto "senza ruoli" non sono più necessarie. Assegna loro un ruolo in un gruppo di ex scout o simili se vuoi evitare la cancellazione! L'eliminazione sarà attivata a partire dalla release successiva, ovvero da aprile 2024.
 
-❗Neuer Prozess❗
-Die manuelle Löschung von Personen, ist nun auch für Abteilungs-, Regions- und Kantonsleiter\*innen möglich. Der bisherige Löschprozess via Kennwort "!DELETE!" im Pfadinamen wird eingestellt.
+❗Nuovo processo❗
+La cancellazione manuale delle persone è ora possibile anche per le animatrici/gli animatori sezionali, regionali e cantonali. Il processo di eliminazione utilizzato finora tramite password “!DELETE!” nel nome scout è impostato.
 
-[Mehr Informationen](https://docu.scout.ch/de/documentation/article-4)
+[Maggiori informazioni](/it/documentation/article-4)
 
-## Bemerkungen werden automatisch gelöscht
-Das Bemerkungsfeld bei Anmeldungen für Kurse, Lager und Anlässe wird nun bei vergangenen Anlässen wieder gelöscht. Wir gehen davon aus, dass Bemerkungen nur vor und während einem Anlass wichtig sind. Im Sinne des Datenschutzes werden diese Daten darum 3 Monate nach Abschluss des Anlasses gelöscht.
+## I commenti vengono eliminati automaticamente
+Il campo dei commenti al momento dell'iscrizione a corsi, campi ed eventi verrà ora cancellato per gli eventi passati. Partiamo dal presupposto che i commenti siano importanti solo prima e durante un evento. Nell'interesse della protezione dei dati, questi dati verranno cancellati 3 mesi dopo la fine dell'evento.
 
-![Bemerkungsfeld](/images/releasenotes/bemerkungen_events_de.png)
+![Campo commenti](/images/releasenotes/bemerkungen_events_it.png) 
 
-## Login entzug
-Bisher besteht für Benutzer zeitlich keine Beschränkung für den Zugriff auf die MiData. In diesem Zusammenhang erhöhen wir die Sicherheit und schränken den Zugriff für inaktive Accounts ein. Damit verhindern wir, dass es zahlreiche Benutzer gibt, die ihren Zugriff nie verwenden
+## Revoca dell’accesso
+Ad oggi non sono previsti vincoli temporali per l'accesso degli utenti a MiData. In questo contesto, stiamo aumentando la sicurezza e limitando l'accesso per gli account inattivi. In questo modo si riduce il numero di account utente inutilizzati con password deboli che possono essere facilmente violate.
 
-Nach 18 Monaten Inaktivität wird eine Warnung an die Haupt-E-Mail-Adresse gesendet, die darauf hinweist, dass der Zugang in Kürze entfernt wird. Sollte innerhalb eines weiteren Monats kein erneutes Login erfolgen, wird der Zugang gesperrt, wobei der betroffene Benutzer per E-Mail benachrichtigt wird.
+Dopo 18 mesi di inattività, verrà inviato un avviso all'indirizzo email principale indicando che l'accesso verrà presto rimosso. Se non effettua nuovamente l'accesso entro un altro mese, l'accesso verrà bloccato e l'utente interessato verrà avvisato tramite e-mail. 
 
-Zusätzlich wird die Funktion "Login schicken" leicht angepasst: Der Button ermöglicht nun auch das Entsperren des Accounts. Der Text des Buttons wird angepasst zu "Entsperren und Login schicken", wenn der Account gesperrt ist. Personen mit Schreibrechten sehen auch in der Sicherheitsansicht, dass die Person gesperrt ist und können sie so wieder entsperren.
+Inoltre, la funzione “Invia login” verrà leggermente modificata: Il pulsante ora consente anche di sbloccare l'account. Se l'account è bloccato, il testo del pulsante verrà modificato in "Sbloccare e inviare login". Le persone con diritti di scrittura vedono anche nella vista di sicurezza che la persona è bloccata e possono quindi sbloccarla nuovamente.
 
-❗Wichtige Änderung❗
-Wenn eine Person mit gesperrtem Zugang die Funktion "Passwort vergessen" verwendet, schlägt diese nun fehl. Aus Sicherheitsgründen ist es auch nicht möglich, transparent zu kommunizieren, dass der eigene Account gesperrt ist. In solchen Fällen kann es also nötig sein, dass die Adressverwalter\*innen das Problem erkennen uns lösen.
+❗Cambiamento importante❗
+Se una persona con accesso bloccato utilizza la funzione Password dimenticata, l'operazione fallirà. Per motivi di sicurezza non è inoltre possibile comunicare in modo trasparente che il proprio account è bloccato. In questi casi potrebbe essere necessario che le/gli amministratrici/tori dell'indirizzo riconoscano il problema e lo risolvano. 
 
-## Zugang für Eltern
-Es freut uns, euch ein lange gewünschtes Feature vorstellen zu dürfen: Der Zugang für Eltern! Neu können die Eltern (oder Erziehungsberechtigten) separat in der MiData geführt werden. Du die Verknüpfung zu ihren Kindern können sie selber die Daten der Kinder bearbeiten und diese für Lager, Kurse, usw. anmelden. Wir erhoffen uns durch diese Änderung eine deutliche Vereinfachung für Eltern mit mehreren Kindern, sowie mehr Möglichkeiten im Umgang mit den Daten der Eltern und Kinder.
+## Accesso per i genitori
+Siamo lieti di presentarvi una funzionalità richiesta da tempo: L’accesso per i genitori I genitori (o tutori legali) ora possono essere elencati separatamente in MiData. Collegandoli ai propri figli, possono modificare da soli i dati dei bambini e registrarli a campi, corsi, ecc. Ci auguriamo che questo cambiamento semplifichi notevolmente le cose per i genitori con più figli e offra più opzioni per gestire i dati di genitori e figli.
 
-Mit dieser Änderung führen wir ausserdem einen neuen Gruppentyp "Erziehungsberechtigte" ein. In diesen Gruppen können die Eltern verwaltet werden, ohne dass diese unnötige Berechtigungen erhalten.
+Con questa modifica introdurremo anche un nuovo tipo di gruppo “Autorità parentale”. I genitori possono essere gestiti in questi gruppi senza fornire loro autorizzazioni non necessarie.
 
-Zur [Dokumentation der Elternzugänge](https://docu.scout.ch/de/documentation/eltern)
-Zum Video [Kind für das Lager anmelden](https://duckduckgo.com)
+Alla [Documentazione sull’accesso per i genitori](/it/documentation/eltern)
 
-## Silverscouts und Ehemalige
-Die MiData wird um eine wichtige Personengruppe erweitert: Ehemalige Personen, die auch nach ihrer aktiven Zeit mit der Pfadi verbunden bleiben möchten. Neu sind die Silver Scouts in die MiData integriert, zudem haben Abteilungen die Möglichkeit, lokale Ehemaligengruppen zu gründen. Ein automatischer Opt-In-Mechanismus erleichtert den Einstieg für potenzielle Ehemalige und ermöglicht eine Datenschutzkonforme Handhabung der Ehemaligendaten.
+Al video [Iscrivere i bambini al campo](https://duckduckgo.com)
 
-[Mehr Informationen](https://docu.scout.ch/de/documentation/ehemalige)
+## Silverscouts ed ex scout
+MiData si sta espandendo per includere un importante gruppo di persone: ex scout che vogliono rimanere in contatto con gli scout anche dopo il loro periodo attivo. I Silver Scout sono ora integrati in MiData e le sezioni hanno anche l'opportunità di creare gruppi di ex scout locali. Un meccanismo di adesione automatica semplifica l'avvio del progetto per i potenziali ex scout e consente di gestire i dati degli ex scout in modo conforme alla protezione dei dati.
 
-## Geschwister in der Abteilung
-Bisher gab es zwei Felder für Geschwister auf dem Profil: Das erste erlaubt das Verknüpfen von zwei Personen als Geschwister-Beziehung. Das zweite Feld war eine Checkbox, welche für das Berechnen von Rabatten verwendet wurde. Bisher hatten die beiden Felder keinen Zusammenhang.
+[Ulteriori informazioni](/it/documentation/ehemalige)
 
-Neu wird die Checkbox entfernt und stattdessen wird der Wert aus der Geschwister-Relation berechnet. Das zweite Feld kann also nicht mehr manuell definiert werden, sondern ergibt sich aus der betreffenden Gruppe sowie den Geschwister-Relationen der gegebenen Person. Tatsächlich zeigt das Feld die Geschwister in der aktuell angezeigten Gruppe /Personenansicht an. Je nach dem, wer die Person anschaut, kann der Wert also unterschiedlich sein (z.B. wenn eine Person in zwei Abteilungen oder zusätlich in der Region tätig ist).
+## Fratelli e sorelle in sezione
+In precedenza c'erano due campi per i fratelli e le sorelle nel profilo: Il primo consente a due persone di essere legate come una relazione tra fratelli e sorelle. Il secondo campo era una casella di controllo utilizzata per calcolare gli sconti. Finora i due campi non avevano alcun collegamento.
 
-Der neue Wert ist auch in Personen-Exports (Option "Alle Angaben") enthalten. Beispielsweise heissen die Spalten bei Anlässen "Geschwister im Anlass" oder in der Abteilung "Geschwister in der Ebene".
+La casella di controllo è ora rimossa e il valore viene invece calcolato dalla relazione di fratello e sorella. Il secondo campo non può più essere definito manualmente, ma risulta dal gruppo rilevante e dai rapporti di parentela della persona interessata. Di fatto, il campo mostra i fratelli e le sorelle nella vista gruppo/persona attualmente visualizzata. A seconda di chi guarda la persona, il valore può essere diverso (ad esempio se una persona lavora in due sezioni o anche nella regione).
 
-## Ansicht bei externer Registrierung
-
-Im Release [1.28.21](https://pfadi.swiss/de/publikationen-downloads/downloads/?search=Release&c=7&c=87&page=1) haben wir die externe Registrierung vorgestellt. Mit dieser Funktion können sich Personen via einem öffentlichen Link registrieren und erhalten so eine Rolle in der dazugehörigen Gruppe.
-
-Auf diese Weise registrierte Personen sehen neu keine Struktur und kein Menu Links mehr. Sie sehen also nur ihr eigenes Profil in einer minimalistischen Ansicht.
-
-## Vue lors de l'enregistrement externe
-Dans la version [1.28.21](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/790/midata-release-notes-12821/), nous avons présenté l'enregistrement externe. Cette fonction permet aux personnes de s'inscrire via un lien public et d'obtenir ainsi un rôle dans le groupe correspondant.
-
-Les personnes enregistrées de cette manière ne verront plus aucune structure ni aucun lien de menu. Ils ne voient donc que leur propre profil dans une vue minimaliste.
+Il nuovo valore è incluso anche nelle esportazioni di persone (opzione “Tutti i dettagli”). Ad esempio, le colonne negli eventi si chiamano “Fratelli e sorelle nell'evento” o nella sezione “Fratelli e sorelle nel livello”.
 
 ## Visualizzazione in caso di una registrazione esterna
 
@@ -69,19 +59,12 @@ Nella release [1.28.21](https://pfadi.swiss/it/pubblicazioni-downloads/downloads
 
 Le persone registrate in questo modo non vedono più alcuna struttura o collegamento al menu. Quindi vedono solo il loro profilo in una visualizzazione minimalista.
 
+## Cambiamenti minori
 
-
-
-## Kleinere Anpassungen
-
-- Der Tab "Gelöscht" erscheint nur noch für Personen, die Schreibrechte auf der Ebene haben
-- Rollen mit Start-Datum in der Zukunft können erfasst werden
-- Im [neuen JSON-API (seit 2023)](https://github.com/hitobito/hitobito/blob/master/doc/development/05_json_api.md) können neben Personen nun auch Gruppen gelesen werden
-- Rollen, welche im Verlauf einer Person aufgeführt werden, werden gruppiert in «Aktive Rollen», «Zukünftige Rollen» und «Inaktive Rollen».
-- Es ist möglich, eine Rolle mit einem Von-Datum in der Zukunft zu erstellen
-- Abonnements können nach Alter und Sprache gefiltert werden
-- Das unterliegende Gestaltungsframework (Bootstrap) wurde auf die aktuelle Version angehoben. Dadurch sehen Buttons und andere Elemente etwas anders aus.
-
-- Der Text des Bemerkungsfeldes bei Anlässen wurde entsprechend der Datenschutz-Informationen angepasst
-- Le texte du champ de remarque pour les événements a été adapté en fonction des informations sur la protection des données.
+- Il tab "Cancellato" ora viene visualizzato solo per le persone che dispongono dei permessi di scrittura nel livello
+- È possibile registrare i ruoli con date di inizio future
+- I ruoli elencati nella storia di una persona sono raggruppati in “Ruoli attivi”, “Ruoli futuri” e “Ruoli inattivi”.
+- Nella [nuova JSON-API (dal 2023)](https://github.com/hitobito/hitobito/blob/master/doc/development/05_json_api.md) oltre alle persone possono ora venir letti anche gruppi
+- Gli abbonamenti possono essere filtrate per età e lingua
+- Il framework di progettazione sottostante (Bootstrap) è stato aggiornato alla versione corrente. Ciò fa sì che i pulsanti e gli altri elementi abbiano un aspetto leggermente diverso
 - Il testo del campo commenti per gli eventi è stato adeguato in conformità con l'informativa sulla privacy 

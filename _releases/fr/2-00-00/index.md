@@ -10,12 +10,12 @@ lang: fr
 Conformément à la protection des données, les données personnelles qui ne sont plus utilisées sont désormais supprimées. Ce processus se fait automatiquement et selon des critères spécifiques. Diverses données de profil d'une personne sont effacées si elle n'a plus tenu de rôle pendant un certain temps et n'a pas interagi avec MiData (p. ex. pas de compte d'administrateur, participation à des événements et autres critères). Seules les personnes qui n'ont en outre pas participé à des cours ou des camps au cours des 10 dernières années sont entièrement supprimées.
 
 ❗Attention : action nécessaire❗
-Vérifie si les personnes se trouvant sous "Sans Rôle" ne sont plus nécessaires. Attribue-leur un rôle dans un groupe d'anciens ou similaire si tu veux éviter leur suppression !
+Vérifie si les personnes se trouvant sous "Sans Rôle" ne sont plus nécessaires. Attribue-leur un rôle dans un groupe d'anciens ou similaire si tu veux éviter leur suppression ! La suppression sera armée à partir de la version suivante, c'est-à-dire avril 2024.
 
 ❗Nouveau processus❗.
 La suppression manuelle de personnes, est désormais également possible pour les responsables de groupe, de région et cantonal·e. L'ancien processus de suppression via le code "!DELETE !" dans le totem est abandonné.
 
-[Plus d'informations](https://docu.scout.ch/fr/documentation/article-4)
+[Plus d'informations](/fr/documentation/article-4)
 
 ## Les remarques sont automatiquement effacées
 Le champ de remarques lors des inscriptions aux cours, camps et manifestations est désormais effacé pour les manifestations passées. Nous partons du principe que les remarques ne sont importantes qu'avant et pendant un événement. Dans le cadre de la protection des données, ces données seront donc effacées trois mois après la fin de l'événement.
@@ -37,13 +37,13 @@ Nous sommes heureux de vous présenter une fonctionnalité que nous attendions d
 
 Avec cette modification, nous introduisons en outre un nouveau type de groupe "Responsables légaux". Dans ces groupes, il est possible de gérer les parents sans leur donner des autorisations inutiles.
 
-Vers [la documentation sur les accès des parents](https://docu.scout.ch/fr/documentation/eltern)
+Vers [la documentation sur les accès des parents](/fr/documentation/eltern)
 Vers la vidéo [Inscrire son enfant au camp](https://duckduckgo.com)
 
 ## Silverscouts et Ancien·ne·s
 MiData s'enrichit d'un groupe de personnes important : les ancien·ne·s scout·e·s qui souhaitent rester en contact avec le scoutisme même après leur période d'activité. Les Silver Scouts sont désormais intégrés dans MiData, de plus les groupes ont la possibilité de créer des groupes locaux d'ancien·ne·s. Un mécanisme d'opt-in automatique facilite l'accès pour les ancien·ne·s potentiels et permet un traitement des données des ancien·ne·s conforme à la protection des données.
 
-[Plus d'informations](https://docu.scout.ch/fr/documentation/ehemalige)
+[Plus d'informations](/fr/documentation/ehemalige)
 
 ## Frères et sœurs dans le groupe
 Jusqu'à présent, il y avait deux champs pour les frères et sœurs sur le profil : le premier permettait de relier deux personnes en tant que relation de frère et sœur. Le deuxième champ était une case à cocher utilisée pour le calcul des remises. Jusqu'à présent, les deux champs n'avaient aucun lien.

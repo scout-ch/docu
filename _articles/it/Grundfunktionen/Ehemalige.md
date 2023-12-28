@@ -8,30 +8,31 @@ lang: it
 date: 21.12.2023
 ---
 
-Mit dem Release vom 9. Januar 2024 wurde die MiData um eine wichtige Personengruppe ergänzt: Ehemalige Personen, die weiterhin mit der Pfadi verbunden sein möchten.
+Con la release del 9 gennaio 2024 MiData si è ampliato per includere un importante gruppo di persone: Ex scout che vorrebbero continuare ad essere associate agli scout.
 
-Der erste Teil davon sind die Silver Scouts, das gesamtschweizerische Netzwerk von ehemaligen Pfadis. Diese erhalten eine Parallelstruktur zur PBS in der Gruppenhierarchie. Dort werden alle Silver-Scouts-Regionen abgebildet, und die bestehenden Silver Scouts als Personen importiert. Silver Scouts sehen keine aktiven Pfadis und aktive Pfadis keine Silver Scouts. Es ist aber möglich, dass ein Account in beiden Strukturen je eine Rolle hat. So muss beim Wechsel aus der aktiven Pfadiwelt zu den Silver Scouts kein neuer Account erstellt werden.
+La prima parte di queste persone sono i Silver Scouts, la rete nazionale di ex scout. Questi ricevono una struttura parallela al MSS nella gerarchia dei gruppi. Tutte le regioni dei Silver Scout sono mappate lì e i Silver Scout esistenti vengono importati come persone. I Silver Scouts non vedono scout attivi e gli scout attivi non vedono i Silver Scouts. Tuttavia, è possibile che un account abbia un ruolo in entrambe le strutture. Ciò significa che non devi creare un nuovo account quando passi dal mondo scout attivo a quello Silver Scout.
 
 ![SiSc-Regionen](/images/basicfunctions/sisc_regionen_it.png)
 
-Der zweite Teil betrifft lokale Ehemaligengruppen: Der neue Gruppentyp “Ehemalige” kann auf Ebene Abteilung erstellt werden. Dort können Personen geführt werden, die nicht mehr aktiv sind, die aber weiterhin zur Zielgruppe von Versänden oder für Ehemaligenanlässe zur Verfügung stehen wollen. Es ist auch möglich, den APV als Ehemaligengruppe zu führen. Personen mit der Rolle “Mitglied” in einer Ehemaligengruppe sehen keine anderen Personen, nur die Rolle “Leitung” hat Zugriff auf andere Personen in der Gruppe.
+La seconda parte riguarda i gruppi locali di ex scout: La nuova tipologia di gruppo “Ex” può essere creata a livello di sezione. Qui possono essere elencate le persone che non sono più attive, ma che desiderano comunque essere disponibili per il gruppo target dei mailing o per gli eventi per gli ex scout. È anche possibile gestire il gruppo degli ex scout come gruppo. Le persone con il ruolo "Membro" in un gruppo di ex scout non vedono le altre persone; solo il ruolo "Animatore" ha accesso ad altre persone nel gruppo.
 
-![Gruppe Ehemalige](/images/basicfunctions/ehemalige_de.png)
+![Gruppo ex scout](/images/documentation/manual_deletion_de.png)
 
-## Automatismus & Opt-In
-Um den Einstieg für potenzielle Silver Scouts oder lokale Ehemalige so einfach wie möglich zu gestalten, wurde ein Opt-In-Mechanismus implementiert: Nachdem eine Person die letzte Rolle in einer Ebene verloren hat, sendet die MiData eine E-Mail-Einladung zur Anmeldung für Ehemaligengruppen. In dieser E-Mail werden alle Silver-Scouts-Regionen sowie lokale Ehemaligengruppen aufgeführt, für die sich die Person anmelden kann. Konkret handelt es sich um Ehemaligengruppen dieser Ebene sowie der darüberliegenden Ebenen. Wenn du möchtest, dass deine Ehemaligengruppe ebenfalls in dieser E-Mail erscheint, kannst du die Selbstregistrierung für diese Ehemaligengruppe aktivieren. In der E-Mail-Einladung werden die Links zur Selbstregistrierung angezeigt, sodass die Person mit wenigen Klicks ein Opt-In durchführen kann. Alles andere geschieht automatisch. Sowohl aktive als auch ehemalige Benutzer können sich mit der MiData bei anderen Pfadi-Tools einloggen. Es sind also auch zukünftig gemeinsame Angebote und Tools denkbar.
+## Automatismo & Opt-In 
+Per rendere il più semplice possibile l'inizio dei potenziali Silver Scout o degli ex scout locali, è stato implementato un meccanismo Opt-In: Dopo che una persona ha perso l'ultimo ruolo in un livello, MiData invia un'e-mail di invito a registrarsi per i gruppi di ex scout. Questa email elenca tutte le regioni Silver Scouts e i gruppi locali di ex scout a cui la persona può iscriversi. Nello specifico, si tratta di gruppi di ex scout a questo livello e ai livelli superiori. Se desideri che anche il tuo gruppo di ex scout appaia in questa email, puoi attivare l'autoregistrazione per questo gruppo. L'invito e-mail mostra i link di autoregistrazione in modo che la persona possa aderire con pochi clic. Tutto il resto avviene automaticamente. Sia gli utenti attivi che gli ex scout possono accedere ad altri strumenti scout utilizzando MiData. In futuro sono possibili anche offerte e strumenti congiunti.
 
-Die folgenden Kriterien müssen erfüllt sein, damit eine Person eine E-Mail-Einladung erhält:
-- Die letzte aktive Rolle der Person in dieser Gruppe und Ebene wurde gelöscht
-- Es sind 3 Monate    verstrichen und keine aktive Rolle wurde hinzugefügt
-- Die gelöschte Rolle war mindestens 7 Tage alt (temporäre und aus Versehen gesetzte Rollen zählen nicht)
-- Die gelöschte Rolle war nicht in einer Kindergruppe (Biber, Wölfe, Pfadi, Pio, PTA)
-- Die gelöschte Rolle war nicht in einer Ehemaligengruppe
-- Falls die Rolle doch in einer Kindergruppe war, muss die Person mindestens 16 Jahre alt sein. Ist kein Geburtsdatum gesetzt, wird auch keine Ehemaligen-Rolle erstellt und kein Mail versendet
-- Es hat vorher noch keine Ehemaligenrolle in dieser Ebene existiert
-- Die Person hat eine Haupt-E-Mailadresse
+Affinché una persona possa ricevere un invito via email devono essere soddisfatti i seguenti criteri:
 
-## Wie kann ich Ehemalige verwalten?
-- Damit die Ehemaligen korrekt erfasst werden, kannst du eine Gruppe vom neuen Gruppentyp "Ehemalige" erstellen und die entsprechenden Personen dorthin verschieben.
-- Wenn du Werbung für deine Ehemaligengruppe machen möchtest, aktiviere die Selbstregistrierung in den Gruppeneinstellungen.
-- Es ist ratsam, eine passende E-Mail-Adresse für Benachrichtigungen festzulegen, damit du darüber informiert wirst, wer sich selbst registriert hat.
+- L'ultimo ruolo attivo della persona in questo gruppo e livello è stato eliminato
+- Sono trascorsi 3 mesi e non è stato aggiunto alcun ruolo attivo
+- Il ruolo eliminato risale ad almeno 7 giorni fa (i ruoli temporanei e impostati accidentalmente non contano)
+- Il ruolo cancellato non era in un gruppo di bambini (castori, lupi, esplo, pio, SOC)
+- Il ruolo eliminato non era in un gruppo di ex scout
+- Se il ruolo era in un gruppo di bambini, la persona deve avere almeno 16 anni. Se non viene impostata alcuna data di nascita, non verrà creato alcun ruolo di ex-scout e non verrà inviata alcuna email
+- Non c'è mai stato prima un ruolo di ex scout a questo livello
+- La persona ha un indirizzo email principale
+
+## Come posso gestire gli ex?
+- Per garantire che gli ex scout vengano registrati correttamente, puoi creare un gruppo del nuovo tipo di gruppo "Ex" e spostare lì le persone interessate.
+- Se vuoi pubblicizzare il tuo gruppo ex scout, attiva l'autoregistrazione nelle impostazioni del gruppo.
+- Si consiglia di impostare un indirizzo email adeguato per le notifiche in modo da essere informati su chi si è registrato.
