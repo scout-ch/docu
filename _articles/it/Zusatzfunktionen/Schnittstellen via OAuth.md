@@ -16,3 +16,7 @@ MiData è anche un provider OAuth 2.0, il che significa che un'applicazione este
 
 Se vuoi utilizzare MiData come provider OAuth per una delle tue applicazioni, devi compilare la domanda OAuth. Il supporto informatico della PBS ti concederà l'accesso al sistema produttivo a condizione che siano soddisfatte tutte le condizioni preliminari: 
 * [Applicazione OAuth](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
+
+### Istruzioni specifiche
+* [Istruzioni Wordpress OAuth](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/817/wordpress-oauth-istruzioni/)
+* [Instructions Nextcloud OAuth](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/889/istruzioni-nextcloud-oauth/)
