@@ -6,7 +6,7 @@ slug: 2-1-0
 lang: de
 ---
 
-## Abos
+## Neue Optionen in Abos
 Auf Abos gibt es neue Optionen, mit denen gesteuert werden kann wer sich selbständig für das Abo an- und abmelden kann.
 
 Bisher konnte man die selbständige Anmeldung ganz ausschalten, was der Standard war und weiterhin ist. Ausserdem konnte man die selbständige Anmeldung komplett öffnen, sodass sich beliebige Personen innerhalb und ausserhalb der Abteilung / Region / KV anmelden können. Neu gibt es eine Option zwischendrin: Mit "Nur konfigurierte Abonnenten" können nur diejenigen Rollen und Teilnehmende von Anlässen sich an- und abmelden, welche man auf dem Abonnenten-Tab erfasst.
