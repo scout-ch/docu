@@ -13,8 +13,6 @@ Finora era possibile disattivare completamente la registrazione autonoma, che er
 
 Se per un abbonamento è impostata la registrazione autonoma per gli abbonati configurati, c'è anche un nuovo parametro. L'opzione "Le persone sono iscritte per default (opt-out)" corrisponde al vecchio comportamento: Non appena una persona ottiene un ruolo specificato nell'abbonamento, viene automaticamente inclusa nell'abbonamento. La nuova opzione possibile "Le persone sono disiscritte per default (opt-in)" significa che nessuno viene aggiunto automaticamente all'abbonamento tramite un ruolo. Questa opzione è particolarmente utile nel contesto dell'opzione "Solo abbonati configurati".
 
-![Nuove opzioni per gli abbonamenti](/images/releasenotes/abos_selbstanmeldung_de.png)
-
 ## Eventi, corsi e campi
 Le risposte dei partecipanti alla domanda "Come vorresti mangiare in questa occasione? Quali sono le tue abitudini alimentari?" possono ora essere visualizzate ed esportate nell'elenco dei partecipanti.
 

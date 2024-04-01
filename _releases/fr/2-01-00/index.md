@@ -13,8 +13,6 @@ Jusqu'à présent, il était possible de désactiver complètement l'inscription
 
 Si l'inscription autonome pour les abonnés configurés est réglée pour un abonnement, il existe en outre un nouveau paramètre. L'option "Les personnes sont inscrites par défaut (opt-out)" correspond à l'ancien comportement : Dès qu'une personne obtient un rôle qui est indiqué dans l'abonnement, elle est automatiquement incluse dans l'abonnement. La nouvelle option possible "Les personnes sont désinscrites par défaut (opt-in)" a pour conséquence qu'aucune personne n'est automatiquement ajoutée à l'abonnement via un rôle. Cette option est particulièrement utile dans le cadre de l'option "Abonnés configurés uniquement".
 
-![Nouvelles options d'abonnement](/images/releasenotes/abos_selbstanmeldung_de.png)
-
 ## Événements, cours et camps
 Les réponses des participants à la question "Comment souhaites-tu t'alimenter en cette occasion? Quelles sont tes habitudes alimentaires ?" peut désormais être affichée et exportée sur la liste des participants.
 
