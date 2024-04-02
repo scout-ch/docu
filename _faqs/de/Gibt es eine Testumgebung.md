@@ -19,7 +19,7 @@ Passwort: hito42bito
 
 ### Zwei-Faktor-Authentifizierung (2FA)
 
-Achtung: Neu musst du beim Login mit dem Admin-Account einen 2FA-Code eintippen. Du kannst dafür eine beliebige OTP-App wie zum Beispiel FreeOTP, iPhone 2FA, Google Authenticator oder Bitwarden auf deinem Smartphone verwenden. In der App kannst du den [QR-Code für Hussein Kohlmann](https://pfadi.swiss/media/files/cf/totp_qr_midata_integration_hussein_kohlmann.png) einmalig einscannen und dann jeweils beim Login den 2FA-Code ablesen. (Advanced: [TOPT-Code](https://hackmd.io/@ElqEAC_xSsWHfz4LwueLgw/rJIwhSLV2) direkt verwenden)
+Achtung: Beim Login mit dem Admin-Account musst du einen 2FA-Code eintippen. Du kannst dafür eine beliebige OTP-App wie zum Beispiel FreeOTP, iPhone 2FA, Google Authenticator oder Bitwarden auf deinem Smartphone verwenden. In der App kannst du den [QR-Code für Hussein Kohlmann](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/hussein_kohlmann_2fa.png) einmalig einscannen und dann jeweils beim Login den 2FA-Code ablesen. (Advanced: TOPT-Code `MNQWMODBMRTDAYLDGIZDGMTEGUYDANDDGJSTKOBQGE2DQZBQMU3DAMDGME4TONZRMRSTSZBYMU4GEYJXGJSDOZBXMMYTGNBWGFQWKYZTMI2WKZJTG5STMMBQGBRDCZBUMYZTIMLCG5QTGNRVGA3TANJVMQYTAYJWGJRDIYLDMM3DAM3CMNSTQNLCGI2GGYTBGY3TKYRQG5QTG` direkt verwenden)
 
 ### E-Mails
 
