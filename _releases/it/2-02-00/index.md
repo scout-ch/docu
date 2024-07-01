@@ -8,13 +8,11 @@ lang: it
 
 ## Pagina personale
 Nella pagina panoramica di una persona, sotto le qualifiche, ora troverai una voce relativa all'economia domestica in cui vive la persona. Se non vive in una casa con un'altra persona, lì non verrà visualizzata alcuna voce. Altrimenti vengono elencate tutte le persone dell'economia domestica.\
-L’economia domestica può essere modificata utilizzando i pulsanti “Crea”, “Gestisci” e “Sciogli”. "Crea" è attivo solo se non esiste ancora un’economia domestica per questa persona e gli altri due pulsanti sono attivi solo se fa già parte di un’economia domestica.
-
+L’economia domestica può essere modificata utilizzando i pulsanti “Crea”, “Gestisci” e “Sciogli”. "Crea" è attivo solo se non esiste ancora un’economia domestica per questa persona e gli altri due pulsanti sono attivi solo se fa già parte di un’economia domestica.\
 Inoltre, la struttura degli indirizzi è stata adeguata e ulteriormente perfezionata. Ora è possibile inserire la via, il numero civico e la casella postale in un campo separato.
 
 ## Aggiustamenti nel filtro delle persone
 Ora puoi filtrare per ulteriori qualifiche e ruoli nel filtro delle persone. Per le qualifiche è possibile selezionare le seguenti opzioni:
-
 - Qualifiche scadute, non valide né riattivabili
 - Nessuna qualifica mai concessa
 

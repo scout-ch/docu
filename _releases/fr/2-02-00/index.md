@@ -8,13 +8,11 @@ lang: fr
 
 ## Page personnelle
 Sur la page d’aperçu d’une personne, tu trouveras désormais sous les qualifications la mention du ménage dans lequel la personne habite. Si elle ne vit pas dans un ménage avec une autre personne, aucune entrée n'est affichée à cet endroit. Sinon, toutes les personnes du même ménage y sont listées.\
-Il est possible d'éditer le ménage via les boutons 'Créer', 'Gérer' et 'Dissoudre'. Créer' n'est actif que si aucun ménage n’est déjà existant pour cette personne et les deux autres boutons uniquement si elle se trouve déjà dans un ménage.
-
+Il est possible d'éditer le ménage via les boutons 'Créer', 'Gérer' et 'Dissoudre'. Créer' n'est actif que si aucun ménage n’est déjà existant pour cette personne et les deux autres boutons uniquement si elle se trouve déjà dans un ménage.\
 En outre, la structure des adresses a été adaptée et affinée. Il est désormais possible d'indiquer la rue, le numéro de domicile et la boîte postale dans un champ séparé.
 
 ## Ajustement du filtre de la personne
 Tu pourras désormais rechercher d'autres qualifications et rôles dans le filtre de la personne. Pour les qualifications, tu pourras sélectionner les options suivantes :
-
 - Qualifications expirées, qui peuvent être non valides ou réactivées par la suite
 - Aucune qualification jamais attribuée
 
