@@ -23,4 +23,6 @@ Considera quanto segue:
 * E-mail (Tab "Dati di contatto")
 * Social media (Tab "Dati di contatto")
 
+**Nota bene: se non si inserisce un punto d'incontro, il tuo sezione scout non apparirà nel trova-scout.**
+
 Come sempre trovi il trova-scout all’indirizzo [https://pfadi.swiss/it/go/partecipare](https://pfadi.swiss/it/go/partecipare/). Le tue modifiche in MiData vengono trasferite ogni notte allo trova-scout! 

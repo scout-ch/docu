@@ -21,4 +21,6 @@ Veuillez prendre en compte:
 * Adresse e-mail (Onglet "Coordonnées")
 * Réseaux sociaux (Onglet "Coordonnées")
 
+**Attention : si tu n'indiques pas de lieu de rencontre, ton groupe scout n'apparaîtra pas non plus dans la recherche des groupes.**
+
 Vous trouverez la recherche des groupes sous [https://scout.ch/fr/go/participer](https://scout.ch/fr/go/participer). Vos modifications dans MiData seront reprises chaque nuit dans la recherche de groupes scouts !

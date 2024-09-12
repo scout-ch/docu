@@ -7,7 +7,9 @@ order: C04
 
 Seit Januar 2022 werden die Angaben für den Pfadifinder direkt aus der Gruppenseite deiner Abteilung in der MiData ausgelesen. Um die Daten anzupassen, kannst du die Abteilung in der MiData bearbeiten (Reiter "info" und "Bearbeiten").
 
+
 Bitte bedenke folgendes:
+
 
 **Es werden folgende Daten übermittelt:**
 * Name der Abteilung
@@ -20,5 +22,7 @@ Bitte bedenke folgendes:
   * Die Treffpunkte sind im Format WGS84 (Dezimalgrad) auf 6 Nachkommastellen genau zu erfassen.
 * E-Mail (Reiter "Kontaktangaben")
 * Social Media (Reiter "Kontaktangaben")
+
+**Achtung: Wenn du keinen Treffpunkt angibst, dann erscheint deine Pfadi-Abteilung auch nicht im Pfadi-Finder**
 
 Du findest den Pfadi-Finder wie gewohnt unter [pfadi.swiss/de/go/mitmachen/](https://pfadi.swiss/de/go/mitmachen/). Deine Änderungen in der MiData werden jeweils nächtlich in den Pfadi-Finder übernommen!
