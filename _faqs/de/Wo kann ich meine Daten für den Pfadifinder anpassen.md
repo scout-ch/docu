@@ -21,4 +21,6 @@ Bitte bedenke folgendes:
 * E-Mail (Reiter "Kontaktangaben")
 * Social Media (Reiter "Kontaktangaben")
 
+**Achtung: Wenn du keinen Treffpunkt angibst, dann erscheint deine Pfadi-Abteilung auch nicht im Pfadi-Finder**
+
 Du findest den Pfadi-Finder wie gewohnt unter [pfadi.swiss/de/go/mitmachen/](https://pfadi.swiss/de/go/mitmachen/). Deine Änderungen in der MiData werden jeweils nächtlich in den Pfadi-Finder übernommen!
