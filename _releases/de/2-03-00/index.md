@@ -1,5 +1,5 @@
 ---
-title: MiData Release 2.02.00
+title: MiData Release 2.03.00
 date: '01.10.2024'
 categories: '2.03'
 slug: 2-03-00
