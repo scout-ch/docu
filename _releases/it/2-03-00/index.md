@@ -14,6 +14,9 @@ En plus de cette vue, le champ « Vit dans le ménage avec » disparait afin
 Lors de la synchronisation d’un abonnement de MiData avec MailChimp, tous les contacts de MailChimp qui ne se trouvaient pas dans l’abonnement de MiData étaient jusqu’à présent supprimés. Par conséquent, les contacts qui n’avaient pas été ajoutés via MiData étaient également perdus.
 Désormais, seuls les contacts de MailChimp qui ont été ajoutés par MiData sont supprimés par la synchronisation de MiData.
 
+## NUMERO AVS
+È previsto che Il numero AVS scompaia dal profilo personale. La prima Implementazione graduale avviene ora con questa release. Nei dettagli per la registrazione ad un evento è ora presente una domanda predefinita relativa al numero AVS. Questa domanda è attualmente impostata di default su “non visualizzata”. Se necessario, questo può essere modificato in modo che le persone debbano indicare il proprio numero AVS al momento dell’iscrizione all’evento.
+
 ## Adaptions Mineurs
 - Pour les questions à choix multiples dans les événements, les différentes possibilités de sélection sont désormais affichées sur une ligne séparée afin de garantir une meilleure vue d’ensemble.
 

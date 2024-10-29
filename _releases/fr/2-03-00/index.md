@@ -14,6 +14,9 @@ Oltre a questa visualizzazione scompare il campo «Vive nell'economia domestica 
 Fino ad ora, quando un abbonamento MiData veniva sincronizzato con Mailchimp, tutti i contatti in Mailchimp che non erano presenti nell'abbonamento MiData venivano eliminati. Ciò significa che sono stati eliminati anche i contatti che non sono stati aggiunti tramite MiData.
 Ora solo i contatti di Mailchimp aggiunti da MiData verranno eliminati tramite la sincronizzazione MiData.
 
+## Numéro AVS
+Le numéro AVS doit disparaître du profil personnel. La première mise en œuvre progressive a lieu dès maintenant avec cette nouvelle version. Il existe désormais une question prédéfinie sur le numéro AVS dans les données d'inscription à un événement. Cette question est actuellement réglée par défaut sur 'Non affiché'. En cas de besoin, il est possible de la modifier de manière à ce que les personnes doivent indiquer leur numéro AVS lors de l'inscription à la manifestation.
+
 ## Cambiamenti minori
 - Per le domande a scelta multipla negli eventi, le singole opzioni di selezione vengono ora visualizzate su una riga separata per garantire una migliore panoramica.
 

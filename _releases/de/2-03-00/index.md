@@ -14,6 +14,9 @@ Zusätzlich zu dieser Ansicht verschwindet das Feld ‘Wohnt im Haushalt mit’,
 Bei einer Synchronisation eines Abos aus der MiData mit Mailchimp wurden bis anhin alle Kontakte in Mailchimp, die sich nicht im Abo der MiData befanden, gelöscht. Somit wurden auch Kontakte gelöscht, die nicht über die MiData hinzugefügt worden sind.
 Neu werden jetzt nur noch die Kontakte aus Mailchimp durch die MiData-Synchronisierung gelöscht, welche auch durch die MiData hinzugefügt worden sind.
 
+## AHV-Nummer
+Die AHV-Nummer soll aus dem persönlichen Profil verschwinden. Die erste schrittweise Umsetzung erfolgt jetzt mit diesem Release. Neu gibt es auf einem Anlass bei den Anmeldeangaben eine vorgefertigte Frage zur AHV-Nummer. Diese Frage ist momentan per Default auf ‘Nicht angezeigt’ gestellt. Bei Bedarf kann das entsprechend geändert werden, sodass die Personen bei der Anlass-Anmeldung ihre AHV-Nummer hinterlegen müssen.
+
 ## Kleinere Anpassungen
 - Bei Multiple-Choice Fragen in Events werden die einzelnen Auswahlmöglichkeiten neu jeweils auf einer separaten Zeile angezeigt, um eine bessere Übersicht zu gewährleisten.
 
