@@ -3,25 +3,25 @@ title: MiData Release 2.03.00
 date: '01.10.2024'
 categories: '2.03'
 slug: 2-03-00
-lang: it
+lang: fr
 ---
 
-## Visualizzazione dell’economia domestica
-La vecchia visualizzazione dell’economia domestica non esiste più e viene sostituita da una nuova visualizzazione. Questa si trova sotto le qualifiche. In questa visualizzazione il nucleo domestico può venir gestito, cioè ingrandito, rimpicciolito oppure cancellato.
-Oltre a questa visualizzazione scompare il campo «Vive nell'economia domestica con», questo per fare in modo che le informazioni sull'economia domestica vengano visualizzate solo in un unico posto.
+## Affichage du Ménage
+L’ancien affichage du ménage n’existe plus et est remplacé par un nouveau. Celui-ci se trouve sous les qualifications. Dans cet aperçu, il est également possible de gérer le ménage, c’est-à-dire de l’agrandir, de le réduire ou de le supprimer.
+En plus de cette vue, le champ « Vit dans le ménage avec » disparait afin de n’afficher les informations concernant le ménage qu’à un seul endroit.
 
-## Gestione account Mailchimp
-Fino ad ora, quando un abbonamento MiData veniva sincronizzato con Mailchimp, tutti i contatti in Mailchimp che non erano presenti nell'abbonamento MiData venivano eliminati. Ciò significa che sono stati eliminati anche i contatti che non sono stati aggiunti tramite MiData.
-Ora solo i contatti di Mailchimp aggiunti da MiData verranno eliminati tramite la sincronizzazione MiData.
+## Gestion du compte Mailchimp
+Lors de la synchronisation d’un abonnement de MiData avec MailChimp, tous les contacts de MailChimp qui ne se trouvaient pas dans l’abonnement de MiData étaient jusqu’à présent supprimés. Par conséquent, les contacts qui n’avaient pas été ajoutés via MiData étaient également perdus.
+Désormais, seuls les contacts de MailChimp qui ont été ajoutés par MiData sont supprimés par la synchronisation de MiData.
 
-## Numéro AVS
-Le numéro AVS doit disparaître du profil personnel. La première mise en œuvre progressive a lieu dès maintenant avec cette nouvelle version. Il existe désormais une question prédéfinie sur le numéro AVS dans les données d'inscription à un événement. Cette question est actuellement réglée par défaut sur 'Non affiché'. En cas de besoin, il est possible de la modifier de manière à ce que les personnes doivent indiquer leur numéro AVS lors de l'inscription à la manifestation.
+## NUMERO AVS
+È previsto che Il numero AVS scompaia dal profilo personale. La prima Implementazione graduale avviene ora con questa release. Nei dettagli per la registrazione ad un evento è ora presente una domanda predefinita relativa al numero AVS. Questa domanda è attualmente impostata di default su “non visualizzata”. Se necessario, questo può essere modificato in modo che le persone debbano indicare il proprio numero AVS al momento dell’iscrizione all’evento.
 
-## Cambiamenti minori
-- Per le domande a scelta multipla negli eventi, le singole opzioni di selezione vengono ora visualizzate su una riga separata per garantire una migliore panoramica.
+## Adaptions Mineurs
+- Pour les questions à choix multiples dans les événements, les différentes possibilités de sélection sont désormais affichées sur une ligne séparée afin de garantir une meilleure vue d’ensemble.
 
-## Cambiamenti tecnici
-- Le applicazioni di terze parti possono utilizzare l'API per modificare i ruoli di una persona, ad esempio per poterla aggiungere al gruppo di abbonamento corrispondente dopo aver acquistato un abbonamento a una rivista.
+## Adaptions techniques
+- Des applications tierces peuvent modifier les rôles d’une personne via l’API, afin de pouvoir l’ajouter au groupe d’abonnement correspondant après l’achat d’un abonnement à un magazine par exemple.
 
-## Bugfixes
-- Sono stati risolti diversi bug riguardanti la nuova struttura degli indirizzi. 
+## Correction des bugs
+- Plusieurs bugs concernant la nouvelle structure d’adresses ont été corrigés. 
