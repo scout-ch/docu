@@ -9,7 +9,7 @@ lang: de
 ## Anzeige des Rechnungstextes bei Mahnungen
 Neu kann beim Erstellen einer Mahnung ausgewählt werden, ob der Rechnungstext der vorangegangenen Rechnung, noch zusätzlich dargestellt werden soll. Dieser wurde vorher standardmässig dargestellt, was dazu geführt hat, dass gewisse Mahnungen einen zu langen und nicht relevanten Text beinhaltet haben.
 
-## Textvorlagen für rechnungen
+## Textvorlagen für Rechnungen
 In den Einstellungen für die Rechnung können jetzt Textvorlagen neu erstellt werden. Diese können beim Erstellen der Rechnungen direkt ausgewählt werden. In der Vorlage kann der Titel und der Rechnungstext jeweils spezifiziert werden.
 
 ## Mehrere Anhänge bei Events
