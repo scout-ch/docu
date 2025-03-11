@@ -24,6 +24,7 @@ Where
 
 ### Videos
 Videos must be uploaded to a video platform and then embedded in your Markdown file. Videos cannot be hosted on this platform.
+Ideally, you should contact the [secretariat from PBS](https://pfadi.swiss/en/f/contact-us/). This will allow us to save the video on our YouTube channel and ensure that it remains accessible in the future.
 
 ## Changing the site structure, look and feel
 If you have bigger changes in mind, please first discuss the change via issue. Someone from Team MiData or the national office will review your idea and maybe even have advice on how to proceed about it. Pull requests should be reviewed from at least one person in order to maintain a good quality in the code.
