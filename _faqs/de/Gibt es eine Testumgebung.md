@@ -28,3 +28,4 @@ Die Mails aus der Testumgebung werden nicht ausgeliefert, sondern in einer zentr
 Link: https://mailtrap.io
 Benutzername: hitobito-pbs ( at ) puzzle.ch
 Passwort: XydDHtAqZIQh7igTD
+2FA: TOTP-Code XOKUUE4SEROJWI2S2TS6SFT5VPMN6UPN oder via [QR-Code](https://pfadi.swiss/media/files/11/2fa_midata_integration_puzzle_mailtrap.png)
