@@ -21,7 +21,7 @@ Vous avez l'opportunité de donner un nom à votre liste de diffusion, et une de
 
 <img src="/images/documentation/creationabonnement_general.png"/>
 
-Vous remarquerez aussi que vous devez choisir qui peux s'inscrire et se désincrire. Notez bien que si vous choisisez "tous", votre lsite de diffusion sera alors visible au sein de MiData pour tous les utilisateurs, nous vous recommandons d'utiliser uniquement la fonction "personne" ou "abonnés configurés uniquement".
+Vous remarquerez aussi que vous devez choisir qui peux s'inscrire et se désincrire. Notez bien que si vous choisisez "tous", votre liste de diffusion sera alors visible au sein de MiData pour tous les utilisateurs, nous vous recommandons d'utiliser uniquement la fonction "personne" ou "abonnés configurés uniquement".
 
 Vous pourrez ensuite aller dans "liste de diffusion (e-mail), et configurer le mail de la liste qui doit terminer par le numéro d'identification spécifique à votre groupe (abréviation cantonal + numéro du groupe).
 
