@@ -10,7 +10,7 @@ date: 22.03.2025
 
 Les listes de diffusions sont essentielles à la vie du groupe, dans cet onglet, nous t'apprendrons à créer tes propres listes de diffusions et t'accompagnerons dans la mise en place des diverses possibilités qui s'offre à toi et ton groupe.
 
-Les listes de diffusions sont créées à partir de l'onglet Abonnement, là, vous pourrez générez, gérer et créer des nouvelles lsites de diffusions appelé "Abonnements" au sein de MiData.
+Les listes de diffusions sont créées à partir de l'onglet Abonnement, là, vous pourrez générez, gérer et créer des nouvelles listes de diffusions faisant parties des "Abonnements" au sein de MiData.
 
 <img src="/images/documentation/Abonnements.png"/>
 
