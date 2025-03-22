@@ -28,3 +28,4 @@ Les e-mails de l'environnement de test ne sont pas livrés, mais rassemblés dan
 Lien : https://mailtrap.io
 Nom d'utilisateur : hitobito-pbs ( at ) puzzle.ch
 Mot de passe : XydDHtAqZIQh7igTD
+2FA: TOTP-Code XOKUUE4SEROJWI2S2TS6SFT5VPMN6UPN, [QR-Code](https://pfadi.swiss/media/files/11/2fa_midata_integration_puzzle_mailtrap.png)

@@ -28,3 +28,4 @@ Le e-mail dell'ambiente di prova non vengono consegnate, ma raccolte in una case
 Link: https://mailtrap.io
 Nome utente: hitobito-pbs ( at ) puzzle.ch
 Password: XydDHtAqZIQh7igTD
+2FA: TOTP-Code XOKUUE4SEROJWI2S2TS6SFT5VPMN6UPN, [QR-Code](https://pfadi.swiss/media/files/11/2fa_midata_integration_puzzle_mailtrap.png)
