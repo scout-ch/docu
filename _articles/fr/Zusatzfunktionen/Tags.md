@@ -3,7 +3,7 @@ title: Tags
 slug: tags_howto
 categories: 3_Fonctions&nbsp;Supplémentaires
 cat_sort: C
-relevance: Webmaster
+relevance: Webmaster, RG, RG-adj.
 lang: fr
 date: 22.03.2025
 ---
