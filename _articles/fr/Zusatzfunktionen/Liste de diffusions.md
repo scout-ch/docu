@@ -35,3 +35,5 @@ Depuis ton menu abonné, tu as la possibilité de générer une facture (par mai
 Depuis ton menu "message", tu aura la possiblité de générer une lettre, un SMS ou établire une facture (par la poste).
 
 Pour utiliser le mail de ton abonnement, il te faut retourner sur "informations" pour utiliser le mail généré te servant de liste de diffusion. Tu as aussi la possiblité de l'utiliser directement depuis le menu général des abonnements.
+
+<img src="/images/documentation/exemple_abo.png"/>
