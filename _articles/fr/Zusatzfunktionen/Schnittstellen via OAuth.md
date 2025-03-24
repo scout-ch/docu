@@ -16,5 +16,6 @@ Si tu veux utiliser MiData comme fournisseur OAuth pour l'une de tes application
 * [demande d'application OAuth](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
 
 ### Instructions spécifiques
-* [Instructions Wordpress OAuth](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/817/wordpress-oauth-instructions/)
+* [Instructions Joomla! OAuth](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf)
+* [Instructions WordPress OAuth](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/817/wordpress-oauth-instructions/)
 * [Instructions Nextcloud OAuth](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/889/instructions-nextcloud-oauth/)
