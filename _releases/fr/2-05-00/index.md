@@ -29,7 +29,7 @@ lang: fr
 - Il est désormais possible de définir une adresse e-mail à laquelle les entrées du journal Hitobito seront envoyées. ([sac_cas#1560](https://github.com/hitobito/hitobito_sac_cas/issues/1560))
 - Il est désormais possible de sélectionner l'option «est vide» pour les attributs dans le filtre de personnes. ([#3148](https://github.com/hitobito/hitobito/issues/3148))
 
-## Technische Anpassungen
+## Adaptations techniques
 - Changements de l'API : suite à des ajustements dans le calcul de la validité des rôles, les attributs API suivants ont été supprimés dans la version 2.4.0 : deleted_at, delete_on, convert_on et convert_to. À la place, les nouveaux attributs suivants ont été introduits : created_at, start_on et end_on. ([#2775](https://github.com/hitobito/hitobito/issues/2775))
 
 ## Bugfixes
