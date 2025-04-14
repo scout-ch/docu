@@ -6,17 +6,15 @@ slug: 2-05-00
 lang: de
 ---
 
-## Umgang mit AHV-Nummern
+## Speicherung der AHV-Nummern
 - AHV-Nummern können ab sofort nicht mehr im Profil einer Person gespeichert werden. ([hitobito_youth#58](https://github.com/hitobito/hitobito_youth/issues/58))
 - Mit dieser Massnahme wird der Datenschutz gestärkt. Hintergründe dazu [auf GitHub (#2162)](https://github.com/hitobito/hitobito/issues/2162).
 - Um neue Teilnehmende in die NDS zu importieren, können die AHV-Nummern temporär in Lagern und Kursen gespeichert werden.
 - Im Rahmen dieser Änderung wurden einmalig alle AHV-Nummern auf bestehende Lager und Kurse migriert. ([hitobito_youth#59](https://github.com/hitobito/hitobito_youth/issues/59))
 
-## Anlässe
+## Anlässe und Kurse
 - Bei Teilnehmenden an Events können die Eventemails neu manuell erneut versendet werden. ([sac_cas#1571](https://github.com/hitobito/hitobito_sac_cas/issues/1571))
 - Wird auf einem Event eine Person von den Anmeldungen zugeteilt, oder wieder zu den Anmeldungen verschoben, kann neu ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
-
-## Kurse
 - Wird bei einem Kurs eine Person neu hinzugefügt, kann jetzt ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
 
 ## Rechnungen
