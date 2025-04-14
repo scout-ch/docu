@@ -13,14 +13,14 @@ lang: de
 - Im Rahmen dieser Änderung wurden einmalig alle AHV-Nummern auf bestehende Lager und Kurse migriert. ([hitobito_youth#59](https://github.com/hitobito/hitobito_youth/issues/59))
 
 ## Anlässe
-- Wird auf einem Event eine Person von den Anmeldungen zugeteilt, oder wieder zu den Anmeldungen verschoben, kann neu ausgewählt werden, dass keine E-Mail versendet werden soll. (sac_cas#1572)
 - Bei Teilnehmenden an Events können die Eventemails neu manuell erneut versendet werden. ([sac_cas#1571](https://github.com/hitobito/hitobito_sac_cas/issues/1571))
+- Wird auf einem Event eine Person von den Anmeldungen zugeteilt, oder wieder zu den Anmeldungen verschoben, kann neu ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
 
 ## Kurse
 - Wird bei einem Kurs eine Person neu hinzugefügt, kann jetzt ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
 
 ## Rechnungen
-- Mahntexte für Rechnungen können nun mehrsprachig erfasst werden. Sie werden jeweils in der Sprache der zu mahnenden Person versendet. (sww#198)
+- Mahntexte für Rechnungen können nun mehrsprachig erfasst werden. Sie werden jeweils in der Sprache der zu mahnenden Person versendet. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
 - In den Rechnungseinstellungen kann jetzt eine QR-Referenz für Banken angegeben werden. Die QR-Referenz ersetzt die ersten fünf bis sieben Ziffern der Referenznummer auf Rechnungen. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
 
 ## Weitere Anpassungen
