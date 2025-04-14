@@ -6,35 +6,33 @@ slug: 2-05-00
 lang: it
 ---
 
-## Umgang mit AHV-Nummern
-- AHV-Nummern können ab sofort nicht mehr im Profil einer Person gespeichert werden. ([hitobito_youth#58](https://github.com/hitobito/hitobito_youth/issues/58))
-- Mit dieser Massnahme wird der Datenschutz gestärkt. Hintergründe dazu [auf GitHub (#2162)](https://github.com/hitobito/hitobito/issues/2162).
-- Um neue Teilnehmende in die NDS zu importieren, können die AHV-Nummern temporär in Lagern und Kursen gespeichert werden.
-- Im Rahmen dieser Änderung wurden einmalig alle AHV-Nummern auf bestehende Lager und Kurse migriert. ([hitobito_youth#59](https://github.com/hitobito/hitobito_youth/issues/59))
+## Memorizzazione dei numeri AVS
+- I numeri AVS non possono più essere salvati nel profilo di una persona. ([hitobito_youth#58](https://github.com/hitobito/hitobito_youth/issues/58))
+- Questa misura rafforza la protezione dei dati. Informazioni di base [su GitHub (#2162)](https://github.com/hitobito/hitobito/issues/2162).
+- Per importare nuovi partecipanti nella BDNS, i numeri AVS possono essere temporaneamente memorizzati in campi e corsi.
+- Nell'ambito di questa modifica, tutti i numeri AVS sono stati trasferiti una volta sola ai campi e ai corsi esistenti. ([hitobito_youth#59](https://github.com/hitobito/hitobito_youth/issues/59))
 
-## Anlässe
-- Bei Teilnehmenden an Events können die Eventemails neu manuell erneut versendet werden. ([sac_cas#1571](https://github.com/hitobito/hitobito_sac_cas/issues/1571))
-- Wird auf einem Event eine Person von den Anmeldungen zugeteilt, oder wieder zu den Anmeldungen verschoben, kann neu ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
+## Eventi e corsi
+- Per i partecipanti agli eventi, le e-mail relative agli eventi possono ora essere inviate nuovamente manualmente. ([sac_cas#1571](https://github.com/hitobito/hitobito_sac_cas/issues/1571))
+- Se a un evento una persona viene assegnata alle iscrizioni o spostata nuovamente alle iscrizioni, è possibile selezionare di nuovo che non deve essere inviata alcuna e-mail. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
+- Se una persona viene aggiunta a un corso, ora è possibile scegliere di non inviare alcuna e-mail. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
 
-## Kurse
-- Wird bei einem Kurs eine Person neu hinzugefügt, kann jetzt ausgewählt werden, dass keine E-Mail versendet werden soll. ([sac_cas#1572](https://github.com/hitobito/hitobito_sac_cas/issues/1572))
+## Fatture
+- I testi di sollecito per le fatture possono ora essere inseriti in più lingue. Vengono inviati nella lingua della persona da sollecitare. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
+- Nelle impostazioni della fattura è ora possibile specificare un riferimento QR per le banche. Il riferimento QR sostituisce le prime cinque-sette cifre del numero di riferimento sulle fatture. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
 
-## Rechnungen
-- Mahntexte für Rechnungen können nun mehrsprachig erfasst werden. Sie werden jeweils in der Sprache der zu mahnenden Person versendet. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
-- In den Rechnungseinstellungen kann jetzt eine QR-Referenz für Banken angegeben werden. Die QR-Referenz ersetzt die ersten fünf bis sieben Ziffern der Referenznummer auf Rechnungen. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
+## Ulteriori adeguamenti
+- Le voci nella cronologia di una persona sono ora ordinate cronologicamente. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
+- Gli attributi di indirizzo introdotti con la versione 2.4.0 sono ora correttamente inclusi anche nelle esportazioni di persone. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
+- Se la ricerca globale viene confermata con Invio e si ottiene esattamente un risultato, ora si viene reindirizzati direttamente alla pagina corrispondente invece di visualizzare i risultati della ricerca. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
+- Nelle visualizzazioni impaginate, ora è possibile selezionare tutti i risultati, anche se ci sono più pagine di risultati. ([sww#172](https://github.com/hitobito/hitobito_sww/issues/172))
+- Ora è possibile definire un'e-mail a cui vengono inviate le voci dal log di Hitobito. ([sac_cas#1560](https://github.com/hitobito/hitobito_sac_cas/issues/1560))
+- Ora è possibile selezionare l'opzione “è vuoto” per gli attributi nel filtro persone. ([#3148](https://github.com/hitobito/hitobito/issues/3148))
 
-## Weitere Anpassungen
-- Einträge im Verlauf einer Person sind neu chronologisch sortiert. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
-- Die mit Release 2.4.0 eingeführten Adressattribute sind nun auch in den Personenexporten korrekt enthalten. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
-- Wird die globale Suche mit Enter bestätigt und ergibt genau ein Treffer, wird nun direkt zur entsprechenden Seite weitergeleitet, anstatt die Suchergebnisse anzuzeigen. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
-- In Ansichten, welche paginiert sind, können neu alle Ergebnisse ausgewählt werden, auch wenn es mehrere Seiten von Ergebnissen hat. ([sww#172](https://github.com/hitobito/hitobito_sww/issues/172))
-- Neu kann eine E-Mail definiert werden, an welche Einträge vom Hitobito-Log versendet werden. ([sac_cas#1560](https://github.com/hitobito/hitobito_sac_cas/issues/1560))
-- Neu kann im Personenfilter auch die Option «ist leer» für Attribute ausgewählt werden. ([#3148](https://github.com/hitobito/hitobito/issues/3148))
-
-## Technische Anpassungen
-- API-Changes: Durch Anpassungen in der Berechnung der Rollengültigkeiten entfielen mit Release 2.4.0 die folgenden API-Attribute: deleted_at, delete_on, convert_on und convert_to. Stattdessen wurden die neuen Attribute eingeführt: created_at, start_on und end_on. ([#2775](https://github.com/hitobito/hitobito/issues/2775))
+## Adattamenti tecnici
+- Modifiche API: con la versione 2.4.0, gli attributi API seguenti sono stati eliminati a seguito di modifiche nel calcolo della validità dei ruoli: deleted_at, delete_on, convert_on e convert_to.Al loro posto sono stati introdotti i nuovi attributi: created_at, start_on e end_on. ([#2775](https://github.com/hitobito/hitobito/issues/2775))
 
 ## Bugfixes
-- Die Datumsauswahl in der Selbstregistrierung ermöglicht nun wieder die korrekte Auswahl des Jahres. ([#3178](https://github.com/hitobito/hitobito/issues/3178))
-- Die Exportfunktion wurde optimiert, sodass grosse Exporte nun zuverlässiger durchlaufen.
-- Zudem wurden verschiedene Server-Fehler behoben, wodurch die Anzahl der 500er-Fehler reduziert wird.
+- La selezione della data nell'autoregistrazione ora consente di selezionare correttamente l'anno. ([#3178](https://github.com/hitobito/hitobito/issues/3178))
+- La funzione di esportazione è stata ottimizzata in modo che le esportazioni di grandi dimensioni siano ora più affidabili.
+- Inoltre, sono stati corretti vari errori del server, riducendo il numero di errori 500.
