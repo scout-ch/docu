@@ -27,7 +27,7 @@ lang: de
 - Einträge im Verlauf einer Person sind neu chronologisch sortiert. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
 - Die mit Release 2.4.0 eingeführten Adressattribute sind nun auch in den Personenexporten korrekt enthalten. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
 - Wird die globale Suche mit Enter bestätigt und ergibt genau ein Treffer, wird nun direkt zur entsprechenden Seite weitergeleitet, anstatt die Suchergebnisse anzuzeigen. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
-- In Ansichten, welche paginiert sind, können neu alle Ergebnisse ausgewählt werden, auch wenn es mehrere Seiten von Ergebnissen hat. (sww#172)
+- In Ansichten, welche paginiert sind, können neu alle Ergebnisse ausgewählt werden, auch wenn es mehrere Seiten von Ergebnissen hat. ([sww#172](https://github.com/hitobito/hitobito_sww/issues/172))
 - Neu kann eine E-Mail definiert werden, an welche Einträge vom Hitobito-Log versendet werden. ([sac_cas#1560](https://github.com/hitobito/hitobito_sac_cas/issues/1560))
 - Neu kann im Personenfilter auch die Option «ist leer» für Attribute ausgewählt werden. ([#3148](https://github.com/hitobito/hitobito/issues/3148))
 
