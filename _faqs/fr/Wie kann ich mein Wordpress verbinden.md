@@ -5,4 +5,7 @@ lang: fr
 order: E04
 ---
 
-Pour cela, il y a des [instructions](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/817/wordpress-oauth-instructions/) pour la mise en place. Merci à Phönix !
+Pour cela, il existe un plugin WordPress qui est enregistré sur [GitHub](https://github.com/scout-ch/wp-hitobito-auth).
+Pour que tu aies toujours la dernière version installée, il est judicieux de sauvegarder le dépôt GitHub.
+
+Merci à Vivo!
