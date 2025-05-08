@@ -13,7 +13,7 @@ MiData est également un fournisseur OAuth 2.0, ce qui signifie qu'une applicati
 * [Spécification (anglais)](https://github.com/hitobito/hitobito/blob/master/doc/developer/people/oauth.md)
 
 Si tu veux utiliser MiData comme fournisseur OAuth pour l'une de tes applications, tu dois remplir la demande OAuth. Le support informatique du MSdS t'accordera un accès au système productif, dans la mesure où toutes les conditions préalables sont remplies : 
-* [demande d'application OAuth](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
+* [demande d'application OAuth](https://forms.cloud.microsoft/e/926Aw4Seh0)
 
 ### Instructions spécifiques
 * [Instructions Joomla! OAuth](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf)
