@@ -19,7 +19,7 @@ Falls du Entwickler einer externen Applikation bist, welche die MiData als Authe
 
 ## Für Admins
 Wenn du die MiData als OAuth-Provider für deiner Applikationen verwenden willst, muss der IT-Support der PBS deine Applikation in MiData registrieren. Fülle dazu den OAuth-Antrag für deine Applikation aus: 
-* [Antrag OAuth Applikation](https://forms.office.com/Pages/ResponsePage.aspx?id=iq6Fcs2Xq0m9ordFTZ0Fa8gnQG-i3p9KkbcKGL9nFhtUMEpMQkYwMzQxNUVEWEIxRTNWTDhPMDVEMS4u&wdLOR=c1CBB434D-BD2A-4C4E-A417-6F0DDA2C01C8)
+* [Antrag OAuth Applikation](https://forms.cloud.microsoft/e/926Aw4Seh0)
 
 ### Verfügbare OAuth Plugins
 Für einige Applikationen existieren Plugins, welche die Implementierung des Logins via OAuth-API für dich machen. Folgend die Anleitungen, wie diese Plugins installiert und eingerichtet werden müssen:
