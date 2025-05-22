@@ -19,7 +19,17 @@ Passwort: hito42bito
 
 ### Zwei-Faktor-Authentifizierung (2FA)
 
-Achtung: Beim Login mit dem Admin-Account musst du einen 2FA-Code eintippen. Du kannst dafür eine beliebige OTP-App wie zum Beispiel FreeOTP, iPhone 2FA, Google Authenticator oder Bitwarden auf deinem Smartphone verwenden. In der App kannst du den [QR-Code für Hussein Kohlmann](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/hussein_kohlmann_2fa.png) einmalig einscannen und dann jeweils beim Login den 2FA-Code ablesen. (Advanced: TOPT-Code `MNQWMODBMRTDAYLDGIZDGMTEGUYDANDDGJSTKOBQGE2DQZBQMU3DAMDGME4TONZRMRSTSZBYMU4GEYJXGJSDOZBXMMYTGNBWGFQWKYZTMI2WKZJTG5STMMBQGBRDCZBUMYZTIMLCG5QTGNRVGA3TANJVMQYTAYJWGJRDIYLDMM3DAM3CMNSTQNLCGI2GGYTBGY3TKYRQG5QTG` direkt verwenden)
+Für den Login als Admin oder Abteilungsleiter\*in brauchst du einen 2FA-Code. Du kannst dafür eine beliebige OTP-App wie zum Beispiel FreeOTP, iPhone 2FA, Google Authenticator oder Bitwarden auf deinem Smartphone verwenden. Dort kannst du den verlinkten QR-Code einscannen und dann jeweils beim Login den 2FA-Code ablesen.
+
+####  Admin (hussein_kohlmann ( at ) hitobito.example.com)
+[QR-Code für Hussein Kohlmann](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/hussein_kohlmann_2fa.png)
+
+(Alternativ: TOPT-Code `MNQWMODBMRTDAYLDGIZDGMTEGUYDANDDGJSTKOBQGE2DQZBQMU3DAMDGME4TONZRMRSTSZBYMU4GEYJXGJSDOZBXMMYTGNBWGFQWKYZTMI2WKZJTG5STMMBQGBRDCZBUMYZTIMLCG5QTGNRVGA3TANJVMQYTAYJWGJRDIYLDMM3DAM3CMNSTQNLCGI2GGYTBGY3TKYRQG5QTG` direkt verwenden)
+
+####  Abteilungsleiter\*in (letizia_wilhelm ( at ) hitobito.example.com)
+[QR-Code für Letizia Wilhelm](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/letizia_wilhelm_2fa.png)
+
+(Alternativ: TOPT-Code `MQ3DONDBMQ3WKY3EME4GKNZTHBRGEZBTGU3DSMDCGIYWGZRTGVTGKZBUMQYWIZRXGY3GENBTME2WEMBXMZTDGYZTHAZTQN3GGUZTCODCHFRTSODGMY2DCZRVMUYGGZBRMNRTMOJXHE3DIOJVMY4TAYZQGVTDSMJTGZQWGZDEGZRDGOBYMNRWCMLFGAYTKYRUGFQWCZTCGJSGM` direkt verwenden)
 
 ### E-Mails
 
