@@ -21,12 +21,12 @@ Password: hito42bito
 Attenzione: devi inserire un codice 2FA quando accedi con l'account amministratore. Puoi utilizzare qualsiasi app OTP come FreeOTP, iPhone 2FA, Google Authenticator o Bitwarden sul tuo smartphone. È possibile scansionare il codice QR collegato e leggere il codice 2FA al momento dell'accesso.
 
 ####  Admin (hussein_kohlmann ( at ) hitobito.example.com)
-[codice QR di Hussein Kohlmann](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/hussein_kohlmann_2fa.png)
+[Codice QR per Hussein Kohlmann](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/hussein_kohlmann_2fa.png)
 
 (Alternativa: utilizzare direttamente il codice TOTP `MNQWMODBMRTDAYLDGIZDGMTEGUYDANDDGJSTKOBQGE2DQZBQMU3DAMDGME4TONZRMRSTSZBYMU4GEYJXGJSDOZBXMMYTGNBWGFQWKYZTMI2WKZJTG5STMMBQGBRDCZBUMYZTIMLCG5QTGNRVGA3TANJVMQYTAYJWGJRDIYLDMM3DAM3CMNSTQNLCGI2GGYTBGY3TKYRQG5QTG`)
 
 ####  Capo sezione (letizia_wilhelm ( at ) hitobito.example.com)
-[codice QR di Letizia Wilhelm](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/letizia_wilhelm_2fa.png)
+[Codice QR per Letizia Wilhelm](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/letizia_wilhelm_2fa.png)
 
 (Alternativa: utilizzare direttamente il codice TOTP `MQ3DONDBMQ3WKY3EME4GKNZTHBRGEZBTGU3DSMDCGIYWGZRTGVTGKZBUMQYWIZRXGY3GENBTME2WEMBXMZTDGYZTHAZTQN3GGUZTCODCHFRTSODGMY2DCZRVMUYGGZBRMNRTMOJXHE3DIOJVMY4TAYZQGVTDSMJTGZQWGZDEGZRDGOBYMNRWCMLFGAYTKYRUGFQWCZTCGJSGM`)
 
