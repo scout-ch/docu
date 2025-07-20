@@ -21,7 +21,7 @@ lang: de
 - Mahntexte für Rechnungen können nun mehrsprachig erfasst werden. Sie werden jeweils in der Sprache der zu mahnenden Person versendet. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
 - In den Rechnungseinstellungen kann jetzt eine QR-Referenz für Banken angegeben werden. Die QR-Referenz ersetzt die ersten fünf bis sieben Ziffern der Referenznummer auf Rechnungen. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
 
-## Weitere Anpassungen
+## Weitere Funktionen
 - Einträge im Verlauf einer Person sind neu chronologisch sortiert. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
 - Die mit Release 2.4.0 eingeführten Adressattribute sind nun auch in den Personenexporten korrekt enthalten. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
 - Wird die globale Suche mit Enter bestätigt und ergibt genau ein Treffer, wird nun direkt zur entsprechenden Seite weitergeleitet, anstatt die Suchergebnisse anzuzeigen. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
