@@ -21,7 +21,7 @@ lang: fr
 - Les textes de relance pour les factures peuvent désormais être saisis en plusieurs langues. Ils sont envoyés dans la langue de la personne à relancer. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
 - Dans les paramètres de facturation, il est désormais possible d'indiquer une référence QR pour les banques. La référence QR remplace les cinq à sept premiers chiffres du numéro de référence sur les factures. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
 
-## Autres adaptations
+## Autres fonctions
 - Les entrées relatives à une même personne sont désormais classées par ordre chronologique. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
 - Les attributs d'adresse introduits avec la version 2.4.0 sont désormais correctement inclus dans les exportations de personnes. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
 - Si la recherche globale est confirmée par la touche Entrée et qu'elle donne exactement un résultat, l'utilisateur est alors directement redirigé vers la page correspondante au lieu d'afficher les résultats de la recherche. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
