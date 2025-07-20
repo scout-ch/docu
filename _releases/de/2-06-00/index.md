@@ -30,7 +30,7 @@ lang: de
 - Teilnehmerlisten von Anlässen tragen nun den Titel des Anlasses, öffnen sich in einem separaten Tab und listen Namen neu im Format „Nachname Vorname“ – analog zur alphabetischen Sortierung. ([sww#205](https://github.com/hitobito/hitobito_sww/issues/205))
 - Die Anmeldemaske zu Events wurde überarbeitet: Der Event-Link wird nicht mehr angezeigt; bei abgelaufener Frist oder ausgebuchtem Anlass erscheint eine entsprechende Meldung. Die Icons der An- und Abmeldebuttons wurden aktualisiert. ([sww#207](https://github.com/hitobito/hitobito_sww/issues/207))
 - Mails aus Anlassanmeldungen werden neu immer in der Sprache des Empfängers versendet. ([sww#240](https://github.com/hitobito/hitobito_sww/issues/240))
-- Eventfragen werden nun alphabetisch sortiert. . ([sac_cas#1698](https://github.com/hitobito/hitobito_sac_cas/issues/1698))
+- Eventfragen werden nun alphabetisch sortiert. ([sac_cas#1698](https://github.com/hitobito/hitobito_sac_cas/issues/1698))
 - Erstlogin-E-Mails werden ebenfalls konsequent in der Sprache der empfangenden Person verschickt. ([sww#203](https://github.com/hitobito/hitobito_sww/issues/203))
 - In der Rechnungsübersicht bei Sammelrechnungen werden neu sowohl der Titel als auch die Empfänger:innen angezeigt. ([sww#209](https://github.com/hitobito/hitobito_sww/issues/209))
 
