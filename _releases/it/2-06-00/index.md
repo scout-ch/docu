@@ -9,7 +9,7 @@ lang: it
 ## Invio di e-mail
 - I rimbalzi delle e-mail sono ora visibili in Hitobito. Le iscrizioni mostrano quali indirizzi e-mail hanno generato bounce. Se un indirizzo genera più rimbalzi, l'invio a questo indirizzo sarà impedito in futuro. Gli indirizzi interessati sono visibili in Impostazioni > Posta elettronica e sono anche indicati nei rispettivi profili personali. ([#3053](https://github.com/hitobito/hitobito/issues/3053))
 
-## Rechnungen
+## Fatture
 - È ora possibile contrassegnare ulteriori indirizzi e-mail come destinatari delle fatture. Se esistono tali indirizzi contrassegnati, le fatture e i promemoria saranno inviati solo a questi indirizzi invece che a quello principale. ([#3331](https://github.com/hitobito/hitobito/issues/3331))
 - Nelle impostazioni delle fatture è ora possibile definire testi e-mail individuali per ciascun livello. Se disponibili, questi sostituiscono i testi standard globali. ([sww#197](https://github.com/hitobito/hitobito_sww/issues/197))
 - Le fatture originali possono ora essere ristampate in qualsiasi momento, non solo il promemoria più recente. ([sww#173](https://github.com/hitobito/hitobito_sww/issues/173))
