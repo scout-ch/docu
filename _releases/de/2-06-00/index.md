@@ -12,27 +12,27 @@ lang: de
 
 ## Rechnungen
 - Zusätzliche E-Mail-Adressen können nun als Rechnungsempfänger markiert werden. Sind solche markierten Adressen vorhanden, werden Rechnungen und Mahnungen ausschliesslich an diese – anstelle der Hauptadresse – versendet. ([#3331](https://github.com/hitobito/hitobito/issues/3331))
-- In den Rechnungseinstellungen können nun pro Layer individuelle E-Mail-Texte definiert werden. Wenn vorhanden, ersetzen diese die globalen Standardtexte. (sww#197)
-- Originalrechnungen können jetzt jederzeit erneut gedruckt werden – nicht nur die jeweils aktuellste Mahnung. (sww#173)
-- Die technische Basis für eine dynamische Rechnungsstellung an Gruppen gemäss Mitgliederanzahl wurde geschaffen. Diese Funktion ist standardmässig deaktiviert. Bei Interesse kann Puzzle kontaktiert werden. (swb#18)
+- In den Rechnungseinstellungen können nun pro Layer individuelle E-Mail-Texte definiert werden. Wenn vorhanden, ersetzen diese die globalen Standardtexte. ([sww#197](https://github.com/hitobito/hitobito_sww/issues/197))
+- Originalrechnungen können jetzt jederzeit erneut gedruckt werden – nicht nur die jeweils aktuellste Mahnung. ([sww#173](https://github.com/hitobito/hitobito_sww/issues/173))
+- Die technische Basis für eine dynamische Rechnungsstellung an Gruppen gemäss Mitgliederanzahl wurde geschaffen. Diese Funktion ist standardmässig deaktiviert. ([swb#18](https://github.com/hitobito/hitobito_swb/issues/18))
 
 ## Weitere Funktionen
-- Bei Events lässt sich neu einschränken, welche Kontaktdaten der Ansprechperson im Anmeldeformular sichtbar sind. (sww#194)
+- Bei Events lässt sich neu einschränken, welche Kontaktdaten der Ansprechperson im Anmeldeformular sichtbar sind. ([sww#194](https://github.com/hitobito/hitobito_sww/issues/194))
 - Bei Anlassanmeldungen steht neu ein Button „Personenprofil anzeigen“ zur Verfügung. Bei entsprechender Berechtigung kann so direkt zur Personennummer gesprungen werden. ([#3402](https://github.com/hitobito/hitobito/issues/3402))
 
 ## Technische Anpassungen
 - Beim Erstellen einer neuen Person oder beim Zuweisen einer Rolle wird neu automatisch das aktuelle Tagesdatum als Startdatum vorausgefüllt. ([#3204](https://github.com/hitobito/hitobito/issues/3204))
-- Beim Zusammenführen von Dubletten werden nun mehr Attribute berücksichtigt – neu auch Rechnungen, Mahnungen, Eventrollen, Familienmitglieder, Qualifikationen, Tags und Notizen. (sww#138 & sww#139)
-- In der Rechnungsübersicht wird neu die Anzahl der vom aktuellen Filter erfassten Rechnungen angezeigt. (sww#239)
-- Der Empfangsschein von Rechnungen enthält neu auch die Referenznummer. (sww#238)
-- Alle systemgenerierten Rechnungstexte, die nicht individuell angepasst wurden, werden neu konsequent in der Sprache des Rechnungsempfängers dargestellt. (sww#210)
-- Rechnungen in einer Sammelrechnung werden jetzt immer gemäss der aktuellen Sortierung exportiert. (sww#237)
-- Teilnehmerlisten von Anlässen tragen nun den Titel des Anlasses, öffnen sich in einem separaten Tab und listen Namen neu im Format „Nachname Vorname“ – analog zur alphabetischen Sortierung. (sww#205)
-- Die Anmeldemaske zu Events wurde überarbeitet: Der Event-Link wird nicht mehr angezeigt; bei abgelaufener Frist oder ausgebuchtem Anlass erscheint eine entsprechende Meldung. Die Icons der An- und Abmeldebuttons wurden aktualisiert. (sww#207)
-- Mails aus Anlassanmeldungen werden neu immer in der Sprache des Empfängers versendet. (sww#240)
-- Eventfragen werden nun alphabetisch sortiert. (sac_cas#1698)
-- Erstlogin-E-Mails werden ebenfalls konsequent in der Sprache der empfangenden Person verschickt. (sww#203)
-- In der Rechnungsübersicht bei Sammelrechnungen werden neu sowohl der Titel als auch die Empfänger:innen angezeigt. (sww#209)
+- Beim Zusammenführen von Dubletten werden nun mehr Attribute berücksichtigt – neu auch Rechnungen, Mahnungen, Eventrollen, Familienmitglieder, Qualifikationen, Tags und Notizen. ([sww#138](https://github.com/hitobito/hitobito_sww/issues/138) & [sww#139](https://github.com/hitobito/hitobito_sww/issues/139))
+- In der Rechnungsübersicht wird neu die Anzahl der vom aktuellen Filter erfassten Rechnungen angezeigt. ([sww#239](https://github.com/hitobito/hitobito_sww/issues/239))
+- Der Empfangsschein von Rechnungen enthält neu auch die Referenznummer. ([sww#238](https://github.com/hitobito/hitobito_sww/issues/238))
+- Alle systemgenerierten Rechnungstexte, die nicht individuell angepasst wurden, werden neu konsequent in der Sprache des Rechnungsempfängers dargestellt. ([sww#210](https://github.com/hitobito/hitobito_sww/issues/210))
+- Rechnungen in einer Sammelrechnung werden jetzt immer gemäss der aktuellen Sortierung exportiert. ([sww#237](https://github.com/hitobito/hitobito_sww/issues/237))
+- Teilnehmerlisten von Anlässen tragen nun den Titel des Anlasses, öffnen sich in einem separaten Tab und listen Namen neu im Format „Nachname Vorname“ – analog zur alphabetischen Sortierung. ([sww#205](https://github.com/hitobito/hitobito_sww/issues/205))
+- Die Anmeldemaske zu Events wurde überarbeitet: Der Event-Link wird nicht mehr angezeigt; bei abgelaufener Frist oder ausgebuchtem Anlass erscheint eine entsprechende Meldung. Die Icons der An- und Abmeldebuttons wurden aktualisiert. ([sww#207](https://github.com/hitobito/hitobito_sww/issues/207))
+- Mails aus Anlassanmeldungen werden neu immer in der Sprache des Empfängers versendet. ([sww#240](https://github.com/hitobito/hitobito_sww/issues/240))
+- Eventfragen werden nun alphabetisch sortiert. . ([sac_cas#1698](https://github.com/hitobito/hitobito_sac_cas/issues/1698))
+- Erstlogin-E-Mails werden ebenfalls konsequent in der Sprache der empfangenden Person verschickt. ([sww#203](https://github.com/hitobito/hitobito_sww/issues/203))
+- In der Rechnungsübersicht bei Sammelrechnungen werden neu sowohl der Titel als auch die Empfänger:innen angezeigt. ([sww#209](https://github.com/hitobito/hitobito_sww/issues/209))
 
 ## Bugfixes
 - Bei allen Dropdowns zur Länderauswahl werden wieder sämtliche Optionen korrekt angezeigt. ([#3364](https://github.com/hitobito/hitobito/issues/3364))
