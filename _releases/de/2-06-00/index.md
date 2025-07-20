@@ -9,7 +9,6 @@ lang: de
 ## Versand von E-Mails
 - E-Mail-Bounces sind neu in Hitobito sichtbar. Auf Abonnements ist ersichtlich, welche E-Mail-Adressen Bounces ausgelöst haben. Generiert eine Adresse mehrfach eine Rückmeldung, wird der Versand an diese künftig unterbunden. Betroffene Adressen sind unter Einstellungen > Mails ersichtlich und zusätzlich auf den jeweiligen Personenprofilen gekennzeichnet. ([#3053](https://github.com/hitobito/hitobito/issues/3053))
 
-
 ## Rechnungen
 - Zusätzliche E-Mail-Adressen können nun als Rechnungsempfänger markiert werden. Sind solche markierten Adressen vorhanden, werden Rechnungen und Mahnungen ausschliesslich an diese – anstelle der Hauptadresse – versendet. ([#3331](https://github.com/hitobito/hitobito/issues/3331))
 - In den Rechnungseinstellungen können nun pro Layer individuelle E-Mail-Texte definiert werden. Wenn vorhanden, ersetzen diese die globalen Standardtexte. ([sww#197](https://github.com/hitobito/hitobito_sww/issues/197))
