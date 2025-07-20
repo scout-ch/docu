@@ -21,7 +21,7 @@ lang: it
 - I testi di sollecito per le fatture possono ora essere inseriti in più lingue. Vengono inviati nella lingua della persona da sollecitare. ([sww#198](https://github.com/hitobito/hitobito_sww/issues/198))
 - Nelle impostazioni della fattura è ora possibile specificare un riferimento QR per le banche. Il riferimento QR sostituisce le prime cinque-sette cifre del numero di riferimento sulle fatture. ([#3032](https://github.com/hitobito/hitobito/issues/3032))
 
-## Ulteriori adeguamenti
+## Ulteriori funzioni
 - Le voci nella cronologia di una persona sono ora ordinate cronologicamente. ([sac_cas#1638](https://github.com/hitobito/hitobito_sac_cas/issues/1638))
 - Gli attributi di indirizzo introdotti con la versione 2.4.0 sono ora correttamente inclusi anche nelle esportazioni di persone. ([#3144](https://github.com/hitobito/hitobito/issues/3144))
 - Se la ricerca globale viene confermata con Invio e si ottiene esattamente un risultato, ora si viene reindirizzati direttamente alla pagina corrispondente invece di visualizzare i risultati della ricerca. ([#3149](https://github.com/hitobito/hitobito/issues/3149))
