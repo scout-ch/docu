@@ -12,6 +12,14 @@ Dal rilascio del 9 gennaio 2024, è possibile registrare i genitori o i tutori i
 
 **Utilizziamo il termine "tutori legali" con l'abbreviazione "TL" perché non sempre sono i genitori ad amministrare i loro figli: Infatti, potrebbe anche essere una sorella o uno zio che autorizzi ad amministrare un bambino.** Tuttavia, puoi anche pensare ai genitori se questo è più appropriato per te nella sezione. In MiData, i campi si chiamano "Gestore" e "Bambini".
 
+## Processo di registrazione dei TL nel reparto
+Il team MiData mette a disposizione i seguenti documenti per semplificare l’attivazione dell’accesso genitori nella tua sezione.
+
+- [Processo di accesso genitori (PDF)](/assets/articles/Elternzugang-Prozess_IT.pdf) – questa è la procedura raccomandata dal team MiData
+- [Guida accesso genitori (Word)](/assets/articles/Elternzugang_IT.docx) – questa guida può essere adattata liberamente per la tua sezione e inviata ai TL.
+
+In caso di domande, contatta il tuo PowerUser in
+
 ## Inserisci l'TL nel reparto
 Hai presente la situazione in cui l'indirizzo e-mail del genitore viene inserito per un figlio? Allora sei nel posto giusto! Qui puoi leggere come inserire i tutori legali nella tua sezione senza creare caos.
 

@@ -12,6 +12,14 @@ Depuis la version du 9 janvier 2024, il est possible de saisir les parents ou tu
 
 **Nous utilisons le terme de tuteurs légaux avec l'abréviation "TL", car ce ne sont pas toujours les parents qui administrent leurs enfants.** En fait, ce pourrait être une sœur ou un oncle que tu autorises à administrer un enfant. Mais tu peux aussi penser aux parents, si c'est plus approprié pour toi dans ton département. Dans MiData, les champs s'appellent "gérants" et "enfants".
 
+## Processus de saisie des TL dans le département
+L'équipe MiData met à disposition les documents suivants pour faciliter l'établissement de l'accès des parents dans ton département.
+
+- [Processus d'accès parents (PDF)](/assets/articles/Elternzugang-Prozess_FR.pdf) – voici la procédure recommandée par l'équipe MiData
+- [Guide d'accès parents (Word)](/assets/articles/Elternzugang_FR.docx) – ce guide peut être adapté librement pour ta section et transmis aux TL.
+
+En cas de questions, n'hésite pas à contacter ton
+
 ## Saisir TL dans le département
 Si jusqu'à présent tu as souvent saisi l'adresse e-mail des parents pour leurs enfants, tu es au bon endroit ! Tu peux lire ici comment saisir les parents dans ta section sans créer de chaos.
 

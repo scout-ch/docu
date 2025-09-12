@@ -12,6 +12,14 @@ Seit dem Release vom 9. Januar 2024 ist es möglich, Eltern oder Erziehungsberec
 
 **Wir verwenden den Begriff Erziehungsberechtigte\*r mit der Abkürzung "EB", weil es nicht immer die Eltern sind, die ihre Kinder administrieren.** Tatsächlich könnte es auch eine Schwester oder ein Onkel sein, die du berechtigst, ein Kind zu verwalten. Du kannst dabei aber auch an Eltern denken, wenn das bei dir in der Abteilung besser zutrifft. In der MiData heissen die Felder "Verwalter\*innen" und "Kinder".
 
+## Prozess EB in Abteilung erfassen
+Das Team MiData stellt folgende Dokumente zur Verfügung, um dir die Etablierung des Elternzugangs in deiner Abteilung zu vereinfachen.
+
+- [Elternzugang-Prozess (PDF)](/assets/articles/Elternzugang-Prozess_DE.pdf) - so empfiehlt das Team MiData vorzugehen
+- [Elternzugang Anleitung (Word)](/assets/articles/Elternzugang_DE.docx) - diese Anleitung kannst du beliebig für deine Abteilung anpassen und den EB zukommen lassen.
+
+Bei Fragen melde dich bitte jederzeit bei deinem PowerUser.
+
 ## EB in der Abteilung erfassen
 Wenn du bisher häufig die E-Mail-Adresse der Eltern für ihre Kinder eingetragen hast, bist du hier genau richtig! Hier kannst du nachlesen, wie du in deiner Abteilung Erziehungsberechtigte erfassen kannst, ohne ein Chaos zu veranstalten.
 
