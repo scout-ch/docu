@@ -19,3 +19,4 @@ Si tu veux utiliser MiData comme fournisseur OAuth pour l'une de tes application
 * [Instructions Joomla! OAuth](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf)
 * [Instructions WordPress OAuth](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/817/wordpress-oauth-instructions/)
 * [Instructions Nextcloud OAuth](https://pfadi.swiss/fr/publications-telechargements/downloads/detail/889/instructions-nextcloud-oauth/)
+* [Grav CMS](https://github.com/stabiliora/grav-plugin-login-oauth2-hitobito)
