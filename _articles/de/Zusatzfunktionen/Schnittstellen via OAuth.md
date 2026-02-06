@@ -26,3 +26,4 @@ Für einige Applikationen existieren Plugins, welche die Implementierung des Log
 * [Joomla! OAuth Plugin](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf)
 * [WordPress OAuth Plugin](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/817/wordpress-oauth-anleitung/)
 * [Nextcloud OAuth Plugin](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/889/nextcloud-oauth-anleitung/)
+* [Grav CMS](https://github.com/stabiliora/grav-plugin-login-oauth2-hitobito)
