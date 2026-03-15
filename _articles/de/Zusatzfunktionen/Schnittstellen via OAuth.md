@@ -23,7 +23,10 @@ Wenn du die MiData als OAuth-Provider für deiner Applikationen verwenden willst
 
 ### Verfügbare OAuth Plugins
 Für einige Applikationen existieren Plugins, welche die Implementierung des Logins via OAuth-API für dich machen. Folgend die Anleitungen, wie diese Plugins installiert und eingerichtet werden müssen:
-* [Joomla! OAuth Plugin](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf)
-* [WordPress OAuth Plugin](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/817/wordpress-oauth-anleitung/)
-* [Nextcloud OAuth Plugin](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/889/nextcloud-oauth-anleitung/)
-* [Grav CMS](https://github.com/stabiliora/grav-plugin-login-oauth2-hitobito)
+
+Plugin | Dokumentation | Download
+--- | --- | ---
+Joomla! | [PDF](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf) | [Website](https://tech.spuur.ch/de/downloads/download/2-joomla-extensions/10-hitobito-authentication-plugin.html)
+WordPress | [PDF](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/817/wordpress-oauth-anleitung/) | [GitHub](https://github.com/scout-ch/wp-hitobito-auth)
+Nextcloud | [PDF](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/889/nextcloud-oauth-anleitung/) | [Plugin Store](https://apps.nextcloud.com/apps/sociallogin)
+Grav CMS | PDF | [GitHub](https://github.com/stabiliora/grav-plugin-login-oauth2-hitobito)
