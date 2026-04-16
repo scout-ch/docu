@@ -25,6 +25,6 @@ Das amtliche Geschlecht bleibt ein Pflichtfeld ("männlich" oder "weiblich"), um
 - Auf Integrationsumgebungen wird neu ein farbiges Banner angezeigt. ([#3702](https://github.com/hitobito/hitobito/issues/3702))
 - Beim CSV-Import neuer Personen kann neu auch das Startdatum der Rolle mit importiert werden. ([#3730](https://github.com/hitobito/hitobito/issues/3730))
 
-## Bugfices
+## Bugfixes
 - Kursfilter funktionieren wieder wie vorgesehen. ([jubla#192](https://github.com/hitobito/hitobito_jubla/issues/192))
 - Die Synchronisation zu Mailchimp wurde für abgemeldete (unsubscribed) Adressen verbessert.
