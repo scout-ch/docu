@@ -13,16 +13,9 @@ lang: fr
 -   Dans l'API, les paramètres d'envoi et de facturation sont désormais également fournis pour les adresses e-mail supplémentaires. Merci [@B52-Bomber](https://github.com/B52-Bomber) ! ([hitobito#4044](https://github.com/hitobito/hitobito/issues/4044))
 -   L'inscription de nouveaux utilisateurs est désormais également possible via l'API. Cela permet de programmer des formulaires d'inscription externes. Les règles sont les mêmes que pour l'auto-inscription directement dans l'interface utilisateur hitobito. À cette fin, la politique de confidentialité et le consentement des tuteurs légaux ont également été mis à disposition dans l'API ([hitobito#3440](https://github.com/hitobito/hitobito/issues/3440))
 
-### Factures
--   Il est désormais possible, si cette fonctionnalité est activée, de créer des factures groupées. Celles-ci peuvent être utilisées pour envoyer des cycles de facturation récurrents à des groupes, avec des montants calculés en fonction du nombre de rôles actifs au sein du groupe de destinataires concerné pendant une période de facturation spécifique. ([hitobito#3610](https://github.com/hitobito/hitobito/issues/3610))
-
 ### Camps / Cours / Événements
 -   Options de filtrage pour les événements ([hitobito\_sac\_cas#2367](https://github.com/hitobito/hitobito_sac_cas/issues/2367))
 -   Dans les événements, les cuisiniers peuvent désormais consulter les informations supplémentaires des participants, et les responsables peuvent également afficher le niveau principal des participants dans la liste ([hitobito#4027](https://github.com/hitobito/hitobito/issues/4027))
-
-### Groupes
--   Une langue de correspondance peut désormais être sélectionnée pour tous les groupes. Celle-ci est utilisée lorsque des factures sont adressées au groupe. ([hitobito#3879](https://github.com/hitobito/hitobito/issues/3879))
--   Les groupes disposent désormais d'un onglet affichant toutes les factures qui leur ont été envoyées directement ([hitobito#3856](https://github.com/hitobito/hitobito/issues/3856))
 
 
 ## Modifications

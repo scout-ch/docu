@@ -13,16 +13,9 @@ lang: de
 -   In der API werden bei weiteren Mailadressen neu auch die Einstellungen zu Versand und Rechnungen ausgegeben. Merci [@B52-Bomber](https://github.com/B52-Bomber)! ([hitobito#4044](https://github.com/hitobito/hitobito/issues/4044))
 -   Die Registrierung neuer Personen ist neu auch via API möglich. Dies erlaubt es, externe Anmeldeformulare zu programmieren. Die Spielregeln sind dabei dieselben wie bei der Selbstregistrierung direkt im hitobito UI. Dazu wurden auch die Datenschutzerklärung und Einverständnis von Erziehungsberechtigten in der API verfügbar gemacht ([hitobito#3440](https://github.com/hitobito/hitobito/issues/3440))
 
-### Rechnungen
--   Es können jetzt, falls aktiviert, Sammelrechnungen erfasst werden. Diese können verwendet werden, um wiederholbare Rechnungsläufe an Gruppen zu versenden, mit berechneten Beträgen basierend auf der Anzahl Rollen, die während einer spezifischen Rechnungseriode in der jeweiligen Empfängergruppe aktiv waren. ([hitobito#3610](https://github.com/hitobito/hitobito/issues/3610))
-
 ### Lager / Kurse / Events
 -   Filtermöglichkeiten auf Anlässen ([hitobito\_sac\_cas#2367](https://github.com/hitobito/hitobito_sac_cas/issues/2367))
 -   In Anlässen können Köche neu die Zusätzlichen Angaben der Teilnehmenden einsehen, und die Leitung kann die Hauptebene der Teilnehmenden auch in der Liste anzeigen ([hitobito#4027](https://github.com/hitobito/hitobito/issues/4027))
-
-### Gruppen
--   Auf allen Gruppen kann neu eine Korrespondenzsprache gewählt werden. Diese wird verwendet, wenn Rechnungen an die Gruppe gestellt werden. ([hitobito#3879](https://github.com/hitobito/hitobito/issues/3879))
--   Gruppen haben neu ein Tab welches alle Rechnungen anzeigt, die direkt an diese Gruppe gesendet wurden ([hitobito#3856](https://github.com/hitobito/hitobito/issues/3856))
 
 
 ## Changes

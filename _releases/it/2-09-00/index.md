@@ -13,16 +13,9 @@ lang: it
 -   Nell'API vengono ora visualizzate anche le impostazioni relative alla spedizione e alle fatture per gli indirizzi e-mail aggiuntivi. Grazie [@B52-Bomber](https://github.com/B52-Bomber)! ([hitobito#4044](https://github.com/hitobito/hitobito/issues/4044))
 -   La registrazione di nuovi utenti è ora possibile anche tramite API. Ciò consente di programmare moduli di registrazione esterni. Le regole sono le stesse dell'autoregistrazione direttamente nell'interfaccia utente di hitobito. A tal fine, anche l'informativa sulla privacy e il consenso dei genitori o dei tutori legali sono stati resi disponibili nell'API ([hitobito#3440](https://github.com/hitobito/hitobito/issues/3440))
 
-### Fatture
--   Ora è possibile, se attivata, registrare fatture collettive. Queste possono essere utilizzate per inviare cicli di fatturazione ricorrenti a gruppi, con importi calcolati in base al numero di ruoli attivi nel rispettivo gruppo di destinatari durante un determinato periodo di fatturazione. ([hitobito#3610](https://github.com/hitobito/hitobito/issues/3610))
-
 ### Campi / Corsi / Eventi
 -   Opzioni di filtro per gli eventi ([hitobito\_sac\_cas#2367](https://github.com/hitobito/hitobito_sac_cas/issues/2367))
 -   Negli eventi, i cuochi possono ora visualizzare le informazioni aggiuntive dei partecipanti e la direzione può anche visualizzare il livello principale dei partecipanti nell'elenco ([hitobito#4027](https://github.com/hitobito/hitobito/issues/4027))
-
-### Gruppi
--   In tutti i gruppi è ora possibile selezionare una lingua di corrispondenza. Questa verrà utilizzata quando le fatture vengono inviate al gruppo. ([hitobito#3879](https://github.com/hitobito/hitobito/issues/3879))
--   I gruppi dispongono ora di una scheda che mostra tutte le fatture inviate direttamente a quel gruppo ([hitobito#3856](https://github.com/hitobito/hitobito/issues/3856))
 
 
 ## Modifiche
