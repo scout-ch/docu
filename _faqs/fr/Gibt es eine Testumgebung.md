@@ -39,7 +39,7 @@ Attention: tu dois taper un code 2FA lorsque tu te connectes avec le compte admi
 
 Les e-mails de l'environnement de test ne sont pas livrés, mais rassemblés dans une boîte aux lettres centrale. En accédant à Mailtrap, tu peux aussi créer ton propre compte de test (ou plusieurs).
 
-Lien : https://mailtrap.io
-Nom d'utilisateur : hitobito-pbs ( at ) puzzle.ch
-Mot de passe : XydDHtAqZIQh7igTD
-2FA: TOTP-Code XOKUUE4SEROJWI2S2TS6SFT5VPMN6UPN, [QR-Code](https://pfadi.swiss/media/files/11/2fa_midata_integration_puzzle_mailtrap.png)
+Lien : [https://mailtrap.io](https://mailtrap.io/sandboxes/1151172/) \
+Nom d'utilisateur : midata-mailtrap ( at ) pbs.ch \
+Mot de passe : Z0#V2Pk*L%K&WXtm \
+2FA: TOTP-Code `PZ5VGOMRJFOPR3LOVKH2UNAXGXZZ3Q7K` oder via [QR-Code](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/2fa_midata_integration_puzzle_mailtrap.png)
