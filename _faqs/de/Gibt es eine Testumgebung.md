@@ -40,7 +40,7 @@ Für den Login als Admin oder Abteilungsleiter\*in brauchst du einen 2FA-Code. D
 
 Die Mails aus der Testumgebung werden nicht ausgeliefert, sondern in einer zentralen Mailbox gesammelt. Mit dem Zugriff auf Mailtrap kannst du dir auch einen (oder mehrere) eigene Testaccounts anlegen.
 
-Link: https://mailtrap.io
-Benutzername: hitobito-pbs ( at ) puzzle.ch
-Passwort: XydDHtAqZIQh7igTD
-2FA: TOTP-Code XOKUUE4SEROJWI2S2TS6SFT5VPMN6UPN oder via [QR-Code](https://pfadi.swiss/media/files/11/2fa_midata_integration_puzzle_mailtrap.png)
+Link: [https://mailtrap.io](https://mailtrap.io/sandboxes/1151172/) \
+Benutzername: midata-mailtrap ( at ) pbs.ch \
+Passwort: Z0#V2Pk*L%K&WXtm \
+2FA: TOTP-Code `PZ5VGOMRJFOPR3LOVKH2UNAXGXZZ3Q7K` oder via [QR-Code](https://raw.githubusercontent.com/scout-ch/docu/master/images/faqs/2fa_midata_integration_puzzle_mailtrap.png)
