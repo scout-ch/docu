@@ -1,8 +1,6 @@
-version: '3.8'
-
 services:
   app:
-    image: 'ruby:2.6'
+    image: 'ruby:3'
     environment:
       BUNDLE_PATH: /app/vendor/bundle
       GEM_HOME: /usr/local/bundle
@@ -18,4 +16,3 @@ services:
 volumes:
   bundle:
   gems:
-
