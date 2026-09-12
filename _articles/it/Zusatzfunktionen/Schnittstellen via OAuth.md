@@ -18,6 +18,7 @@ Se vuoi utilizzare MiData come provider OAuth per una delle tue applicazioni, de
 * [Applicazione OAuth](https://forms.cloud.microsoft/e/926Aw4Seh0)
 
 ### Istruzioni specifiche
+
 Plugin | Documentazione | Scarica
 --- | --- | ---
 Joomla! | [PDF](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf) | [Website](https://tech.spuur.ch/de/downloads/download/2-joomla-extensions/10-hitobito-authentication-plugin.html)
