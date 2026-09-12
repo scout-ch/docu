@@ -22,6 +22,6 @@ Se vuoi utilizzare MiData come provider OAuth per una delle tue applicazioni, de
 Plugin | Documentazione | Scarica
 --- | --- | ---
 Joomla! | [PDF](https://tech.spuur.ch/files/pdf/joomla-oauth-anleitung.pdf) | [Website](https://tech.spuur.ch/de/downloads/download/2-joomla-extensions/10-hitobito-authentication-plugin.html)
-WordPress | [PDF](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/817/wordpress-oauth-anleitung/) | [GitHub](https://github.com/scout-ch/wp-hitobito-auth)
-Nextcloud | [PDF](https://pfadi.swiss/de/publikationen-downloads/downloads/detail/889/nextcloud-oauth-anleitung/) | [Plugin Store](https://apps.nextcloud.com/apps/sociallogin)
+WordPress | [PDF](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/817/wordpress-oauth-istruzioni/) | [GitHub](https://github.com/scout-ch/wp-hitobito-auth)
+Nextcloud | [PDF](https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/889/istruzioni-nextcloud-oauth/) | [Plugin Store](https://apps.nextcloud.com/apps/sociallogin)
 Grav CMS | PDF | [GitHub](https://github.com/stabiliora/grav-plugin-login-oauth2-hitobito)
