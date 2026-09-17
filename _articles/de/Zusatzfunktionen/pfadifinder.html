@@ -1,0 +1,91 @@
+---
+title: "Pfadifinder Einbettung"
+categories: 3_Zusatzfunktionen
+cat_sort: D
+relevance: Webmaster
+slug: article-17
+lang: de
+date: 17.09.2026
+---
+
+<section>
+    <p>
+        Den Pfadi-Finder kann man per iFrame auf Webseiten einbetten. Kartenausschnitt, Farbe und Schrift sind individuell anpassbar. 
+        Entwickelt wurde dieses Format, damit Kantonalverbände auf ihren Webseiten eine Übersicht über die Pfadiabteilungen in ihrem Kanton 
+        darstellen können, ohne grossen Programmieraufwand und passend zu ihrem Design.
+    </p>
+
+    <p>
+        Auf der Seite, auf welcher der Finder verwendet werden soll, muss <strong>zwingend</strong> ein iFrame
+        eingefügt werden können. Damit sich das iFrame richtig verhält, empfiehlt es sich, auch das
+        kleine JavaScript via „&lt;script&gt;“ Tag einzubauen.
+    </p>
+</section>
+
+<section>
+    <h2>Einbettung</h2>
+    <script src="https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js"></script>
+    
+    <iframe id="finder-embed" style="padding: 40px 0; max-width: 1400px" width=100% frameborder=0
+        src="https://pfadi.swiss/de/finder-embed/?bg=eee&init_center=46.8367988,7.5012281&init_zoom=9.8&red=8C3C4F&red_dark=64284A"></iframe>
+    
+    <script>
+        iFrameResize({
+            // log: true,
+            'heightCalculationMethod': 'lowestElement',
+        }, '#finder-embed')
+    </script>
+</section>
+
+
+
+<section>
+    <h2>Code</h2>
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span>
+        <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js</span><span class="dl">"</span>
+    <span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;iframe</span> 
+        <span class="na">id=</span><span class="s">"finder-embed"</span> 
+        <span class="na">style=</span><span class="s">"padding: 40px 0; max-width: 1400px"</span>
+        <span class="na">width=</span><span class="s">100%</span> <span class="na">frameborder=</span><span class="s">0</span>
+        <span class="na">src=</span><span class="s">"https://pfadi.swiss/de/finder-embed/?bg=eee&amp;init_center=46.8367988,7.5012281&amp;init_zoom=9.8&amp;red=8C3C4F&amp;red_dark=64284A"</span>
+    <span class="nt">&gt;&lt;/iframe&gt;</span>
+    </code></pre></div></div>
+
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
+    <span class="nx">iFrameResize</span><span class="p">({</span>
+        <span class="c1">// log: true,</span>
+        <span class="dl">'</span><span class="s1">heightCalculationMethod</span><span class="dl">'</span><span class="p">:</span> <span class="dl">'</span><span class="s1">lowestElement</span><span class="dl">'</span><span class="p">,</span> 
+        <span class="p">},</span> <span class="dl">'</span><span class="s1">#finder-embed</span><span class="dl">'</span><span class="p">)</span>
+    <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+<section>
+
+
+<section>
+    <h2>Attribute</h2>
+    <p>
+        Das "style" Attribut auf dem iFrame ist optional und docu.scout.ch spezifisch, damit sich der Finder
+        besser einfügt. In der Grundkonfiguration hat das eingefügte iFrame keine Abstände
+        oben/unten/links/rechts. Mit der URL und den GET Parametern wird das iFrame konfiguriert:
+    </p>
+    <ul>
+        <li>bg = Hintergrundfarbe</li>
+        <li>red = Schrift/helleres Rot</li>
+        <li>red_dark = dunkleres Rot</li>
+        <li>init_center = Zentrum der Karte</li>
+        <li>init_zoom = initialer Zoom</li>
+    </ul>
+
+    <p>
+        Der iFrameresizer ist fast ein Muss - wenn er nicht verwendet werden kann, muss die Höhe des
+        iFrames fix angegeben werden. Das kann zu Schwierigkeiten führen, wenn nach dem Finder
+        noch weitere Inhalte kommen. Wenn es nicht funktioniert, kann "log: true" aktiviert werden.
+    </p>
+</section>
+
+<section>
+    <a href="https://pfadi.swiss/de/publikationen-downloads/downloads/detail/862/anleitung-pfadifinder-einbetten/">https://pfadi.swiss/de/publikationen-downloads/downloads/detail/862/anleitung-pfadifinder-einbetten/</a>
+</section>

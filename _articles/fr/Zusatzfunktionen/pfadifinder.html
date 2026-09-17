@@ -1,0 +1,92 @@
+---
+title: "Intégration du moteur de recherche scout"
+categories: "3_Fonctions&nbsp;Supplémentaires"
+cat_sort: D
+relevance: Webmaster
+slug: article-17
+lang: fr
+date: 17.09.2026
+---
+
+<section>
+    <p>
+        Il est désormais possible d'intégrer le localisateur de groupes scouts sur des pages web, grâce au marqueur iFrame. 
+        L'extrait de carte, la couleur et la police de caractère sont personnalisables. Ce format a été développé pour les 
+        associations cantonales ; il leur permet de présenter sur leur site internet une vue d'ensemble des groupes scouts 
+        de leur canton, sans grand effort de programmation et en accord avec leur style de site. 
+    </p>
+
+    <p>
+        La page où le localisateur doit pouvoir inclure un iFrame. 
+        Aussi pour que l'iFrame se comporte correctement, il est recommandé d'intégrer également 
+        le petit code JavaScript ci-plus bas, via la balise „&lt;script&gt;“. 
+    </p>
+</section>
+
+<section>
+    <h2>Implémentation</h2>
+    <script src="https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js"></script>
+    
+    <iframe id="finder-embed" style="padding: 40px 0; max-width: 1400px" width=100% frameborder=0
+        src="https://pfadi.swiss/de/finder-embed/?bg=eee&init_center=46.8367988,7.5012281&init_zoom=9.8&red=8C3C4F&red_dark=64284A"></iframe>
+    
+    <script>
+        iFrameResize({
+            // log: true,
+            'heightCalculationMethod': 'lowestElement',
+        }, '#finder-embed')
+    </script>
+</section>
+
+
+
+<section>
+    <h2>Code</h2>
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span>
+        <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js</span><span class="dl">"</span>
+    <span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;iframe</span> 
+        <span class="na">id=</span><span class="s">"finder-embed"</span> 
+        <span class="na">style=</span><span class="s">"padding: 40px 0; max-width: 1400px"</span>
+        <span class="na">width=</span><span class="s">100%</span> <span class="na">frameborder=</span><span class="s">0</span>
+        <span class="na">src=</span><span class="s">"https://pfadi.swiss/de/finder-embed/?bg=eee&amp;init_center=46.8367988,7.5012281&amp;init_zoom=9.8&amp;red=8C3C4F&amp;red_dark=64284A"</span>
+    <span class="nt">&gt;&lt;/iframe&gt;</span>
+    </code></pre></div></div>
+
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
+    <span class="nx">iFrameResize</span><span class="p">({</span>
+        <span class="c1">// log: true,</span>
+        <span class="dl">'</span><span class="s1">heightCalculationMethod</span><span class="dl">'</span><span class="p">:</span> <span class="dl">'</span><span class="s1">lowestElement</span><span class="dl">'</span><span class="p">,</span> 
+        <span class="p">},</span> <span class="dl">'</span><span class="s1">#finder-embed</span><span class="dl">'</span><span class="p">)</span>
+    <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+<section>
+
+
+<section>
+    <h2>Paramètres</h2>
+    <p>
+        L'attribut "style" de l'iFrame est optionnel et spécifique à bnzk (la société hébergeant le code), 
+        afin que le localisateur s'intègre mieux au site. Dans la configuration de base, 
+        l'iFrame insérée n'a pas de marges haut/bas/gauche/droite. L'URL et les paramètres GET permettent de configurer l'iFrame :  
+    </p>
+    <ul>
+        <li>bg = couleur d'arrière-plan</li>
+        <li>red = écriture/rouge plus clair</li>
+        <li>red_dark = rouge plus foncé</li>
+        <li>init_center = centre de la carte</li>
+        <li>init_zoom = zoom initial</li>
+    </ul>
+
+    <p>
+        L'iFrameresizer est souvent nécessaire - s'il ne peut pas être utilisé, la hauteur de l'iFrame 
+        doit être indiquée de manière fixe. Cela peut entraîner des difficultés si d'autres contenus viennent 
+        après le localisateur. Si cela ne fonctionne pas, on peut activer "log : true". 
+    </p>
+</section>
+
+<section>
+    <a href="https://pfadi.swiss/fr/publications-telechargements/downloads/detail/862/instructions-integrer-la-recherche-des-groupes/">https://pfadi.swiss/fr/publications-telechargements/downloads/detail/862/instructions-integrer-la-recherche-des-groupes/</a>
+</section>

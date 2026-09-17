@@ -1,0 +1,93 @@
+---
+title: "Incorpora il Trova-Scout"
+categories: 3_Funzioni&nbsp;supplementari
+cat_sort: D
+relevance: Webmaster
+slug: article-17
+lang: it
+date: 17.09.2026
+---
+
+<section>
+    <p>
+        Il trova-scout ora si può incorporare nei siti web come iFrame. 
+        Sezione della mappa, colore e carattere possono essere regolati individualmente. 
+        Questo formato è stato sviluppato in modo che le associazioni cantonali possano presentare una panoramica delle sezioni scout del loro cantone
+        sui loro siti web senza un grande sforzo di programmazione e in linea con il loro design.
+    </p>
+
+    <p>
+
+        È <strong>necessario</strong> inserire un iFrame nella pagina in cui si intente utilizzare il trova-scout. 
+        Per fare in modo che iFrame si comporti nel modo giusto si consiglia di incorporare anche il 
+        piccolo JavaScript tramite il tag „&lt;script&gt;“.
+    </p>
+</section>
+
+<section>
+    <h2>Incorpora</h2>
+    <script src="https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js"></script>
+    
+    <iframe id="finder-embed" style="padding: 40px 0; max-width: 1400px" width=100% frameborder=0
+        src="https://pfadi.swiss/de/finder-embed/?bg=eee&init_center=46.8367988,7.5012281&init_zoom=9.8&red=8C3C4F&red_dark=64284A"></iframe>
+    
+    <script>
+        iFrameResize({
+            // log: true,
+            'heightCalculationMethod': 'lowestElement',
+        }, '#finder-embed')
+    </script>
+</section>
+
+
+
+<section>
+    <h2>Codice</h2>
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span>
+        <span class="nx">src</span><span class="o">=</span><span class="dl">"</span><span class="s2">https://pfadi.swiss/static/pfadi/libs/iframe-resizer/js/iframeResizer.js</span><span class="dl">"</span>
+    <span class="o">&gt;&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+
+    <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;iframe</span> 
+        <span class="na">id=</span><span class="s">"finder-embed"</span> 
+        <span class="na">style=</span><span class="s">"padding: 40px 0; max-width: 1400px"</span>
+        <span class="na">width=</span><span class="s">100%</span> <span class="na">frameborder=</span><span class="s">0</span>
+        <span class="na">src=</span><span class="s">"https://pfadi.swiss/de/finder-embed/?bg=eee&amp;init_center=46.8367988,7.5012281&amp;init_zoom=9.8&amp;red=8C3C4F&amp;red_dark=64284A"</span>
+    <span class="nt">&gt;&lt;/iframe&gt;</span>
+    </code></pre></div></div>
+
+    <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">&lt;</span><span class="nx">script</span><span class="o">&gt;</span>
+    <span class="nx">iFrameResize</span><span class="p">({</span>
+        <span class="c1">// log: true,</span>
+        <span class="dl">'</span><span class="s1">heightCalculationMethod</span><span class="dl">'</span><span class="p">:</span> <span class="dl">'</span><span class="s1">lowestElement</span><span class="dl">'</span><span class="p">,</span> 
+        <span class="p">},</span> <span class="dl">'</span><span class="s1">#finder-embed</span><span class="dl">'</span><span class="p">)</span>
+    <span class="o">&lt;</span><span class="sr">/script</span><span class="err">&gt;
+    </span></code></pre></div></div>
+<section>
+
+
+<section>
+    <h2>Parametri</h2>
+    <p>
+        L’attributo «style» dell’iFrame è opzionale e specifico per il bnzk, per fare il modo che il trova-scout si inserisca meglio. 
+        Nella configurazione di base l’iFrame inserito non ha distanze aggiunte sopra/sotto/a sinistra/a destra. 
+        Con i parametri URL e GET viene configurato l’iFrame:
+    </p>
+    <ul>
+        <li>bg = colore dello sfondo</li>
+        <li>red = fonte/rosso chiaro</li>
+        <li>red_dark = rosso scuro</li>
+        <li>init_center = centro della mappa</li>
+        <li>init_zoom = zoom iniziale</li>
+    </ul>
+
+    <p>
+        ’Iframesizer è quasi un muss - chi non può utilizzarlo deve indicare in modo fisso l’altezza delle iFrames. 
+        Questo può portare a difficoltà se dopo il trova-scout ci sono ulteriori contenuti. 
+        Se non dovesse funzionare si può attivare «log: true».
+    </p>
+</section>
+
+<section>
+    <a href="https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/862/incorpra-il-trova-scout-nel-sito-web/">https://pfadi.swiss/it/pubblicazioni-downloads/downloads/detail/862/incorpra-il-trova-scout-nel-sito-web/</a>
+</section>
