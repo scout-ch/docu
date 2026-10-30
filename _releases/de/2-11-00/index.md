@@ -35,7 +35,7 @@ Bei jeder Anmeldeangabe kann nun ausgewählt werden, welche Rollen auf dem Event
 - **Zusätzliche Adressen:** Die Funktion für zusätzliche Adressen bei Personen und Gruppen ist neu aktiviert. (#4471)
 - **Kanton als neues Attribut:** Das Attribut «Kanton» steht neu zur Verfügung. Es erscheint ausschliesslich bei Hauptadressen, und nur wenn als Land die Schweiz ausgewählt ist. (oeku#12)
 - **Personensuche über ID:** In der globalen Suche lassen sich Personen neu auch anhand ihrer ID finden. (pfadi_de#50)
-- **Sicheres Löschen von Gruppen:** Um versehentliches Löschen zu verhindern, müssen Benutzer neu den Gruppennamen eingeben, bevor man eine Gruppe löschen kann. (#1976)
+- **Sicheres Löschen von Gruppen:** Um versehentliches Löschen zu verhindern, muss man neu den Gruppennamen eingeben, bevor man eine Gruppe löschen kann. (#1976)
 
 #### Events und Kurse
 
